@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:bml="http://efele.net/2010/ns/bml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Étude de femme</title>
+        <author key="Balzac, Honoré de (1799-1850)">Balzac</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>ÉFÉLÉ, réimprimeur la nuit</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><author>Balzac</author>, <title>La comédie humaine, édition Furne</title> « Étude de femme » <ref target="http://efele.net/ebooks/livres/000014">ÉFÉLÉ</ref>, <ref target="http://books.google.com/books?id=ZVoOAAAAQAAJ">Fac-simile</ref>, <ref target="http://catalogue.bnf.fr/ark:/12148/cb317564578">Notice BNF</ref>.
+            </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>Les erreurs orthographiques et typographiques de cette édition sont indiquées entre crochets : « accomplissant [accomplisant] » Toutefois, les orthographes normales pour l’époque ou pour Balzac (« collége », « long-temps ») ne sont pas corrigées.</p>
+      <p>Merci à Fred, Coolmicro, PatriceC, Nicolas Taffin, Inês Arigoni, Célia Tran Van Huong, Jean-Jacques Mure, Jean-Guy Le Duigou, Gabriel Cabos, Pierre Periac et plus particulièrement Jacques Quintallet pour les erreurs qu’ils ont signalées.</p>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date type="created" notBefore="1837" notAfter="1843"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div>
+<pb n="397"/>
+  <head>Étude de femme</head>
+
+<!--
+<h2 xmlns="http://efele.net/2010/ns/bml">DÉDIÉ AU MARQUIS JEAN-CHARLES DI NÈGRO.</h2>
+-->
+
+
+<p>La marquise de Listomère est une de ces jeunes femmes élevées dans l’esprit de la Restauration. Elle a des principes, elle fait maigre, elle communie, et va très-parée au bal, aux Bouffons, à l’Opéra ; son directeur lui permet d’allier le profane et le sacré. Toujours en règle avec l’église et avec le monde, elle offre une image du temps présent, qui semble avoir pris le mot de <hi rend="i">Légalité</hi> pour épigraphe. La conduite de la marquise comporte précisément assez de dévotion pour pouvoir arriver sous une nouvelle Maintenon à la sombre piété des derniers jours de Louis XIV, et assez de mondanité pour adopter également les mœurs galantes des premiers jours de ce règne, s’il revenait. En ce moment, elle est vertueuse par calcul, ou par goût peut-être. Mariée depuis sept ans au marquis de Listomère, un de ces députés qui attendent la pairie, elle croit peut-être aussi servir par sa conduite l’ambition de sa famille. Quelques femmes attendent pour la juger le moment où monsieur de Listomère sera pair de France, et où elle aura trente-six ans, époque de la vie où la plupart des femmes s’aperçoivent qu’elles sont dupes des lois sociales. Le marquis est un homme assez insignifiant : il est bien en cour, ses qualités sont négatives comme ses défauts ; les unes ne peuvent pas plus lui faire une réputation de vertu que les autres ne lui donnent l’espèce d’éclat jeté par les vices. Député, il ne parle jamais, mais il vote <hi rend="i">bien ;</hi> il se comporte dans son ménage comme à la Chambre. Aussi passe-t-il pour être <pb n="398"/>le meilleur mari de France. S’il n’est pas susceptible de s’exalter, il ne gronde jamais, à moins qu’on ne le fasse attendre. Ses amis l’ont nommé <hi rend="i">le temps couvert</hi>. Il ne se rencontre en effet chez lui ni lumière trop vive, ni obscurité complète. Il ressemble à tous les ministères qui se sont succédé en France depuis la Charte. Pour une femme à principes, il était difficile de tomber en de meilleures mains. N’est-ce pas beaucoup pour une femme vertueuse que d’avoir épousé un homme incapable de faire des sottises ? Il s’est rencontré des dandies qui ont eu l’impertinence de presser légèrement la main de la marquise en dansant avec elle, ils n’ont recueilli que des regards de mépris, et tous ont éprouvé cette indifférence insultante qui, semblable aux gelées du printemps, détruit le germe des plus belles espérances. Les beaux, les spirituels, les fats, les hommes à sentiment qui se nourrissent en tétant leurs cannes, ceux à grand nom ou à grosse renommée, les gens de haute et petite volée, auprès d’elle tout a blanchi. Elle a conquis le droit de causer aussi long-temps et aussi souvent qu’elle le veut avec les hommes qui lui semblent spirituels sans qu’elle soit couchée sur l’album de la médisance. Certaines femmes coquettes sont capables de suivre ce plan-là pendant sept ans pour satisfaire plus tard leurs fantaisies ; mais supposer cette arrière-pensée à la marquise de Listomère serait la calomnier. J’ai eu le bonheur de voir ce phénix des marquises : elle cause bien, je sais écouter, je lui ai plu, je vais à ses soirées. Tel était le but de mon ambition. Ni laide ni jolie, madame de Listomère a des dents blanches, le teint éclatant et les lèvres très-rouges ; elle est grande et bien faite ; elle a le pied petit, fluet, et ne l’avance pas ; ses yeux, loin d’être éteints, comme le sont presque tous les yeux parisiens, ont un éclat doux qui devient magique si par hasard elle s’anime. On devine une âme à travers cette forme indécise. Si elle s’intéresse à la conversation, elle y déploie une grâce ensevelie sous les précautions d’un maintien froid, et alors elle est charmante. Elle ne veut pas de succès et en obtient. On trouve toujours ce qu’on ne cherche pas. Cette phrase est trop souvent vraie pour ne pas se changer un jour en proverbe. Ce sera la moralité de cette aventure, que je ne me permettrais pas de raconter, si elle ne retentissait en ce moment dans tous les salons de Paris.</p>
+
+<p>La marquise de Listomère a dansé, il y a un mois environ, avec un jeune homme aussi modeste qu’il est étourdi, plein de bonnes <pb n="399"/>qualités, et ne laissant voir que ses défauts ; il est passionné et se moque des passions ; il a du talent et il le cache ; il fait le savant avec les aristocrates et fait de l’aristocratie avec les savants. Eugène de Rastignac est un de ces jeunes gens très-sensés qui essaient de tout, et semblent tâter les hommes pour savoir ce que porte l’avenir. En attendant l’âge de l’ambition, il se moque de tout ; il a de la grâce et de l’originalité, deux qualités rares parce qu’elles s’excluent l’une l’autre. Il a causé sans préméditation de succès avec la marquise de Listomère, pendant une demi-heure environ. En se jouant des caprices d’une conversation qui, après avoir commencé à l’opéra de <hi rend="i">Guillaume-Tell</hi>, en était venue aux devoirs des femmes, il avait plus d’une fois regardé la marquise de manière à l’embarrasser ; puis il la quitta et ne lui parla plus de toute la soirée ; il dansa, se mit à l’écarté, perdit quelque argent, et s’en alla se coucher. J’ai l’honneur de vous affirmer que tout se passa ainsi. Je n’ajoute, je ne retranche rien.</p>
+
+<p>Le lendemain matin Rastignac se réveilla tard, resta dans son lit, où il se livra sans doute à quelques-unes de ces rêveries matinales pendant lesquelles un jeune homme se glisse comme un sylphe sous plus d’une courtine de soie, de cachemire ou de coton. En ces moments, plus le corps est lourd de sommeil, plus l’esprit est agile. Enfin Rastignac se leva sans trop bâiller, comme font tant de gens mal appris, sonna son valet de chambre, se fit apprêter du thé, en but immodérément, ce qui ne paraîtra pas extraordinaire aux personnes qui aiment le thé ; mais pour expliquer cette circonstance aux gens qui ne l’acceptent que comme la panacée des indigestions, j’ajouterai qu’Eugène écrivait : il était commodément assis, et avait les pieds plus souvent sur ses chenets que dans sa chancelière. Oh ! avoir les pieds sur la barre polie qui réunit les deux griffons d’un garde-cendre, et penser à ses amours quand on se lève et qu’on est en robe de chambre, est chose si délicieuse, que je regrette infiniment de n’avoir ni maîtresse, ni chenets, ni robe de chambre. Quand j’aurai tout cela, je ne raconterai pas mes observations, j’en profiterai.</p>
+
+<p>La première lettre qu’Eugène écrivit fut achevée en un quart d’heure ; il la plia, la cacheta et la laissa devant lui sans y mettre l’adresse. La seconde lettre, commencée à onze heures, ne fut finie qu’à midi. Les quatre pages étaient pleines.</p>
+
+<p>— Cette femme me trotte dans la tête, dit-il en pliant cette <pb n="400"/> épître, qu’il laissa devant lui, comptant y mettre l’adresse après avoir achevé sa rêverie involontaire. Il croisa les deux pans de sa robe de chambre à ramages, posa ses pieds sur un tabouret, coula ses mains dans les goussets de son pantalon de cachemire rouge, et se renversa dans une délicieuse bergère à oreilles dont le siége et le dossier décrivaient l’angle confortable de cent vingt degrés. Il ne prit plus de thé et resta immobile, les yeux attachés sur la main dorée qui couronnait sa pelle, sans voir ni main, ni pelle, ni dorure. Il ne tisonna même pas. Faute immense ! N’est-ce pas un plaisir bien vif que de tracasser le feu quand on pense aux femmes ? Notre esprit prête des phrases aux petites langues bleues qui se dégagent soudain et babillent dans le foyer. On interprète le langage puissant et brusque d’un <hi rend="i">bourguignon</hi>.</p>
+
+<p>A ce mot arrêtons-nous et plaçons ici pour les ignorants une explication due à un étymologiste très-distingué qui a désiré garder l’anonyme. <hi rend="i">Bourguignon</hi> est le nom populaire et symbolique donné, depuis le règne de Charles VI, à ces détonations bruyantes dont l’effet est d’envoyer sur un tapis ou sur une robe un petit charbon, léger principe d’incendie. Le feu dégage, dit-on, une bulle d’air qu’un ver rongeur a laissée dans le cœur du bois. <hi rend="i">Inde amor, inde burgundus</hi>. L’on tremble en voyant rouler comme une avalanche le charbon qu’on avait si industrieusement essayé de poser entre deux bûches flamboyantes. Oh ! tisonner quand on aime, n’est-ce pas développer matériellement sa pensée ?</p>
+
+<p>Ce fut en ce moment que j’entrai chez Eugène, il fit un soubresaut et me dit : — Ah ! te voilà, mon cher Horace. Depuis quand es-tu là ?</p>
+
+<p>— J’arrive.</p>
+
+<p>— Ah !</p>
+
+<p>Il prit les deux lettres, y mit les adresses et sonna son domestique.</p>
+
+<p>— Porte cela en ville.</p>
+
+<p>Et Joseph y alla sans faire d’observations, excellent domestique !</p>
+
+<p>Nous nous mîmes à causer de l’expédition de Morée, dans laquelle je désirais être employé en qualité de médecin. Eugène me fit observer que je perdrais beaucoup à quitter Paris, et nous parlâmes de choses indifférentes. Je ne crois pas que l’on me sache mauvais gré de supprimer notre conversation. . . . . . . . . . .</p>
+
+<pb n="401"/>
+
+<p>Au moment où la marquise de Listomère se leva, sur les deux heures après midi, sa femme de chambre, Caroline lui remit une lettre, elle la lut pendant que Caroline la coiffait. (Imprudence que commettent beaucoup de jeunes femmes.)</p>
+
+<p><hi rend="i">O cher ange d’amour, trésor de vie et de bonheur !</hi> A ces mots, la marquise allait jeter la lettre au feu ; mais il lui passa par la tête une fantaisie que toute femme vertueuse comprendra merveilleusement, et qui était de voir comment un homme qui débutait ainsi pouvait finir. Elle lut. Quand elle eut tourné la quatrième page, elle laissa tomber ses bras comme une personne fatiguée.</p>
+
+<p>— Caroline, allez savoir qui a remis cette lettre chez moi.</p>
+
+<p>— Madame, je l’ai reçue du valet de chambre de monsieur le baron de Rastignac.</p>
+
+<p>Il se fit un long silence.</p>
+
+<p>— Madame veut-elle s’habiller ? demanda Caroline.</p>
+
+<p>— Non.</p>
+
+<p>— Il faut qu’il soit bien impertinent ! pensa la marquise. . . . . . . . . . .</p>
+
+<p>Je prie toutes les femmes d’imaginer elles-mêmes le commentaire.</p>
+
+<p>Madame de Listomère termina le sien par la résolution formelle de consigner monsieur Eugène à sa porte, et si elle le rencontrait dans le monde de lui témoigner plus que du dédain ; car son insolence ne pouvait se comparer à aucune de celles que la marquise avait fini par excuser. Elle voulut d’abord garder la lettre ; mais, toute réflexion faite, elle la brûla.</p>
+
+<p>— Madame vient de recevoir une fameuse déclaration d’amour, et elle l’a lue ! dit Caroline à la femme de charge.</p>
+
+<p>— Je n’aurais jamais cru cela de madame, répondit la vieille tout étonnée.</p>
+
+<p>Le soir, la comtesse alla chez le marquis de Beauséant, où Rastignac devait probablement se trouver. C’était un samedi. Le marquis de Beauséant étant un peu parent à monsieur de Rastignac, ce jeune homme ne pouvait manquer de venir pendant la soirée. A deux heures du matin, madame de Listomère, qui n’était restée que pour accabler Eugène de sa froideur, l’avait attendu vainement. Un homme d’esprit, Stendalh, a eu la bizarre idée de nommer <hi rend="i">cristallisation</hi> le travail que la pensée de la marquise fit avant, pendant et après cette soirée.</p>
+
+<pb n="402"/>
+
+<p>Quatre jours après, Eugène grondait son valet de chambre.</p>
+
+<p>— Ah çà ! Joseph, je vais être forcé de te renvoyer, mon garçon !</p>
+
+<p>— Plaît-il, monsieur ?</p>
+
+<p>— Tu ne fais que des sottises. Où as-tu porté les deux lettres que je t’ai remises vendredi ?</p>
+
+<p>Joseph devint stupide. Semblable à quelque statue du porche d’une cathédrale, il resta immobile, entièrement absorbé par le travail de son imaginative. Tout à coup il sourit bêtement et dit : — Monsieur, l’une était pour madame la marquise de Listomère, rue Saint-Dominique, et l’autre pour l’avoué de monsieur...</p>
+
+<p>— Es-tu certain de ce que tu dis là ?</p>
+
+<p>Joseph demeura tout interdit. Je vis bien qu’il fallait que je m’en mêlasse, moi qui, par hasard, me trouvais encore là.</p>
+
+<p>— Joseph a raison, dis-je. Eugène se tourna de mon côté. — J’ai lu les adresses fort involontairement, et...</p>
+
+<p>— Et, dit Eugène en m’interrompant, l’une des lettres n’était pas pour madame de Nucingen ?</p>
+
+<p>— Non, de par tous les diables ! Aussi, ai-je cru, mon cher, que ton cœur avait pirouetté de la rue Saint-Lazare à la rue Saint-Dominique.</p>
+
+<p>Eugène se frappa le front du plat de la main et se mit à sourire. Joseph vit bien que la faute ne venait pas de lui.</p>
+
+<p>Maintenant, voilà où sont les moralités que tous les jeunes gens devraient méditer. <hi rend="i">Première faute :</hi> Eugène trouva plaisant de faire rire madame de Listomère de la méprise qui l’avait rendue maîtresse d’une lettre d’amour qui n’était pas pour elle. <hi rend="i">Deuxième faute :</hi> il n’alla chez madame de Listomère que quatre jours après l’aventure, laissant ainsi les pensées d’une vertueuse jeune femme se cristalliser. Il se trouvait encore une dizaine de fautes qu’il faut passer sous silence, afin de donner aux dames le plaisir de les déduire <hi rend="i">ex professo</hi> à ceux qui ne les devineront pas. Eugène arrive à la porte de la marquise ; mais quand il veut passer, le concierge l’arrête et lui dit que madame la marquise est sortie. Comme il remontait en voiture, le marquis entra.</p>
+
+<p>— Venez donc, Eugène ? ma femme est chez elle.</p>
+
+<p>Oh ! excusez le marquis. Un mari, quelque bon qu’il soit, atteint difficilement à la perfection. En montant l’escalier, Rastignac <pb n="403"/>s’aperçut alors des dix fautes de logique mondaine qui se trouvaient dans ce passage du beau livre de sa vie. Quand madame de Listomère vit son mari entrant avec Eugène, elle ne put s’empêcher de rougir. Le jeune baron observa cette rougeur subite. Si l’homme le plus modeste conserve encore un petit fonds de fatuité dont il ne se dépouille pas plus que la femme ne se sépare de sa fatale coquetterie, qui pourrait blâmer Eugène de s’être alors dit en lui-même : — Quoi ! cette forteresse aussi ? Et il se posa dans sa cravate. Quoique les jeunes gens ne soient pas très-avares, ils aiment tous à mettre une tête de plus dans leur médaillier.</p>
+
+<p>Monsieur de Listomère se saisit de la <hi rend="i">Gazette de France</hi>, qu’il aperçut dans un coin de la cheminée, et alla vers l’embrasure d’une fenêtre pour acquérir, le journaliste aidant, une opinion à lui sur l’état de la France. Une femme, voire même une prude, ne reste pas long-temps embarrassée, même dans la situation la plus difficile où elle puisse se trouver : il semble qu’elle ait toujours à la main la feuille de figuier que lui a donnée notre mère Ève. Aussi, quand Eugène, interprétant en faveur de sa vanité la consigne donnée à la porte, salua madame de Listomère d’un air passablement délibéré, sut-elle voiler toutes ses pensées par un de ces sourires féminins plus impénétrables que ne l’est la parole d’un roi.</p>
+
+<p>— Seriez-vous indisposée, madame ? vous aviez fait défendre votre porte.</p>
+
+<p>— Non, monsieur.</p>
+
+<p>— Vous alliez sortir, peut-être ?</p>
+
+<p>— Pas davantage.</p>
+
+<p>— Vous attendiez quelqu’un ?</p>
+
+<p>— Personne.</p>
+
+<p>— Si ma visite est indiscrète, ne vous en prenez qu’à monsieur le marquis. J’obéissais à votre mystérieuse consigne quand il m’a lui-même introduit dans le sanctuaire.</p>
+
+<p>— Monsieur de Listomère n’était pas dans ma confidence. Il n’est pas toujours prudent de mettre un mari au fait de certains secrets...</p>
+
+<p>L’accent fermé et doux avec lequel la marquise prononça ces paroles et le regard imposant qu’elle lança firent bien juger à Rastignac qu’il s’était trop pressé de se poser dans sa cravate.</p>
+
+<p>— Madame, je vous comprends, dit-il en riant ; je dois alors <pb n="404"/>me féliciter doublement d’avoir rencontré monsieur le marquis, il me procure l’occasion de vous présenter une justification qui serait pleine de dangers si vous n’étiez pas la bonté même.</p>
+
+<p>La marquise regarda le jeune baron d’un air assez étonné ; mais elle répondit avec dignité : — Monsieur, le silence sera de votre part la meilleure des excuses. Quant à moi, je vous promets le plus entier oubli, pardon que vous méritez à peine.</p>
+
+<p>— Madame, dit vivement Eugène, le pardon est inutile là où il n’y a pas eu d’offense. La lettre, ajouta-t-il à voix basse, que vous avez reçue et qui a dû vous paraître si inconvenante, ne vous était pas destinée.</p>
+
+<p>La marquise ne put s’empêcher de sourire, elle voulait avoir été offensée.</p>
+
+<p>— Pourquoi mentir ? reprit-elle d’un air dédaigneusement enjoué mais d’un son de voix assez doux. Maintenant que je vous ai grondé, je rirai volontiers d’un stratagème qui n’est pas sans malice. Je connais de pauvres femmes qui s’y prendraient. — Dieu ! comme il aime ! diraient-elles. La marquise se mit à rire forcément, et ajouta d’un air d’indulgence : — Si nous voulons rester amis, qu’il ne soit plus question de méprises dont je ne puis être la dupe.</p>
+
+<p>— Sur mon honneur, madame, vous l’êtes beaucoup plus que vous ne pensez, répliqua vivement Eugène.</p>
+
+<p>— Mais de quoi parlez-vous donc là ? demanda monsieur de Listomère qui depuis un instant écoutait la conversation sans en pouvoir percer l’obscurité.</p>
+
+<p>— Oh ! cela n’est pas intéressant pour vous, répondit la marquise.</p>
+
+<p>Monsieur de Listomère reprit tranquillement la lecture de son journal et dit : — Ah ! madame de Mortsauf est morte : votre pauvre frère est sans doute à Clochegourde.</p>
+
+<p>— Savez-vous, monsieur, reprit la marquise en se tournant vers Eugène, que vous venez de dire une impertinence ?</p>
+
+<p>— Si je ne connaissais pas la rigueur de vos principes, répondit-il naïvement, je croirais que vous voulez ou me donner des idées desquelles je me défends, ou m’arracher mon secret. Peut-être encore voulez-vous vous amuser de moi.</p>
+
+<p>La marquise sourit. Ce sourire impatienta Eugène.</p>
+
+<p>— Puissiez-vous, madame, dit-il, toujours croire à une offense <pb n="405"/>que je n’ai point commise ! et je souhaite bien ardemment que le hasard ne vous fasse pas découvrir dans le monde la personne qui devait lire cette lettre...</p>
+
+<p>— Hé quoi ! ce serait toujours pour madame de Nucingen ? s’écria madame de Listomère plus curieuse de pénétrer un secret que de se venger des épigrammes du jeune homme.</p>
+
+<p>Eugène rougit. Il faut avoir plus de vingt-cinq ans pour ne pas rougir en se voyant reprocher la bêtise d’une fidélité que les femmes raillent pour ne pas montrer combien elles en sont envieuses. Néanmoins il dit avec assez de sang-froid : — Pourquoi pas, madame ?</p>
+
+<p>Voilà les fautes que l’on commet à vingt-cinq ans. Cette confidence causa une commotion violente à madame de Listomère ; mais Eugène ne savait pas encore analyser un visage de femme en le regardant à la hâte ou de côté. Les lèvres seules de la marquise avaient pâli. Madame de Listomère sonna pour demander du bois, et contraignit ainsi Rastignac à se lever pour sortir.</p>
+
+<p>— Si cela est, dit alors la marquise en arrêtant Eugène par un air froid et composé, il vous serait difficile de m’expliquer, monsieur, par quel hasard mon nom a pu se trouver sous votre plume. Il n’en est pas d’une adresse écrite sur une lettre comme du claque d’un voisin qu’on peut par étourderie prendre pour le sien en quittant le bal.</p>
+
+<p>Eugène décontenancé regarda la marquise d’un air à la fois fat et bête, il sentit qu’il devenait ridicule, balbutia une phrase d’écolier et sortit. Quelques jours après la marquise acquit des preuves irrécusables de la véracité d’Eugène. Depuis seize jours elle ne va plus dans le monde.</p>
+
+<p>Le marquis dit à tous ceux qui lui demandent raison de ce changement : — Ma femme a une gastrite.</p>
+
+<p>Moi qui la soigne et qui connais son secret, je sais qu’elle a seulement une petite crise nerveuse de laquelle elle profite pour rester chez elle.</p>
+
+<dateline>Paris, février 1830.</dateline>
+
+</div>
+</body>
+  </text>
+</TEI>
