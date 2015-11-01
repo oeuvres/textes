@@ -27,23 +27,24 @@
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <div type="dedication">
+        <head>À Marie-Antoine-Jules Senard</head>
+        <p rend="center noindent">MEMBRE DU BARREAU DE PARIS EX-PRESIDENT DE L’ASSEMBLÉE NATIONALE ET ANCIEN MINISTRE DE L’INTÉRIEUR</p>
+        <p>Cher et illustre ami,</p>
+        <p>Permettez-moi d’inscrire votre nom en tête de ce livre et au-dessus même de sa dédicace ; car c’est à vous, surtout, que j’en dois la publication. En passant par votre magnifique plaidoirie, mon œuvre a acquis pour moi-même comme une autorité imprévue. Acceptez donc ici l’hommage de ma gratitude, qui, si grande qu’elle puisse être, ne sera jamais à la hauteur de votre éloquence et de votre dévouement.</p>
+        <p rend="right">GUSTAVE FLAUBERT</p>
+        <p rend="right">Paris, 12 avril 1857</p>
+        <p> </p>
+        <p rend="center noindent">À Louis Bouilhet</p>
+      </div>
+    </front>
     <body>
-      <byline/>
-      <p/>
-      <p rend="center noindent">À Marie-Antoine-Jules Senard</p>
-      <p rend="center noindent">MEMBRE DU BARREAU DE PARIS EX-PRESIDENT DE L’ASSEMBLÉE NATIONALE ET ANCIEN MINISTRE DE L’INTÉRIEUR</p>
-      <p>Cher et illustre ami,</p>
-      <p>Permettez-moi d’inscrire votre nom en tête de ce livre et au-dessus même de sa dédicace ; car c’est à vous, surtout, que j’en dois la publication. En passant par votre magnifique plaidoirie, mon œuvre a acquis pour moi-même comme une autorité imprévue. Acceptez donc ici l’hommage de ma gratitude, qui, si grande qu’elle puisse être, ne sera jamais à la hauteur de votre éloquence et de votre dévouement.</p>
-      <p rend="right">GUSTAVE FLAUBERT</p>
-      <p rend="right">Paris, 12 avril 1857</p>
-      <p> </p>
-      <p rend="center noindent">À Louis Bouilhet</p>
+      
       <div>
-        <head>PREMIÈRE PARTIE
-<lb/></head>
-        <div>
-          <head>I
-<lb/></head>
+        <head>PREMIÈRE PARTIE</head>
+        <div type="chapter">
+          <head>I</head>
           <p>Nous étions à l’Étude, quand le Proviseur entra, suivi d’un <hi rend="i">nouveau</hi> habillé en bourgeois et d’un garçon de classe qui portait un grand pupitre. Ceux qui dormaient se réveillèrent, et chacun se leva comme surpris dans son travail.</p>
           <p>Le Proviseur nous fit signe de nous rasseoir ; puis, se tournant vers le maître d’études :</p>
           <p>– Monsieur Roger, lui dit-il à demi-voix, voici un élève que je vous recommande, il entre en cinquième. Si son travail et sa conduite sont méritoires, il passera <hi rend="i">dans les grands</hi>, où l’appelle son âge.</p>
@@ -99,9 +100,8 @@
           <p>Charles avait entrevu dans le mariage l’avènement d’une condition meilleure, imaginant qu’il serait plus libre et pourrait disposer de sa personne et de son argent. Mais sa femme fut le maître ; il devait devant le monde dire ceci, ne pas dire cela, faire maigre tous les vendredis, s’habiller comme elle l’entendait, harceler par son ordre les clients qui ne payaient pas. Elle décachetait ses lettres, épiait ses démarches, et l’écoutait, à travers la cloison, donner ses consultations dans son cabinet, quand il y avait des femmes.</p>
           <p>Il lui fallait son chocolat tous les matins, des égards à n’en plus finir. Elle se plaignait sans cesse de ses nerfs, de sa poitrine, de ses humeurs. Le bruit des pas lui faisait mal ; on s’en allait, la solitude lui devenait odieuse ; revenait-on près d’elle, c’était pour la voir mourir, sans doute. Le soir, quand Charles rentrait, elle sortait de dessous ses draps ses longs bras maigres, les lui passait autour du cou, et, l’ayant fait asseoir au bord du lit, se mettait à lui parler de ses chagrins : il l’oubliait, il en aimait une autre ! On lui avait bien dit qu’elle serait malheureuse ; et elle finissait en lui demandant quelque sirop pour sa santé et un peu plus d’amour.</p>
         </div>
-        <div xml:id="CHAP_5">
-          <head>II
-<lb/></head>
+        <div type="chapter">
+          <head>II</head>
           <p>Une nuit, vers onze heures, ils furent réveillés par le bruit d’un cheval qui s’arrêta juste à la porte. La bonne ouvrit la lucarne du grenier et parlementa quelque temps avec un homme resté en bas, dans la rue. Il venait chercher le médecin ; il avait une lettre. <hi rend="i">Nastasie</hi> descendit les marches en grelottant, et alla ouvrir la serrure et les verrous, l’un après l’autre. L’homme laissa son cheval, et, suivant la bonne, entra tout à coup derrière elle. Il tira de dedans son bonnet de laine à houppes grises, une lettre enveloppée dans un chiffon, et la présenta délicatement à Charles, qui s’accouda sur l’oreiller pour la lire. Nastasie, près du lit, tenait la lumière. Madame, par pudeur, restait tournée vers la ruelle et montrait le dos.</p>
           <p>Cette lettre, cachetée d’un petit cachet de cire bleue, suppliait M. Bovary de se rendre immédiatement à la ferme des Bertaux, pour remettre une jambe cassée. Or il y a, de Tostes aux Bertaux, six bonnes lieues de traverse, en passant par Longueville et Saint-Victor. La nuit était noire. Madame Bovary jeune redoutait les accidents pour son mari. Donc il fut décidé que le valet d’écurie prendrait les devants. Charles partirait trois heures plus tard, au lever de la lune. On enverrait un gamin à sa rencontre, afin de lui montrer le chemin de la ferme et d’ouvrir les clôtures devant lui.</p>
           <p>Vers quatre heures du matin, Charles, bien enveloppé dans son manteau, se mit en route pour les Bertaux. Encore endormi par la chaleur du sommeil, il se laissait bercer au trot pacifique de sa bête. Quand elle s’arrêtait d’elle-même devant ces trous entourés d’épines que l’on creuse au bord des sillons, Charles se réveillant en sursaut, se rappelait vite la jambe cassée, et il tâchait de se remettre en mémoire toutes les fractures qu’il savait. La pluie ne tombait plus ; le jour commençait à venir, et, sur les branches des pommiers sans feuilles, des oiseaux se tenaient immobiles, hérissant leurs petites plumes au vent froid du matin. La plate campagne s’étalait à perte de vue, et les bouquets d’arbres autour des fermes faisaient, à intervalles éloignés, des taches d’un violet noir sur cette grande surface grise, qui se perdait à l’horizon dans le ton morne du ciel. Charles, de temps à autre, ouvrait les yeux ; puis, son esprit se fatiguant et le sommeil revenant de soi-même, bientôt il entrait dans une sorte d’assoupissement où, ses sensations récentes se confondant avec des souvenirs, lui-même se percevait double, à la fois étudiant et marié, couché dans son lit comme tout à l’heure, traversant une salle d’opérés comme autrefois. L’odeur chaude des cataplasmes se mêlait dans sa tête à la verte odeur de la rosée ; il entendait rouler sur leur tringle les anneaux de fer des lits et sa femme dormir… Comme il passait par Vassonville, il aperçut, au bord d’un fossé, un jeune garçon assis sur l’herbe.</p>
@@ -136,9 +136,8 @@
           <p>Mais <hi rend="i">le coup était porté</hi>. Huit jours après, comme elle étendait du linge dans sa cour, elle fut prise d’un crachement de sang, et le lendemain, tandis que Charles avait le dos tourné pour fermer le rideau de la fenêtre, elle dit : « Ah ! mon Dieu ! » poussa un soupir et s’évanouit. Elle était morte ! Quel étonnement !</p>
           <p>Quand tout fut fini au cimetière, Charles rentra chez lui. Il ne trouva personne en bas ; il monta au premier, dans la chambre, vit sa robe encore accrochée au pied de l’alcôve ; alors, s’appuyant contre le secrétaire, il resta jusqu’au soir perdu dans une rêverie douloureuse. Elle l’avait aimé, après tout.</p>
         </div>
-        <div xml:id="CHAP_6">
-          <head>III
-<lb/></head>
+        <div type="chapter">
+          <head>III</head>
           <p>Un matin, le père Rouault vint apporter à Charles le payement de sa jambe remise : soixante et quinze francs en pièces de quarante sous, et une dinde. Il avait appris son malheur, et l’en consola tant qu’il put.</p>
           <p>– Je sais ce que c’est ! disait-il en lui frappant sur l’épaule ; j’ai été comme vous, moi aussi ! Quand j’ai eu perdu ma pauvre défunte, j’allais dans les champs pour être tout seul ; je tombais au pied d’un arbre, je pleurais, j’appelais le bon Dieu, je lui disais des sottises ; j’aurais voulu être comme les taupes, que je voyais aux branches, qui avaient des vers leur grouillant dans le ventre, crevé, enfin. Et quand je pensais que d’autres, à ce moment-là, étaient avec leurs bonnes petites femmes à les tenir embrassées contre eux, je tapais de grands coups par terre avec mon bâton ; j’étais quasiment fou, que je ne mangeais plus ; l’idée d’aller seulement au café me dégoûtait, vous ne croiriez pas. Eh bien, tout doucement, un jour chassant l’autre, un printemps sur un hiver et un automne par-dessus un été, ça a coulé brin à brin, miette à miette ; ça s’en est allé, c’est parti, c’est descendu, je veux dire, car il vous reste toujours quelque chose au fond, comme qui dirait… un poids, là, sur la poitrine ! Mais, puisque c’est notre sort à tous, on ne doit pas non plus se laisser dépérir, et, parce que d’autres sont morts, vouloir mourir… Il faut vous secouer, monsieur Bovary ; ça se passera ! Venez nous voir ; ma fille pense à vous de temps à autre, savez-vous bien, et elle dit comme ça que vous l’oubliez. Voilà le printemps bientôt ; nous vous ferons tirer un lapin dans la garenne, pour vous dissiper un peu.</p>
           <p>Charles suivit son conseil. Il retourna aux Bertaux ; il retrouva tout comme la veille, comme il y avait cinq mois, c’est-à-dire. Les poiriers déjà étaient en fleur, et le bonhomme Rouault, debout maintenant, allait et venait, ce qui rendait la ferme plus animée.</p>
@@ -165,9 +164,8 @@
           <p>L’hiver se passa dans cette attente. Mademoiselle Rouault s’occupa de son trousseau. Une partie en fut commandée à Rouen, et elle se confectionna des chemises et des bonnets de nuit, d’après des dessins de modes qu’elle emprunta. Dans les visites que Charles faisait à la ferme, on causait des préparatifs de la noce ; on se demandait dans quel appartement se donnerait le dîner ; on rêvait à la quantité de plats qu’il faudrait et quelles seraient les entrées.</p>
           <p>Emma eût, au contraire, désiré se marier à minuit, aux flambeaux ; mais le père Rouault ne comprit rien à cette idée. Il y eut donc une noce, où vinrent quarante-trois personnes, où l’on resta seize heures à table, qui recommença le lendemain et quelque peu les jours suivants.</p>
         </div>
-        <div xml:id="CHAP_7">
-          <head>IV
-<lb/></head>
+        <div type="chapter">
+          <head>IV</head>
           <p>Les conviés arrivèrent de bonne heure dans des voitures, carrioles à un cheval, chars à bancs à deux roues, vieux cabriolets sans capote, tapissières à rideaux de cuir, et les jeunes gens des villages les plus voisins dans des charrettes où ils se tenaient debout, en rang, les mains appuyées sur les ridelles pour ne pas tomber, allant au trot et secoués dur. Il en vint de dix lieues loin, de Goderville, de Normanville, et de Cany. On avait invité tous les parents des deux familles, on s’était raccommodé avec les amis brouillés, on avait écrit à des connaissances perdues de vue depuis longtemps.</p>
           <p>De temps à autre, on entendait des coups de fouet derrière la haie ; bientôt la barrière s’ouvrait : c’était une carriole qui entrait. Galopant jusqu’à la première marche du perron, elle s’y arrêtait court, et vidait son monde, qui sortait par tous les côtés en se frottant les genoux et en s’étirant les bras. Les dames, en bonnet, avaient des robes à la façon de la ville, des chaînes de montre en or, des pèlerines à bouts croisés dans la ceinture, ou de petits fichus de couleur attachés dans le dos avec une épingle, et qui leur découvraient le cou par derrière. Les gamins, vêtus pareillement à leurs papas, semblaient incommodés par leurs habits neufs (beaucoup même étrennèrent ce jour-là la première paire de bottes de leur existence), et l’on voyait à côté d’eux, ne soufflant mot dans la robe blanche de sa première communion rallongée pour la circonstance, quelque grande fillette de quatorze ou seize ans, leur cousine ou leur sœur aînée sans doute, rougeaude, ahurie, les cheveux gras de pommade à la rose, et ayant bien peur de salir ses gants. Comme il n’y avait point assez de valets d’écurie pour dételer toutes les voitures, les messieurs retroussaient leurs manches et s’y mettaient eux-mêmes. Suivant leur position sociale différente, ils avaient des habits, des redingotes, des vestes, des habits-vestes : – bons habits, entourés de toute la considération d’une famille, et qui ne sortaient de l’armoire que pour les solennités ; redingotes à grandes basques flottant au vent, à collet cylindrique, à poches larges comme des sacs ; vestes de gros drap, qui accompagnaient ordinairement quelque casquette cerclée de cuivre à sa visière ; habits-vestes très courts, ayant dans le dos deux boutons rapprochés comme une paire d’yeux, et dont les pans semblaient avoir été coupés à même un seul bloc, par la hache du charpentier. Quelques-uns encore (mais ceux-là, bien sûr, devaient dîner au bas bout de la table) portaient des blouses de cérémonie, c’est-à-dire dont le col était rabattu sur les épaules, le dos froncé à petits plis et la taille attachée très bas par une ceinture cousue.</p>
           <p>Et les chemises sur les poitrines bombaient comme des cuirasses ! Tout le monde était tondu à neuf, les oreilles s’écartaient des têtes, on était rasé de près ; quelques-uns même qui s’étaient levés dès avant l’aube, n’ayant pas vu clair à se faire la barbe, avaient des balafres en diagonale sous le nez, ou, le long des mâchoires, des pelures d’épiderme larges comme des écus de trois francs, et qu’avait enflammées le grand air pendant la route, ce qui marbrait un peu de plaques roses toutes ces grosses faces blanches épanouies.</p>
@@ -183,9 +181,8 @@
           <p>M. et madame Charles arrivèrent à Tostes, vers six heures. Les voisins se mirent aux fenêtres pour voir la nouvelle femme de leur médecin.</p>
           <p>La vieille bonne se présenta, lui fit ses salutations, s’excusa de ce que le dîner n’était pas prêt, et engagea Madame, en attendant, à prendre connaissance de sa maison.</p>
         </div>
-        <div>
-          <head>V
-<lb/></head>
+        <div type="chapter">
+          <head>V</head>
           <p>La façade de briques était juste à l’alignement de la rue, ou de la route plutôt. Derrière la porte se trouvaient accrochés un manteau à petit collet, une bride, une casquette de cuir noir, et, dans un coin, à terre, une paire de houseaux encore couverts de boue sèche. À droite était la salle, c’est-à-dire l’appartement où l’on mangeait et où l’on se tenait. Un papier jaune-serin, relevé dans le haut par une guirlande de fleurs pâles, tremblait tout entier sur sa toile mal tendue ; des rideaux de calicot blanc, bordés d’un galon rouge, s’entrecroisaient le long des fenêtres, et sur l’étroit chambranle de la cheminée resplendissait une pendule à tête d’Hippocrate, entre deux flambeaux d’argent plaqué, sous des globes de forme ovale. De l’autre côté du corridor était le cabinet de Charles, petite pièce de six pas de large environ, avec une table, trois chaises et un fauteuil de bureau. Les tomes du <hi rend="i">Dictionnaire des sciences médicales</hi>, non coupés, mais dont la brochure avait souffert dans toutes les ventes successives par où ils avaient passé, garnissaient presque à eux seuls, les six rayons d’une bibliothèque en bois de sapin. L’odeur des roux pénétrait à travers la muraille, pendant les consultations, de même que l’on entendait de la cuisine, les malades tousser dans le cabinet et débiter toute leur histoire. Venait ensuite, s’ouvrant immédiatement sur la cour, où se trouvait l’écurie, une grande pièce délabrée qui avait un four, et qui servait maintenant de bûcher, de cellier, de garde-magasin, pleine de vieilles ferrailles, de tonneaux vides, d’instruments de culture hors de service, avec quantité d’autres choses poussiéreuses dont il était impossible de deviner l’usage.</p>
           <p>Le jardin, plus long que large, allait, entre deux murs de bauge couverts d’abricots en espalier, jusqu’à une haie d’épines qui le séparait des champs. Il y avait au milieu un cadran solaire en ardoise, sur un piédestal de maçonnerie ; quatre plates-bandes garnies d’églantiers maigres entouraient symétriquement le carré plus utile des végétations sérieuses. Tout au fond, sous les sapinettes, un curé de plâtre lisait son bréviaire.</p>
           <p>Emma monta dans les chambres. La première n’était point meublée ; mais la seconde, qui était la chambre conjugale, avait un lit d’acajou dans une alcôve à draperie rouge. Une boîte en coquillages décorait la commode ; et, sur le secrétaire, près de la fenêtre, il y avait, dans une carafe, un bouquet de fleurs d’oranger, noué par des rubans de satin blanc. C’était un bouquet de mariée, le bouquet de l’autre ! Elle le regarda. Charles s’en aperçut, il le prit et l’alla porter au grenier, tandis qu’assise dans un fauteuil (on disposait ses affaires autour d’elle), Emma songeait à son bouquet de mariage, qui était emballé dans un carton, et se demandait, en rêvant, ce qu’on en ferait, si par hasard elle venait à mourir.</p>
@@ -195,9 +192,8 @@
           <p>Il ne pouvait se retenir de toucher continuellement à son peigne, à ses bagues, à son fichu ; quelquefois, il lui donnait sur les joues de gros baisers à pleine bouche, ou c’étaient de petits baisers à la file tout le long de son bras nu, depuis le bout des doigts jusqu’à l’épaule ; et elle le repoussait, à demi souriante et ennuyée, comme on fait à un enfant qui se pend après vous.</p>
           <p>Avant qu’elle se mariât, elle avait cru avoir de l’amour ; mais le bonheur qui aurait dû résulter de cet amour n’étant pas venu, il fallait qu’elle se fût trompée, songeait-elle. Et Emma cherchait à savoir ce que l’on entendait au juste dans la vie par les mots de <hi rend="i">félicité</hi>, de <hi rend="i">passion</hi> et d’<hi rend="i">ivresse</hi>, qui lui avaient paru si beaux dans les livres.</p>
         </div>
-        <div xml:id="CHAP_9">
-          <head>VI
-<lb/></head>
+        <div type="chapter">
+          <head>VI</head>
           <p>Elle avait lu <hi rend="i">Paul et Virginie</hi> et elle avait rêvé la maisonnette de bambous, le nègre Domingo, le chien Fidèle, mais surtout l’amitié douce de quelque bon petit frère, qui va chercher pour vous des fruits rouges dans des grands arbres plus hauts que des clochers, ou qui court pieds nus sur le sable, vous apportant un nid d’oiseau.</p>
           <p>Lorsqu’elle eut treize ans, son père l’amena lui-même à la ville, pour la mettre au couvent. Ils descendirent dans une auberge du quartier Saint-Gervais, où ils eurent à leur souper des assiettes peintes qui représentaient l’histoire de mademoiselle de la Vallière. Les explications légendaires, coupées çà et là par l’égratignure des couteaux, glorifiaient toutes la religion, les délicatesses du cœur et les pompes de la Cour.</p>
           <p>Loin de s’ennuyer au couvent les premiers temps, elle se plut dans la société des bonnes sœurs, qui, pour l’amuser, la conduisaient dans la chapelle, où l’on pénétrait du réfectoire par un long corridor. Elle jouait fort peu durant les récréations, comprenait bien le catéchisme, et c’est elle qui répondait toujours à M. le vicaire dans les questions difficiles. Vivant donc sans jamais sortir de la tiède atmosphère des classes et parmi ces femmes au teint blanc portant des chapelets à croix de cuivre, elle s’assoupit doucement à la langueur mystique qui s’exhale des parfums de l’autel, de la fraîcheur des bénitiers et du rayonnement des cierges. Au lieu de suivre la messe, elle regardait dans son livre les vignettes pieuses bordées d’azur, et elle aimait la brebis malade, le Sacré-Cœur percé de flèches aiguës, ou le pauvre Jésus, qui tombe en marchant sur sa croix. Elle essaya, par mortification, de rester tout un jour sans manger. Elle cherchait dans sa tête quelque vœu à accomplir.</p>
@@ -212,9 +208,8 @@
           <p>Emma, rentrée chez elle, se plut d’abord au commandement des domestiques, prit ensuite la campagne en dégoût et regretta son couvent. Quand Charles vint aux Bertaux pour la première fois, elle se considérait comme fort désillusionnée, n’ayant plus rien à apprendre, ne devant plus rien sentir.</p>
           <p>Mais l’anxiété d’un état nouveau, ou peut-être l’irritation causée par la présence de cet homme, avait suffi à lui faire croire qu’elle possédait enfin cette passion merveilleuse qui jusqu’alors s’était tenue comme un grand oiseau au plumage rose planant dans la splendeur des ciels poétiques ; – et elle ne pouvait s’imaginer à présent que ce calme où elle vivait fût le bonheur qu’elle avait rêvé.</p>
         </div>
-        <div xml:id="CHAP_10">
-          <head>VII
-<lb/></head>
+        <div type="chapter">
+          <head>VII</head>
           <p>Elle songeait quelquefois que c’étaient là pourtant les plus beaux jours de sa vie, la lune de miel, comme on disait. Pour en goûter la douceur, il eût fallu, sans doute, s’en aller vers ces pays à noms sonores où les lendemains de mariage ont de plus suaves paresses ! Dans des chaises de poste, sous des stores de soie bleue, on monte au pas des routes escarpées, écoutant la chanson du postillon, qui se répète dans la montagne avec les clochettes des chèvres et le bruit sourd de la cascade. Quand le soleil se couche, on respire au bord des golfes le parfum des citronniers ; puis, le soir, sur la terrasse des villas, seuls et les doigts confondus, on regarde les étoiles en faisant des projets. Il lui semblait que certains lieux sur la terre devaient produire du bonheur, comme une plante particulière au sol et qui pousse mal tout autre part. Que ne pouvait-elle s’accouder sur le balcon des chalets suisses ou enfermer sa tristesse dans un cottage écossais, avec un mari vêtu d’un habit de velours noir à longues basques, et qui porte des bottes molles, un chapeau pointu et des manchettes !</p>
           <p>Peut-être aurait-elle souhaité faire à quelqu’un la confidence de toutes ces choses. Mais comment dire un insaisissable malaise, qui change d’aspect comme les nuées, qui tourbillonne comme le vent ? Les mots lui manquaient donc, l’occasion, la hardiesse.</p>
           <p>Si Charles l’avait voulu cependant, s’il s’en fût douté, si son regard, une seule fois, fût venu à la rencontre de sa pensée, il lui semblait qu’une abondance subite se serait détachée de son cœur, comme tombe la récolte d’un espalier quand on y porte la main. Mais, à mesure que se serrait davantage l’intimité de leur vie, un détachement intérieur se faisait qui la déliait de lui.</p>
@@ -245,9 +240,8 @@
           <p>Un mercredi, à trois heures, M. et madame Bovary, montés dans leur <hi rend="i">boc</hi>, partirent pour la Vaubyessard, avec une grande malle attachée par derrière et une boîte à chapeau qui était posée devant le tablier. Charles avait, de plus, un carton entre les jambes.</p>
           <p>Ils arrivèrent à la nuit tombante, comme on commençait à allumer des lampions dans le parc, afin d’éclairer les voitures.</p>
         </div>
-        <div xml:id="CHAP_11">
-          <head>VIII
-<lb/></head>
+        <div type="chapter">
+          <head>VIII</head>
           <p>Le château, de construction moderne, à l’Italienne, avec deux ailes avançant et trois perrons, se déployait au bas d’une immense pelouse où paissaient quelques vaches, entre des bouquets de grands arbres espacés, tandis que des bannettes d’arbustes, rhododendrons, seringas et boules-de-neige bombaient leurs touffes de verdure inégales sur la ligne courbe du chemin sablé. Une rivière passait sous un pont ; à travers la brume, on distinguait des bâtiments à toit de chaume, éparpillés dans la prairie, que bordaient en pente douce deux coteaux couverts de bois, et par derrière, dans les massifs, se tenaient, sur deux lignes parallèles, les remises et les écuries, restes conservés de l’ancien château démoli.</p>
           <p>Le <hi rend="i">boc</hi> de Charles s’arrêta devant le perron du milieu ; des domestiques parurent ; le Marquis s’avança, et, offrant son bras à la femme du médecin, l’introduisit dans le vestibule.</p>
           <p>Il était pavé de dalles en marbre, très haut, et le bruit des pas, avec celui des voix, y retentissait comme dans une église. En face montait un escalier droit, et à gauche une galerie donnant sur le jardin conduisait à la salle de billard dont on entendait, dès la porte, caramboler les boules d’ivoire. Comme elle la traversait pour aller au salon, Emma vit autour du jeu des hommes à figure grave, le menton posé sur de hautes cravates, décorés tous, et qui souriaient silencieusement, en poussant leur queue. Sur la boiserie sombre du lambris, de grands cadres dorés portaient, au bas de leur bordure, des noms écrits en lettres noires. Elle lut : « Jean-Antoine d’Andervilliers d’Yverbonville, comte de la Vaubyessard et baron de la Fresnaye, tué à la bataille de Coutras, le 20 octobre 1587. » Et sur un autre : « Jean-Antoine-Henry-Guy d’Andervilliers de la Vaubyessard, amiral de France et chevalier de l’ordre de Saint-Michel, blessé au combat de la Hougue-Saint-Vaast, le 29 mai 1692, mort à la Vaubyessard le 23 janvier 1693. » Puis on distinguait à peine ceux qui suivaient, car la lumière des lampes, rabattue sur le tapis vert du billard, laissait flotter une ombre dans l’appartement. Brunissant les toiles horizontales, elle se brisait contre elles en arêtes fines, selon les craquelures du vernis ; et de tous ces grands carrés noirs bordés d’or sortaient, çà et là, quelque portion plus claire de la peinture, un front pâle, deux yeux qui vous regardaient, des perruques se déroulant sur l’épaule poudrée des habits rouges, ou bien la boucle d’une jarretière au haut d’un mollet rebondi.</p>
@@ -313,9 +307,8 @@
           <p>La journée fut longue, le lendemain ! Elle se promena dans son jardinet, passant et revenant par les mêmes allées, s’arrêtant devant les plates-bandes, devant l’espalier, devant le curé de plâtre, considérant avec ébahissement toutes ces choses d’autrefois qu’elle connaissait si bien. Comme le bal déjà lui semblait loin ! Qui donc écartait, à tant de distance, le matin d’avant-hier et le soir d’aujourd’hui ? Son voyage à la Vaubyessard avait fait un trou dans sa vie, à la manière de ces grandes crevasses qu’un orage, en une seule nuit, creuse quelquefois dans les montagnes. Elle se résigna pourtant ; elle serra pieusement dans la commode sa belle toilette et jusqu’à ses souliers de satin, dont la semelle s’était jaunie à la cire glissante du parquet. Son cœur était comme eux : au frottement de la richesse, il s’était placé dessus quelque chose qui ne s’effacerait pas.</p>
           <p>Ce fut donc une occupation pour Emma que le souvenir de ce bal. Toutes les fois que revenait le mercredi, elle se disait en s’éveillant : « Ah ! il y a huit jours… il y a quinze jours…, il y a trois semaines, j’y étais ! » Et peu à peu, les physionomies se confondirent dans sa mémoire, elle oublia l’air des contredanses, elle ne vit plus si nettement les livrées et les appartements ; quelques détails s’en allèrent, mais le regret lui resta.</p>
         </div>
-        <div xml:id="CHAP_12">
-          <head>IX
-<lb/></head>
+        <div type="chapter">
+          <head>IX</head>
           <p>Souvent, lorsque Charles était sorti, elle allait prendre dans l’armoire, entre les plis du linge où elle l’avait laissé, le porte-cigares en soie verte.</p>
           <p>Elle le regardait, l’ouvrait, et même elle flairait l’odeur de sa doublure, mêlée de verveine et de tabac. À qui appartenait-il ?… Au Vicomte. C’était peut-être un cadeau de sa maîtresse. On avait brodé cela sur quelque métier de palissandre, meuble mignon que l’on cachait à tous les yeux, qui avait occupé bien des heures et où s’étaient penchées les boucles molles de la travailleuse pensive. Un souffle d’amour avait passé parmi les mailles du canevas ; chaque coup d’aiguille avait fixé là une espérance ou un souvenir, et tous ces fils de soie entrelacés n’étaient que la continuité de la même passion silencieuse. Et puis le Vicomte, un matin, l’avait emporté avec lui. De quoi avait-on parlé, lorsqu’il restait sur les cheminées à large chambranle, entre les vases de fleurs et les pendules Pompadour ? Elle était à Tostes. Lui, il était à Paris, maintenant ; là-bas ! Comment était ce Paris ? Quel nom démesuré ! Elle se le répétait à demi-voix, pour se faire plaisir ; il sonnait à ses oreilles comme un bourdon de cathédrale, il flamboyait à ses yeux jusque sur l’étiquette de ses pots de pommade.</p>
           <p>La nuit, quand les mareyeurs, dans leurs charrettes, passaient sous ses fenêtres en chantant <hi rend="i">la Marjolaine</hi>, elle s’éveillait ; et écoutant le bruit des roues ferrées, qui, à la sortie du pays, s’amortissait vite sur la terre :</p>
@@ -365,12 +358,10 @@
           <p>Quand on partit de Tostes, au mois de mars, madame Bovary était enceinte.</p>
         </div>
       </div>
-      <div xml:id="CHAP_2">
-        <head>DEUXIÈME PARTIE
-<lb/></head>
-        <div>
-          <head>I
-<lb/></head>
+      <div>
+        <head>DEUXIÈME PARTIE</head>
+        <div type="chapter">
+          <head>I</head>
           <p>Yonville-l’Abbaye (ainsi nommé à cause d’une ancienne abbaye de Capucins dont les ruines n’existent même plus) est un bourg à huit lieues de Rouen, entre la route d’Abbeville et celle de Beauvais, au fond d’une vallée qu’arrose la Rieule, petite rivière qui se jette dans l’Andelle, après avoir fait tourner trois moulins vers son embouchure, et où il y a quelques truites, que les garçons, le dimanche, s’amusent à pêcher à la ligne.</p>
           <p>On quitte la grande route à la Boissière et l’on continue à plat jusqu’au haut de la côte des Leux, d’où l’on découvre la vallée. La rivière qui la traverse en fait comme deux régions de physionomie distincte : tout ce qui est à gauche est en herbage, tout ce qui est à droite est en labour. La prairie s’allonge sous un bourrelet de collines basses pour se rattacher par derrière aux pâturages du pays de Bray, tandis que, du côté de l’est, la plaine, montant doucement, va s’élargissant et étale à perte de vue ses blondes pièces de blé. L’eau qui court au bord de l’herbe sépare d’une raie blanche la couleur des prés et celle des sillons, et la campagne ainsi ressemble à un grand manteau déplié qui a un collet de velours vert, bordé d’un galon d’argent.</p>
           <p>Au bout de l’horizon, lorsqu’on arrive, on a devant soi les chênes de la forêt d’Argueil, avec les escarpements de la côte Saint-Jean, rayés du haut en bas par de longues traînées rouges, inégales ; ce sont les traces des pluies, et ces tons de brique, tranchant en filets minces sur la couleur grise de la montagne, viennent de la quantité de sources ferrugineuses qui coulent au delà, dans le pays d’alentour.</p>
@@ -423,9 +414,8 @@
           <p>Quelques bourgeois d’Yonville arrivèrent sur la place ; ils parlaient tous à la fois, demandant des nouvelles, des explications et des bourriches ; Hivert ne savait auquel répondre. C’était lui qui faisait à la ville les commissions du pays. Il allait dans les boutiques, rapportait des rouleaux de cuir au cordonnier, de la ferraille au maréchal, un baril de harengs pour sa maîtresse, des bonnets de chez la modiste, des toupets de chez le coiffeur ; et, le long de la route, en s’en revenant, il distribuait ses paquets, qu’il jetait par-dessus les clôtures des cours, debout sur son siège, et criant à pleine poitrine, pendant que ses chevaux allaient tout seuls.</p>
           <p>Un accident l’avait retardé : la levrette de madame Bovary s’était enfuie à travers champs. On l’avait sifflée un grand quart d’heure. Hivert même était retourné d’une demi-lieue en arrière, croyant l’apercevoir à chaque minute ; mais il avait fallu continuer la route. Emma avait pleuré, s’était emportée ; elle avait accusé Charles de ce malheur. M. Lheureux, marchand d’étoffes, qui se trouvait avec elle dans la voiture, avait essayé de la consoler par quantité d’exemples de chiens perdus, reconnaissant leur maître au bout de longues années. On en citait un, disait-il, qui était revenu de Constantinople à Paris. Un autre avait fait cinquante lieues en ligne droite et passé quatre rivières à la nage ; et son père à lui-même avait possédé un caniche qui, après douze ans d’absence, lui avait tout à coup sauté sur le dos, un soir, dans la rue, comme il allait dîner en ville.</p>
         </div>
-        <div xml:id="CHAP_14">
-          <head>II
-<lb/></head>
+        <div type="chapter">
+          <head>II</head>
           <p>Emma descendit la première, puis Félicité, M. Lheureux, une nourrice, et l’on fut obligé de réveiller Charles dans son coin, où il s’était endormi complètement dès que la nuit était venue.</p>
           <p>Homais se présenta ; il offrit ses hommages à Madame, ses civilités à Monsieur, dit qu’il était charmé d’avoir pu leur rendre quelque service, et ajouta d’un air cordial qu’il avait osé s’inviter lui-même, sa femme d’ailleurs étant absente.</p>
           <p>Madame Bovary, quand elle fut dans la cuisine, s’approcha de la cheminée. Du bout de ses deux doigts, elle prit sa robe à la hauteur du genou, et, l’ayant ainsi remontée jusqu’aux chevilles, elle tendit à la flamme, par-dessus le gigot qui tournait, son pied chaussé d’une bottine noire. Le feu l’éclairait en entier, pénétrant d’une lumière crue la trame de sa robe, les pores égaux de sa peau blanche et même les paupières de ses yeux qu’elle clignait de temps à autre. Une grande couleur rouge passait sur elle, selon le souffle du vent qui venait par la porte entr’ouverte.</p>
@@ -475,9 +465,8 @@
           <p>Emma, dès le vestibule, sentit tomber sur ses épaules, comme un linge humide, le froid du plâtre. Les murs étaient neufs, et les marches de bois craquèrent. Dans la chambre, au premier, un jour blanchâtre passait par les fenêtres sans rideaux. On entrevoyait des cimes d’arbres, et plus loin la prairie, à demi noyée dans le brouillard, qui fumait au clair de la lune, selon le cours de la rivière. Au milieu de l’appartement, pêle-mêle, il y avait des tiroirs de commode, des bouteilles, des tringles, des bâtons dorés avec des matelas sur des chaises et des cuvettes sur le parquet, – les deux hommes qui avaient apporté les meubles ayant tout laissé là, négligemment.</p>
           <p>C’était la quatrième fois qu’elle couchait dans un endroit inconnu. La première avait été le jour de son entrée au couvent, la seconde celle de son arrivée à Tostes, la troisième à la Vaubyessard, la quatrième était celle-ci ; et chacune s’était trouvée faire dans sa vie comme l’inauguration d’une phase nouvelle. Elle ne croyait pas que les choses pussent se représenter les mêmes à des places différentes, et, puisque la portion vécue avait été mauvaise, sans doute ce qui restait à consommer serait meilleur.</p>
         </div>
-        <div xml:id="CHAP_15">
-          <head>III
-<lb/></head>
+        <div type="chapter">
+          <head>III</head>
           <p>Le lendemain, à son réveil, elle aperçut le clerc sur la place. Elle était en peignoir. Il leva la tête et la salua. Elle fit une inclination rapide et referma la fenêtre.</p>
           <p>Léon attendit pendant tout le jour que six heures du soir fussent arrivées ; mais, en entrant à l’auberge, il ne trouva personne que M. Binet, attablé.</p>
           <p>Ce dîner de la veille était pour lui un événement considérable ; jamais, jusqu’alors, il n’avait causé pendant deux heures de suite avec une <hi rend="i">dame</hi>. Comment donc avoir pu lui exposer, et en un tel langage, quantité de choses qu’il n’aurait pas si bien dites auparavant ? il était timide d’habitude et gardait cette réserve qui participe à la fois de la pudeur et de la dissimulation. On trouvait à Yonville qu’il avait des manières <hi rend="i">comme il faut</hi>. Il écoutait raisonner les gens mûrs, et ne paraissait point exalté en politique, chose remarquable pour un jeune homme. Puis il possédait des talents, il peignait à l’aquarelle, savait lire la clef de sol, et s’occupait volontiers de littérature après son dîner, quand il ne jouait pas aux cartes. M. Homais le considérait pour son instruction ; madame Homais l’affectionnait pour sa complaisance, car souvent il accompagnait au jardin les petits Homais, marmots toujours barbouillés, fort mal élevés et quelque peu lymphatiques, comme leur mère. Ils avaient pour les soigner, outre la bonne, Justin, l’élève en pharmacie, un arrière-cousin de M. Homais que l’on avait pris dans la maison par charité, et qui servait en même temps de domestique.</p>
@@ -546,9 +535,8 @@
           <p>Mais, sur le fond commun de tous ces visages humains, la figure d’Emma se détachait isolée et plus lointaine cependant ; car il sentait entre elle et lui comme de vagues abîmes.</p>
           <p>Au commencement, il était venu chez elle plusieurs fois dans la compagnie du pharmacien. Charles n’avait point paru extrêmement curieux de le recevoir ; et Léon ne savait comment s’y prendre entre la peur d’être indiscret et le désir d’une intimité qu’il estimait presque impossible.</p>
         </div>
-        <div xml:id="CHAP_16">
-          <head>IV
-<lb/></head>
+        <div type="chapter">
+          <head>IV</head>
           <p>Dès les premiers froids, Emma quitta sa chambre pour habiter la salle, longue pièce à plafond bas où il y avait, sur la cheminée, un polypier touffu s’étalant contre la glace. Assise dans son fauteuil, près de la fenêtre, elle voyait passer les gens du village sur le trottoir.</p>
           <p>Léon, deux fois par jour, allait de son étude au <hi rend="i">Lion d’or</hi>. Emma, de loin, l’entendait venir ; elle se penchait en écoutant ; et le jeune homme glissait derrière le rideau, toujours vêtu de même façon et sans détourner la tête. Mais au crépuscule, lorsque, le menton dans sa main gauche, elle avait abandonné sur ses genoux sa tapisserie commencée, souvent elle tressaillait à l’apparition de cette ombre glissant tout à coup. Elle se levait et commandait qu’on mît le couvert.</p>
           <p>M. Homais arrivait pendant le dîner. Bonnet grec à la main, il entrait à pas muets pour ne déranger personne et toujours en répétant la même phrase : « Bonsoir la compagnie ! » Puis, quand il s’était posé à sa place, contre la table, entre les deux époux, il demandait au médecin des nouvelles de ses malades, et celui-ci le consultait sur la probabilité des honoraires. Ensuite, on causait de ce qu’il y avait <hi rend="i">dans le journal</hi>. Homais, à cette heure-là, le savait presque par cœur ; et il le rapportait intégralement, avec les réflexions du journaliste et toutes les histoires des catastrophes individuelles arrivées en France ou à l’étranger. Mais, le sujet se tarissant, il ne tardait pas à lancer quelques observations sur les mets qu’il voyait. Parfois même, se levant à demi, il indiquait délicatement à Madame le morceau le plus tendre, ou, se tournant vers la bonne, lui adressait des conseils pour la manipulation des ragoûts et l’hygiène des assaisonnements ; il parlait arome, osmazôme, sucs et gélatine d’une façon à éblouir. La tête d’ailleurs plus remplie de recettes que sa pharmacie ne l’était de bocaux, Homais excellait à faire quantité de confitures, vinaigres et liqueurs douces, et il connaissait aussi toutes les inventions nouvelles de caléfacteurs économiques, avec l’art de conserver les fromages et de soigner les vins malades.</p>
@@ -568,9 +556,8 @@
           <p>Il se torturait à découvrir par quel moyen lui <hi rend="i">faire sa déclaration</hi> ; et, toujours hésitant entre la crainte de lui déplaire et la honte d’être si pusillanime, il en pleurait de découragement et de désirs. Puis il prenait des décisions énergiques ; il écrivait des lettres qu’il déchirait, s’ajournait à des époques qu’il reculait. Souvent il se mettait en marche, dans le projet de tout oser ; mais cette résolution l’abandonnait bien vite en la présence d’Emma, et, quand Charles, survenant, l’invitait à monter dans son <hi rend="i">boc</hi> pour aller voir ensemble quelque malade aux environs, il acceptait aussitôt, saluait Madame et s’en allait. Son mari, n’était-ce pas quelque chose d’elle ?</p>
           <p>Quant à Emma, elle ne s’interrogea point pour savoir si elle l’aimait. L’amour, croyait-elle, devait arriver tout à coup, avec de grands éclats et des fulgurations, – ouragan des cieux qui tombe sur la vie, la bouleverse, arrache les volontés comme des feuilles et emporte à l’abîme le cœur entier. Elle ne savait pas que, sur la terrasse des maisons, la pluie fait des lacs quand les gouttières sont bouchées, et elle fût ainsi demeurée en sa sécurité, lorsqu’elle découvrit subitement une lézarde dans le mur.</p>
         </div>
-        <div>
-          <head>V
-<lb/></head>
+        <div type="chapter">
+          <head>V</head>
           <p>Ce fut un dimanche de février, une après-midi qu’il neigeait.</p>
           <p>Ils étaient tous, M. et madame Bovary, Homais et M. Léon, partis voir, à une demi-lieue d’Yonville, dans la vallée, une filature de lin que l’on établissait. L’apothicaire avait emmené avec lui Napoléon et Athalie, pour leur faire faire de l’exercice, et Justin les accompagnait, portant des parapluies sur son épaule.</p>
           <p>Rien pourtant n’était moins curieux que cette curiosité. Un grand espace de terrain vide, où se trouvaient pêle-mêle, entre des tas de sable et de cailloux, quelques roues d’engrenage déjà rouillées, entourait un long bâtiment quadrangulaire que perçaient quantité de petites fenêtres. Il n’était pas achevé d’être bâti, et l’on voyait le ciel à travers les lambourdes de la toiture. Attaché à la poutrelle du pignon, un bouquet de paille entremêlé d’épis faisait claquer au vent ses rubans tricolores.</p>
@@ -652,9 +639,8 @@
           <p>– Ah ! oui, reprenait Félicité, vous êtes justement comme la Guérine, la fille au père Guérin, le pêcheur du Pollet, que j’ai connue à Dieppe, avant de venir chez vous. Elle était si triste, si triste, qu’à la voir debout sur le seuil de sa maison, elle vous faisait l’effet d’un drap d’enterrement tendu devant la porte. Son mal, à ce qu’il paraît, était une manière de brouillard qu’elle avait dans la tête, et les médecins n’y pouvaient rien, ni le curé non plus. Quand ça la prenait trop fort, elle s’en allait toute seule sur le bord de la mer, si bien que le lieutenant de la douane, en faisant sa tournée, souvent la trouvait étendue à plat ventre et pleurant sur les galets. Puis, après son mariage, ça lui a passé, dit-on.</p>
           <p>– Mais, moi, reprenait Emma, c’est après le mariage que ça m’est venu.</p>
         </div>
-        <div xml:id="CHAP_18">
-          <head>VI
-<lb/></head>
+        <div type="chapter">
+          <head>VI</head>
           <p>Un soir que la fenêtre était ouverte, et que, assise au bord, elle venait de regarder Lestiboudois, le bedeau, qui taillait le buis, elle entendit tout à coup sonner l’<hi rend="i">Angelus</hi>.</p>
           <p>On était au commencement d’avril, quand les primevères sont écloses ; un vent tiède se roule sur les plates-bandes labourées, et les jardins, comme des femmes, semblent faire leur toilette pour les fêtes de l’été. Par les barreaux de la tonnelle et au delà tout alentour, on voyait la rivière dans la prairie, où elle dessinait sur l’herbe des sinuosités vagabondes. La vapeur du soir passait entre les peupliers sans feuilles, estompant leurs contours d’une teinte violette, plus pâle et plus transparente qu’une gaze subtile arrêtée sur leurs branchages. Au loin, des bestiaux marchaient ; on n’entendait ni leurs pas, ni leurs mugissements ; et la cloche, sonnant toujours, continuait dans les airs sa lamentation pacifique.</p>
           <p>À ce tintement répété, la pensée de la jeune femme s’égarait dans ses vieux souvenirs de jeunesse et de pension. Elle se rappela les grands chandeliers, qui dépassaient sur l’autel les vases pleins de fleurs et le tabernacle à colonnettes. Elle aurait voulu, comme autrefois, être encore confondue dans la longue ligne des voiles blancs, que marquaient de noir çà et là les capuchons raides des bonnes sœurs inclinées sur leur prie-Dieu ; le dimanche, à la messe, quand elle relevait sa tête, elle apercevait le doux visage de la Vierge parmi les tourbillons bleuâtres de l’encens qui montait. Alors un attendrissement la saisit ; elle se sentit molle et tout abandonnée, comme un duvet d’oiseau qui tournoie dans la tempête ; et ce fut sans en avoir conscience qu’elle s’achemina vers l’église, disposée à n’importe quelle dévotion, pourvu qu’elle y absorbât son âme et que l’existence entière y disparût.</p>
@@ -810,9 +796,8 @@
           <p>– Quoi donc ?</p>
           <p>– C’est qu’il est fort probable, reprit Homais en dressant ses sourcils et en prenant une figure des plus sérieuses, que les comices agricoles de la Seine-Inférieure se tiendront cette année à Yonville-l’Abbaye. Le bruit, du moins, en circule. Ce matin, le journal en touchait quelque chose. Ce serait pour notre arrondissement de la dernière importance ! Mais nous en causerons plus tard. J’y vois, je vous remercie ; Justin a la lanterne.</p>
         </div>
-        <div xml:id="CHAP_19">
-          <head>VII
-<lb/></head>
+        <div type="chapter">
+          <head>VII</head>
           <p>Le lendemain fut, pour Emma, une journée funèbre. Tout lui parut enveloppé par une atmosphère noire qui flottait confusément sur l’extérieur des choses, et le chagrin s’engouffrait dans son âme avec des hurlements doux, comme fait le vent d’hiver dans les châteaux abandonnés. C’était cette rêverie que l’on a sur ce qui ne reviendra plus, la lassitude qui vous prend après chaque fait accompli, cette douleur enfin que vous apportent l’interruption de tout mouvement accoutumé, la cessation brusque d’une vibration prolongée.</p>
           <p>Comme au retour de la Vaubyessard, quand les quadrilles tourbillonnaient dans sa tête, elle avait une mélancolie morne, un désespoir engourdi. Léon réapparaissait plus grand, plus beau, plus suave, plus vague ; quoiqu’il fût séparé d’elle, il ne l’avait pas quittée, il était là, et les murailles de la maison semblaient garder son ombre. Elle ne pouvait détacher sa vue de ce tapis où il avait marché, de ces meubles vides où il s’était assis. La rivière coulait toujours, et poussait lentement ses petits flots le long de la berge glissante. Ils s’y étaient promenés bien des fois, à ce même murmure des ondes, sur les cailloux couverts de mousse. Quels bons soleils ils avaient eus ! quelles bonnes après-midi, seuls, à l’ombre, dans le fond du jardin ! Il lisait tout haut, tête nue, posé sur un tabouret de bâtons secs ; le vent frais de la prairie faisait trembler les pages du livre et les capucines de la tonnelle… Ah ! il était parti, le seul charme de sa vie, le seul espoir possible d’une félicité ! Comment n’avait-elle pas saisi ce bonheur-là, quand il se présentait ! Pourquoi ne l’avoir pas retenu à deux mains, à deux genoux, quand il voulait s’enfuir ? Et elle se maudit de n’avoir pas aimé Léon ; elle eut soif de ses lèvres. L’envie la prit de courir le rejoindre, de se jeter dans ses bras, de lui dire : « C’est moi, je suis à toi ! » Mais Emma s’embarrassait d’avance aux difficultés de l’entreprise, et ses désirs, s’augmentant d’un regret, n’en devenaient que plus actifs.</p>
           <p>Dès lors, ce souvenir de Léon fut comme le centre de son ennui ; il y pétillait plus fort que, dans un steppe de Russie, un feu de voyageurs abandonné sur la neige. Elle se précipitait vers lui, elle se blottissait contre, elle remuait délicatement ce foyer près de s’éteindre, elle allait cherchant tout autour d’elle ce qui pouvait l’aviver davantage ; et les réminiscences les plus lointaines comme les plus immédiates occasions, ce qu’elle éprouvait avec ce qu’elle imaginait, ses envies de volupté qui se dispersaient, ses projets de bonheur qui craquaient au vent comme des branchages morts, sa vertu stérile, ses espérances tombées, la litière domestique, elle ramassait tout, prenait tout, et faisait servir tout à réchauffer sa tristesse.</p>
@@ -889,9 +874,8 @@
           <p>Au haut de la côte d’Argueil, sa résolution était prise.</p>
           <p>– Il n’y a plus qu’à chercher les occasions. Eh bien, j’y passerai quelquefois, je leur enverrai du gibier, de la volaille ; je me ferai saigner, s’il le faut ; nous deviendrons amis, je les inviterai chez moi… Ah ! parbleu ! ajouta-t-il, voilà les comices bientôt ; elle y sera, je la verrai. Nous commencerons, et hardiment, car c’est le plus sûr.</p>
         </div>
-        <div xml:id="CHAP_20">
-          <head>VIII
-<lb/></head>
+        <div type="chapter">
+          <head>VIII</head>
           <p>Ils arrivèrent, en effet, ces fameux Comices ! Dès le matin de la solennité, tous les habitants, sur leurs portes, s’entretenaient des préparatifs ; on avait enguirlandé de lierres le fronton de la mairie ; une tente dans un pré était dressée pour le festin, et, au milieu de la Place, devant l’église, une espèce de bombarde devait signaler l’arrivée de M. le préfet et le nom des cultivateurs lauréats. La garde nationale de Buchy (il n’y en avait point à Yonville) était venue s’adjoindre au corps des pompiers, dont Binet était le capitaine. Il portait ce jour-là un col encore plus haut que de coutume ; et, sanglé dans sa tunique, il avait le buste si roide et immobile, que toute la partie vitale de sa personne semblait être descendue dans ses deux jambes, qui se levaient en cadence, à pas marqués, d’un seul mouvement. Comme une rivalité subsistait entre le percepteur et le colonel, l’un et l’autre, pour montrer leurs talents, faisaient à part manœuvrer leurs hommes. On voyait alternativement passer et repasser les épaulettes rouges et les plastrons noirs. Cela ne finissait pas et toujours recommençait ! Jamais il n’y avait eu pareil déploiement de pompe ! Plusieurs bourgeois, dès la veille, avaient lavé leurs maisons ; des drapeaux tricolores pendaient aux fenêtres entr’ouvertes ; tous les cabarets étaient pleins ; et, par le beau temps qu’il faisait, les bonnets empesés, les croix d’or et les fichus de couleur paraissaient plus blancs que neige, miroitaient au soleil clair, et relevaient de leur bigarrure éparpillée la sombre monotonie des redingotes et des bourgerons bleus. Les fermières des environs retiraient, en descendant de cheval, la grosse épingle qui leur serrait autour du corps leur robe retroussée de peur des taches ; et les maris, au contraire, afin de ménager leurs chapeaux, gardaient par-dessus des mouchoirs de poche, dont ils tenaient un angle entre les dents.</p>
           <p>La foule arrivait dans la grande rue par les deux bouts du village. Il s’en dégorgeait des ruelles, des allées, des maisons, et l’on entendait de temps à autre retomber le marteau des portes, derrière les bourgeoises en gants de fil, qui sortaient pour aller voir la fête. Ce que l’on admirait surtout, c’étaient deux longs ifs couverts de lampions qui flanquaient une estrade où s’allaient tenir les autorités ; et il y avait de plus, contre les quatre colonnes de la mairie, quatre manières de gaules, portant chacune un petit étendard de toile verdâtre, enrichi d’inscriptions en lettres d’or. On lisait sur l’un : « Au Commerce » ; sur l’autre : « À l’Agriculture » ; sur le troisième : « À l’Industrie » ; et sur le quatrième : « Aux Beaux-Arts ».</p>
           <p>Mais la jubilation qui épanouissait tous les visages paraissait assombrir madame Lefrançois, l’aubergiste. Debout sur les marches de sa cuisine, elle murmurait dans son menton :</p>
@@ -1091,9 +1075,8 @@
           <p>Et il ajoutait :</p>
           <p>« On y a seulement remarqué l’absence du clergé. Sans doute les sacristies entendent le progrès d’une autre manière. Libre à vous, messieurs de Loyola ! »</p>
         </div>
-        <div xml:id="CHAP_21">
-          <head>IX
-<lb/></head>
+        <div type="chapter">
+          <head>IX</head>
           <p>Six semaines s’écoulèrent. Rodolphe ne revint pas. Un soir, enfin, il parut.</p>
           <p>Il s’était dit, le lendemain des comices :</p>
           <p>– N’y retournons pas de sitôt, ce serait une faute.</p>
@@ -1223,9 +1206,8 @@
           <p>– Qu’as-tu donc ? dit-elle. Souffres-tu ? Parle-moi !</p>
           <p>Enfin il déclara, d’un air sérieux, que ses visites devenaient imprudentes et qu’elle se compromettait.</p>
         </div>
-        <div>
-          <head>X
-<lb/></head>
+        <div type="chapter">
+          <head>X</head>
           <p>Peu à peu, ces craintes de Rodolphe la gagnèrent. L’amour l’avait enivrée d’abord, et elle n’avait songé à rien au delà. Mais, à présent qu’il était indispensable à sa vie, elle craignait d’en perdre quelque chose, ou même qu’il ne fût troublé. Quand elle s’en revenait de chez lui, elle jetait tout alentour des regards inquiets, épiant chaque forme qui passait à l’horizon et chaque lucarne du village d’où l’on pouvait l’apercevoir. Elle écoutait les pas, les cris, le bruit des charrues ; et elle s’arrêtait plus blême et plus tremblante que les feuilles des peupliers qui se balançaient sur sa tête.</p>
           <p>Un matin, qu’elle s’en retournait ainsi, elle crut distinguer tout à coup le long canon d’une carabine qui semblait la tenir en joue. Il dépassait obliquement le bord d’un petit tonneau, à demi enfoui entre les herbes, sur la marge d’un fossé. Emma, prête à défaillir de terreur, avança cependant, et un homme sortit du tonneau, comme ces diables à boudin qui se dressent du fond des boîtes. Il avait des guêtres bouclées jusqu’aux genoux, sa casquette enfoncée jusqu’aux yeux, les lèvres grelottantes et le nez rouge. C’était le capitaine Binet, à l’affût des canards sauvages.</p>
           <p>– Vous auriez dû parler de loin ! s’écria-t-il. Quand on aperçoit un fusil, il faut toujours avertir.</p>
@@ -1312,9 +1294,8 @@
           <p>C’est alors qu’Emma se repentit !</p>
           <p>Elle se demanda même pourquoi donc elle exécrait Charles, et s’il n’eût pas été meilleur de le pouvoir aimer. Mais il n’offrait pas grande prise à ces retours du sentiment, si bien qu’elle demeurait fort embarrassée dans sa velléité de sacrifice, lorsque l’apothicaire vint à propos lui fournir une occasion.</p>
         </div>
-        <div xml:id="CHAP_23">
-          <head>XI
-<lb/></head>
+        <div type="chapter">
+          <head>XI</head>
           <p>Il avait lu dernièrement l’éloge d’une nouvelle méthode pour la cure des pieds bots ; et comme il était partisan du progrès, il conçut cette idée patriotique que Yonville, pour <hi rend="i">se mettre au niveau</hi>, devait avoir des opérations de stréphopodie.</p>
           <p>– Car, disait-il à Emma, que risque-t-on ? Examinez (et il énumérait, sur ses doigts, les avantages de la tentative) ; succès presque certain, soulagement et embellissement du malade, célébrité vite acquise à l’opérateur. Pourquoi votre mari, par exemple, ne voudrait-il pas débarrasser ce pauvre Hippolyte, du <hi rend="i">Lion d’or</hi> ? Notez qu’il ne manquerait pas de raconter sa guérison à tous les voyageurs, et puis (Homais baissait la voix et regardait autour de lui) qui donc m’empêcherait d’envoyer au journal une petite note là-dessus ? Eh ! mon Dieu ! un article circule…, on en parle…, cela finit par faire la boule de neige ! Et qui sait ? qui sait ?</p>
           <p>En effet, Bovary pouvait réussir ; rien n’affirmait à Emma qu’il ne fût pas habile, et quelle satisfaction pour elle que de l’avoir engagé à une démarche d’où sa réputation et sa fortune se trouveraient accrues ? Elle ne demandait qu’à s’appuyer sur quelque chose de plus solide que l’amour.</p>
@@ -1398,9 +1379,8 @@
           <p>Charles s’affaissa dans son fauteuil, bouleversé, cherchant ce qu’elle pouvait avoir, imaginant une maladie nerveuse, pleurant, et sentant vaguement circuler autour de lui quelque chose de funeste et d’incompréhensible.</p>
           <p>Quand Rodolphe, le soir, arriva dans le jardin, il trouva sa maîtresse qui l’attendait au bas du perron, sur la première marche. Ils s’étreignirent, et toute leur rancune se fondit comme une neige sous la chaleur de ce baiser.</p>
         </div>
-        <div xml:id="CHAP_24">
-          <head>XII
-<lb/></head>
+        <div type="chapter">
+          <head>XII</head>
           <p>Ils recommencèrent à s’aimer. Souvent même, au milieu de la journée, Emma lui écrivait tout à coup ; puis, à travers les carreaux, faisait un signe à Justin, qui, dénouant vite sa serpillière, s’envolait à la Huchette. Rodolphe arrivait ; c’était pour lui dire qu’elle s’ennuyait, que son mari était odieux et son existence affreuse !</p>
           <p>– Est-ce que j’y peux quelque chose ? s’écria-t-il un jour, impatienté.</p>
           <p>– Ah ! si tu voulais !…</p>
@@ -1554,9 +1534,8 @@
           <p>Il se disait ces choses pour s’affermir davantage.</p>
           <p>– Et, d’ailleurs, les embarras, la dépense… Ah ! non, non, mille fois non ! cela eût été trop bête !</p>
         </div>
-        <div xml:id="CHAP_25">
-          <head>XIII
-<lb/></head>
+        <div type="chapter">
+          <head>XIII</head>
           <p>À peine arrivé chez lui, Rodolphe s’assit brusquement à son bureau, sous la tête de cerf faisant trophée contre la muraille. Mais, quand il eut la plume entre les doigts, il ne sut rien trouver, si bien que, s’appuyant sur les deux coudes, il se mit à réfléchir. Emma lui semblait être reculée dans un passé lointain, comme si la résolution qu’il avait prise venait de placer entre eux, tout à coup, un immense intervalle.</p>
           <p>Afin de ressaisir quelque chose d’elle, il alla chercher dans l’armoire, au chevet de son lit, une vieille boîte à biscuits de Reims où il enfermait d’habitude ses lettres de femmes, et il s’en échappa une odeur de poussière humide et de roses flétries. D’abord il aperçut un mouchoir de poche, couvert de gouttelettes pâles. C’était un mouchoir à elle, une fois qu’elle avait saigné du nez, en promenade ; il ne s’en souvenait plus. Il y avait auprès, se cognant à tous les angles, la miniature donnée par Emma ; sa toilette lui parut prétentieuse et son regard <hi rend="i">en coulisse</hi> du plus pitoyable effet ; puis, à force de considérer cette image et d’évoquer le souvenir du modèle, les traits d’Emma peu à peu se confondirent en sa mémoire, comme si la figure vivante et la figure peinte, se frottant l’une contre l’autre, se fussent réciproquement effacées. Enfin il lut de ses lettres ; elles étaient pleines d’explications relatives à leur voyage, courtes, techniques et pressantes comme des billets d’affaires. Il voulut revoir les longues, celles d’autrefois ; pour les trouver au fond de la boîte, Rodolphe dérangea toutes les autres ; et machinalement il se mit à fouiller dans ce tas de papiers et de choses, y retrouvant pêle-mêle des bouquets, une jarretière, un masque noir, des épingles et des cheveux – des cheveux ! de bruns, de blonds ; quelques-uns même, s’accrochant à la ferrure de la boîte, se cassaient quand on l’ouvrait.</p>
           <p>Ainsi flânant parmi ses souvenirs, il examinait les écritures et le style des lettres, aussi variés que leurs orthographes. Elles étaient tendres ou joviales, facétieuses, mélancoliques ; il y en avait qui demandaient de l’amour et d’autres qui demandaient de l’argent. À propos d’un mot, il se rappelait des visages, de certains gestes, un son de voix ; quelquefois pourtant il ne se rappelait rien.</p>
@@ -1658,9 +1637,8 @@
           <p>Elle eut un étourdissement, et dès le soir, sa maladie recommença, avec une allure plus incertaine, il est vrai, et des caractères plus complexes. Tantôt elle souffrait au cœur, puis dans la poitrine, dans le cerveau, dans les membres ; il lui survint des vomissements où Charles crut apercevoir les premiers symptômes d’un cancer.</p>
           <p>Et le pauvre garçon, par là-dessus, avait des inquiétudes d’argent !</p>
         </div>
-        <div xml:id="CHAP_26">
-          <head>XIV
-<lb/></head>
+        <div type="chapter">
+          <head>XIV</head>
           <p>D’abord, il ne savait comment faire pour dédommager M. Homais de tous les médicaments pris chez lui ; et, quoiqu’il eût pu, comme médecin, ne pas les payer, néanmoins il rougissait un peu de cette obligation. Puis la dépense du ménage, à présent que la cuisinière était maîtresse, devenait effrayante ; les notes pleuvaient dans la maison ; les fournisseurs murmuraient ; M. Lheureux, surtout, le harcelait. En effet, au plus fort de la maladie d’Emma, celui-ci, profitant de la circonstance pour exagérer sa facture, avait vite apporté le manteau, le sac de nuit, deux caisses au lieu d’une, quantité d’autres choses encore. Charles eut beau dire qu’il n’en avait pas besoin, le marchand répondit arrogamment qu’on lui avait commandé tous ces articles et qu’il ne les reprendrait pas ; d’ailleurs, ce serait contrarier Madame dans sa convalescence ; Monsieur réfléchirait ; bref, il était résolu à le poursuivre en justice plutôt que d’abandonner ses droits et que d’emporter ses marchandises. Charles ordonna par la suite de les renvoyer à son magasin ; Félicité oublia ; il avait d’autres soucis ; on n’y pensa plus ; M. Lheureux revint à la charge, et, tour à tour menaçant et gémissant, manœuvra de telle façon, que Bovary finit par souscrire un billet à six mois d’échéance. Mais à peine eut-il signé ce billet, qu’une idée audacieuse lui surgit : c’était d’emprunter mille francs à M. Lheureux. Donc, il demanda, d’un air embarrassé, s’il n’y avait pas moyen de les avoir, ajoutant que ce serait pour un an et au taux que l’on voudrait. Lheureux courut à sa boutique, en rapporta les écus et dicta un autre billet, par lequel Bovary déclarait devoir payer à son ordre, le 1<hi rend="sup">er</hi> septembre prochain, la somme de mille soixante et dix francs ; ce qui, avec les cent quatre-vingts déjà stipulés, faisait juste douze cent cinquante. Ainsi, prêtant à six pour cent, augmenté d’un quart de commission, et les fournitures lui rapportant un bon tiers pour le moins, cela devait, en douze mois, donner cent trente francs de bénéfice ; et il espérait que l’affaire ne s’arrêterait pas là, qu’on ne pourrait payer les billets, qu’on les renouvellerait, et que son pauvre argent, s’étant nourri chez le médecin comme dans une maison de santé, lui reviendrait, un jour, considérablement plus dodu, et gros à faire craquer le sac.</p>
           <p>Tout, d’ailleurs, lui réussissait. Il était adjudicataire d’une fourniture de cidre pour l’hôpital de Neufchâtel ; M. Guillaumin lui promettait des actions dans les tourbières de Grumesnil, et il rêvait d’établir un nouveau service de diligences entre Argueil et Rouen, qui ne tarderait pas, sans doute, à ruiner la guimbarde du <hi rend="i">Lion d’or</hi>, et qui, marchant plus vite, étant à prix plus bas et portant plus de bagages, lui mettrait ainsi dans les mains tout le commerce d’Yonville.</p>
           <p>Charles se demanda plusieurs fois par quel moyen, l’année prochaine, pouvoir rembourser tant d’argent ; et il cherchait, imaginait des expédients, comme de recourir à son père ou de vendre quelque chose. Mais son père serait sourd, et il n’avait, lui, rien à vendre. Alors il découvrait de tels embarras, qu’il écartait vite de sa conscience un sujet de méditation aussi désagréable. Il se reprochait d’en oublier Emma ; comme si, toutes ses pensées appartenant à cette femme, c’eût été lui dérober quelque chose que de n’y pas continuellement réfléchir.</p>
@@ -1721,9 +1699,8 @@
           <p>La diligence descendait à l’hôtel de la <hi rend="i">Croix Rouge</hi>, sur la place Beauvoisine. C’était une de ces auberges comme il y en a dans tous les faubourgs de province, avec de grandes écuries et de petites chambres à coucher, où l’on voit au milieu de la cour des poules picorant l’avoine sous les cabriolets crottés des commis voyageurs ; – bons vieux gîtes à balcon de bois vermoulu qui craquent au vent dans les nuits d’hiver, continuellement pleins de monde, de vacarme et de mangeaille, dont les tables noires sont poissées par les <hi rend="i">glorias</hi>, les vitres épaisses jaunies par les mouches, les serviettes humides tachées par le vin bleu ; et qui, sentant toujours le village, comme des valets de ferme habillés en bourgeois, ont un café sur la rue, et du côté de la campagne un jardin à légumes. Charles immédiatement se mit en courses. Il confondit l’avant-scène avec les galeries, le <hi rend="i">parquet</hi> avec les loges, demanda des explications, ne les comprit pas, fut renvoyé du contrôleur au directeur, revint à l’auberge, retourna au bureau, et, plusieurs fois ainsi, arpenta toute la longueur de la ville, depuis le théâtre jusqu’au boulevard.</p>
           <p>Madame s’acheta un chapeau, des gants, un bouquet. Monsieur craignait beaucoup de manquer le commencement ; et, sans avoir eu le temps d’avaler un bouillon, ils se présentèrent devant les portes du théâtre, qui étaient encore fermées.</p>
         </div>
-        <div xml:id="CHAP_27">
-          <head>XV
-<lb/></head>
+        <div type="chapter">
+          <head>XV</head>
           <p>La foule stationnait contre le mur, parquée symétriquement entre des balustrades. À l’angle des rues voisines, de gigantesques affiches répétaient en caractères baroques : « <hi rend="i">Lucie de Lamermoor</hi>… Lagardy… Opéra…, etc. » Il faisait beau ; on avait chaud ; la sueur coulait dans les frisures, tous les mouchoirs tirés épongeaient les fronts rouges ; et parfois un vent tiède, qui soufflait de la rivière, agitait mollement la bordure des tentes en coutil suspendues à la porte des estaminets. Un peu plus bas, cependant, on était rafraîchi par un courant d’air glacial qui sentait le suif, le cuir et l’huile. C’était l’exhalaison de la rue des Charrettes, pleine de grands magasins noirs où l’on roule des barriques.</p>
           <p>De peur de paraître ridicule, Emma voulut, avant d’entrer, faire un tour de promenade sur le port, et Bovary, par prudence, garda les billets à sa main, dans la poche de son pantalon, qu’il appuyait contre son ventre.</p>
           <p>Un battement de cœur la prit dès le vestibule. Elle sourit involontairement de vanité, en voyant la foule qui se précipitait à droite par l’autre corridor, tandis qu’elle montait l’escalier des <hi rend="i">premières</hi>. Elle eut plaisir, comme un enfant, à pousser de son doigt les larges portes tapissées ; elle aspira de toute sa poitrine l’odeur poussiéreuse des couloirs, et, quand elle fut assise dans sa loge, elle se cambra la taille avec une désinvolture de duchesse.</p>
@@ -1795,12 +1772,10 @@
           <p>Le clerc affirma qu’il n’y manquerait pas, ayant d’ailleurs besoin de se rendre à Yonville pour une affaire de son étude. Et l’on se sépara devant le passage Saint-Herbland, au moment où onze heures et demie sonnaient à la cathédrale.</p>
         </div>
       </div>
-      <div xml:id="CHAP_3">
-        <head>TROISIÈME PARTIE
-<lb/></head>
-        <div>
-          <head>I
-<lb/></head>
+      <div>
+        <head>TROISIÈME PARTIE</head>
+        <div type="chapter">
+          <head>I</head>
           <p>M. Léon, tout en étudiant son droit, avait passablement fréquenté la <hi rend="i">Chaumière</hi>, où il obtint même de fort jolis succès près des grisettes, qui lui trouvaient <hi rend="i">l’air distingué</hi>. C’était le plus convenable des étudiants : il ne portait les cheveux ni trop longs ni trop courts, ne mangeait pas le 1<hi rend="sup">er</hi> du mois l’argent de son trimestre, et se maintenait en de bons termes avec ses professeurs. Quant à faire des excès, il s’en était toujours abstenu, autant par pusillanimité que par délicatesse.</p>
           <p>Souvent, lorsqu’il restait à lire dans sa chambre, ou bien assis le soir sous les tilleuls du Luxembourg, il laissait tomber son Code par terre, et le souvenir d’Emma lui revenait. Mais peu à peu ce sentiment s’affaiblit, et d’autres convoitises s’accumulèrent par-dessus, bien qu’il persistât cependant à travers elles ; car Léon ne perdait pas toute espérance, et il y avait pour lui comme une promesse incertaine qui se balançait dans l’avenir, tel qu’un fruit d’or suspendu à quelque feuillage fantastique.</p>
           <p>Puis, en la revoyant après trois années d’absence, sa passion se réveilla. Il fallait, pensa-t-il, se résoudre enfin à la vouloir posséder. D’ailleurs, sa timidité s’était usée au contact des compagnies folâtres, et il revenait en province, méprisant tout ce qui ne foulait pas d’un pied verni l’asphalte du boulevard. Auprès d’une Parisienne en dentelles, dans le salon de quelque docteur illustre, personnage à décorations et à voiture, le pauvre clerc, sans doute, eût tremblé comme un enfant ; mais ici, à Rouen, sur le port, devant la femme de ce petit médecin, il se sentait à l’aise, sûr d’avance qu’il éblouirait. L’aplomb dépend des milieux où il se pose : on ne parle pas à l’entresol comme au quatrième étage, et la femme riche semble avoir autour d’elle, pour garder sa vertu, tous ses billets de banque, comme une cuirasse, dans la doublure de son corset.</p>
@@ -1977,9 +1952,8 @@
           <p>Une fois, au milieu du jour, en pleine campagne, au moment où le soleil dardait le plus fort contre les vieilles lanternes argentées, une main nue passa sous les petits rideaux de toile jaune et jeta des déchirures de papier, qui se dispersèrent au vent et s’abattirent plus loin, comme des papillons blancs, sur un champ de trèfles rouges tout en fleur.</p>
           <p>Puis, vers six heures, la voiture s’arrêta dans une ruelle du quartier Beauvoisine, et une femme en descendit qui marchait le voile baissé, sans détourner la tête.</p>
         </div>
-        <div xml:id="CHAP_29">
-          <head>II
-<lb/></head>
+        <div type="chapter">
+          <head>II</head>
           <p>En arrivant à l’auberge, madame Bovary fut étonnée de ne pas apercevoir la diligence. Hivert, qui l’avait attendue cinquante-trois minutes, avait fini par s’en aller.</p>
           <p>Rien pourtant ne la forçait à partir ; mais elle avait donné sa parole qu’elle reviendrait le soir même. D’ailleurs, Charles l’attendait ; et déjà elle se sentait au cœur cette lâche docilité qui est, pour bien des femmes, comme le châtiment tout à la fois et la rançon de l’adultère.</p>
           <p>Vivement elle fit sa malle, paya la note, prit dans la cour un cabriolet, et, pressant le palefrenier, l’encourageant, s’informant à toute minute de l’heure et des kilomètres parcourus, parvint à rattraper <hi rend="i">l’Hirondelle</hi> vers les premières maisons de Quincampoix.</p>
@@ -2095,9 +2069,8 @@
           <p>– Comme tu es bonne ! dit-il en la baisant au front.</p>
           <p>Dès le lendemain, elle s’embarqua dans <hi rend="i">l’Hirondelle</hi> pour aller à Rouen consulter M. Léon ; et elle y resta trois jours.</p>
         </div>
-        <div xml:id="CHAP_30">
-          <head>III
-<lb/></head>
+        <div type="chapter">
+          <head>III</head>
           <p>Ce furent trois jours pleins, exquis, splendides, une vraie lune de miel.</p>
           <p>Ils étaient à l’<hi rend="i">Hôtel de Boulogne</hi>, sur le port. Et ils vivaient là, volets fermés, portes closes, avec des fleurs par terre et des sirops à la glace, qu’on leur apportait dès le matin.</p>
           <p>Vers le soir, ils prenaient une barque couverte et allaient dîner dans une île.</p>
@@ -2122,9 +2095,8 @@
           <p>– Ainsi, tu m’affirmes que tout est bien ? dit-elle dans le dernier baiser.</p>
           <p>– Oui certes ! – Mais pourquoi donc, songea-t-il après, en s’en revenant seul par les rues, tient-elle si fort à cette procuration ?</p>
         </div>
-        <div xml:id="CHAP_31">
-          <head>IV
-<lb/></head>
+        <div type="chapter">
+          <head>IV</head>
           <p>Léon, bientôt, prit devant ses camarades un air de supériorité, s’abstint de leur compagnie, et négligea complètement les dossiers.</p>
           <p>Il attendait ses lettres ; il les relisait. Il lui écrivait. Il l’évoquait de toute la force de son désir et de ses souvenirs. Au lieu de diminuer par l’absence, cette envie de la revoir s’accrut, si bien qu’un samedi matin il s’échappa de son étude.</p>
           <p>Lorsque, du haut de la côte, il aperçut dans la vallée le clocher de l’église avec son drapeau de fer-blanc qui tournait au vent, il sentit cette délectation mêlée de vanité triomphante et d’attendrissement égoïste que doivent avoir les millionnaires, quand ils reviennent visiter leur village.</p>
@@ -2163,9 +2135,8 @@
           <p>– Mais les leçons, répliquait-elle, ne sont profitables que suivies.</p>
           <p>Et voilà comme elle s’y prit pour obtenir de son époux la permission d’aller à la ville, une fois la semaine, voir son amant. On trouva même, au bout d’un mois, qu’elle avait fait des progrès considérables.</p>
         </div>
-        <div>
-          <head>V
-<lb/></head>
+        <div type="chapter">
+          <head>V</head>
           <p>C’était le jeudi. Elle se levait, et elle s’habillait silencieusement pour ne point éveiller Charles, qui lui aurait fait des observations sur ce qu’elle s’apprêtait de trop bonne heure. Ensuite elle marchait de long en large ; elle se mettait devant les fenêtres, elle regardait la Place. Le petit jour circulait entre les piliers des halles, et la maison du pharmacien, dont les volets étaient fermés, laissait apercevoir dans la couleur pâle de l’aurore les majuscules de son enseigne.</p>
           <p>Quand la pendule marquait sept heures et un quart, elle s’en allait au <hi rend="i">Lion d’or</hi>, dont Artémise, en bâillant, venait lui ouvrir la porte. Celle-ci déterrait pour Madame les charbons enfouis sous les cendres. Emma restait seule dans la cuisine. De temps à autre, elle sortait. Hivert attelait sans se dépêcher, et en écoutant d’ailleurs la mère Lefrançois, qui, passant par un guichet sa tête en bonnet de coton, le chargeait de commissions et lui donnait des explications à troubler un tout autre homme. Emma battait la semelle de ses bottines contre les pavés de la cour.</p>
           <p>Enfin, lorsqu’il avait mangé sa soupe, endossé sa limousine, allumé sa pipe et empoigné son fouet, il s’installait tranquillement sur le siège.</p>
@@ -2343,9 +2314,8 @@
           <p>Il fallait que Léon, chaque fois, lui racontât toute sa conduite, depuis le dernier rendez-vous. Elle demanda des vers, des vers pour elle, <hi rend="i">une pièce d’amour</hi> en son honneur ; jamais il ne put parvenir à trouver la rime du second vers, et il finit par copier un sonnet dans un keepsake.</p>
           <p>Ce fut moins par vanité que dans le seul but de lui complaire. Il ne discutait pas ses idées ; il acceptait tous ses goûts ; il devenait sa maîtresse plutôt qu’elle n’était la sienne. Elle avait des paroles tendres avec des baisers qui lui emportaient l’âme. Où donc avait-elle appris cette corruption, presque immatérielle à force d’être profonde et dissimulée ?</p>
         </div>
-        <div xml:id="CHAP_33">
-          <head>VI
-<lb/></head>
+        <div type="chapter">
+          <head>VI</head>
           <p>Dans les voyages qu’il faisait pour la voir, Léon souvent avait dîné chez le pharmacien, et s’était cru contraint, par politesse, de l’inviter à son tour.</p>
           <p>– Volontiers ! avait répondu M. Homais ; il faut, d’ailleurs, que je me retrempe un peu, car je m’encroûte ici. Nous irons au spectacle, au restaurant, nous ferons des folies !</p>
           <p>– Ah ! bon ami ! murmura tendrement madame Homais, effrayée des périls vagues qu’il se disposait à courir.</p>
@@ -2543,9 +2513,8 @@
           <p>– Vous me désespérez !</p>
           <p>– Je m’en moque pas mal ! dit-il en refermant la porte.</p>
         </div>
-        <div xml:id="CHAP_34">
-          <head>VII
-<lb/></head>
+        <div type="chapter">
+          <head>VII</head>
           <p>Elle fut stoïque, le lendemain, lorsque maître Hareng, l’huissier, avec deux témoins, se présenta chez elle pour faire le procès-verbal de la saisie.</p>
           <p>Ils commencèrent par le cabinet de Bovary et n’inscrivirent point la tête phrénologique, qui fut considérée comme <hi rend="i">instrument de sa profession</hi> ; mais ils comptèrent dans la cuisine les plats, les marmites, les chaises, les flambeaux, et, dans sa chambre à coucher, toutes les babioles de l’étagère. Ils examinèrent ses robes, le linge, le cabinet de toilette ; et son existence, jusque dans ses recoins les plus intimes, fut, comme un cadavre que l’on autopsie, étalée tout du long aux regards de ces trois hommes.</p>
           <p>Maître Hareng, boutonné dans un mince habit noir, en cravate blanche, et portant des sous-pieds fort tendus, répétait de temps à autre :</p>
@@ -2723,9 +2692,8 @@
           <p>– Oh ! personne ! Et monsieur pleure. Il vous appelle. On vous cherche.</p>
           <p>Emma ne répondit rien. Elle haletait, tout en roulant les yeux autour d’elle, tandis que la paysanne, effrayée de son visage, se reculait instinctivement, la croyant folle. Tout à coup elle se frappa le front, poussa un cri, car le souvenir de Rodolphe, comme un grand éclair dans une nuit sombre, lui avait passé dans l’âme. Il était si bon, si délicat, si généreux ! Et, d’ailleurs, s’il hésitait à lui rendre ce service, elle saurait bien l’y contraindre en rappelant d’un seul clin d’œil leur amour perdu. Elle partit donc vers la Huchette, sans s’apercevoir qu’elle courait s’offrir à ce qui l’avait tantôt si fort exaspérée, ni se douter le moins du monde de cette prostitution.</p>
         </div>
-        <div xml:id="CHAP_35">
-          <head>VIII
-<lb/></head>
+        <div type="chapter">
+          <head>VIII</head>
           <p>Elle se demandait tout en marchant : « Que vais-je dire ? Par où commencerai-je ? » Et à mesure qu’elle avançait, elle reconnaissait les buissons, les arbres, les joncs marins sur la colline, le château là-bas. Elle se retrouvait dans les sensations de sa première tendresse, et son pauvre cœur comprimé s’y dilatait amoureusement. Un vent tiède lui soufflait au visage ; la neige, se fondant, tombait goutte à goutte des bourgeons sur l’herbe.</p>
           <p>Elle entra, comme autrefois, par la petite porte du parc, puis arriva à la cour d’honneur, que bordait un double rang de tilleuls touffus. Ils balançaient, en sifflant, leurs longues branches. Les chiens au chenil aboyèrent tous, et l’éclat de leurs voix retentissait sans qu’il parût personne.</p>
           <p>Elle monta le large escalier droit, à balustres de bois, qui conduisait au corridor pavé de dalles poudreuses où s’ouvraient plusieurs chambres à la file, comme dans les monastères ou les auberges. La sienne était au bout, tout au fond, à gauche. Quand elle vint à poser les doigts sur la serrure, ses forces subitement l’abandonnèrent. Elle avait peur qu’il ne fût pas là, le souhaitait presque, et c’était pourtant son seul espoir, la dernière chance de salut. Elle se recueillit une minute, et, retrempant son courage au sentiment de la nécessité présente, elle entra.</p>
@@ -2949,9 +2917,8 @@
           <p rend="center noindent i">Et le jupon court s’envola !</p>
           <p>Une convulsion la rabattit sur le matelas. Tous s’approchèrent. Elle n’existait plus.</p>
         </div>
-        <div xml:id="CHAP_36">
-          <head>IX
-<lb/></head>
+        <div type="chapter">
+          <head>IX</head>
           <p>Il y a toujours après la mort de quelqu’un comme une stupéfaction qui se dégage, tant il est difficile de comprendre cette survenue du néant et de se résigner à y croire. Mais, quand il s’aperçut pourtant de son immobilité, Charles se jeta sur elle en criant :</p>
           <p>– Adieu ! adieu !</p>
           <p>Homais et Canivet l’entraînèrent hors de la chambre.</p>
@@ -3054,9 +3021,8 @@
           <p>Ils rencontrèrent en bas, dans le vestibule, les ouvriers qui arrivaient. Alors Charles, pendant deux heures, eut à subir le supplice du marteau qui résonnait sur les planches. Puis on la descendit dans son cercueil de chêne, que l’on emboîta dans les deux autres ; mais, comme la bière était trop large, il fallut boucher les interstices avec la laine d’un matelas. Enfin, quand les trois couvercles furent rabotés, cloués, soudés, on l’exposa devant la porte ; on ouvrit toute grande la maison, et les gens d’Yonville commencèrent à affluer.</p>
           <p>Le père Rouault arriva. Il s’évanouit sur la Place en apercevant le drap noir.</p>
         </div>
-        <div>
-          <head>X
-<lb/></head>
+        <div type="chapter">
+          <head>X</head>
           <p>Il n’avait reçu la lettre du pharmacien que trente-six heures après l’événement ; et, par égard pour sa sensibilité, M. Homais l’avait rédigée de telle façon qu’il était impossible de savoir à quoi s’en tenir.</p>
           <p>Le bonhomme tomba d’abord comme frappé d’apoplexie. Ensuite il comprit qu’elle n’était pas morte. Mais elle pouvait l’être… Enfin il avait passé sa blouse, pris son chapeau, accroché un éperon à son soulier et était parti ventre à terre ; et, tout le long de la route, le père Rouault, haletant, se dévora d’angoisses. Une fois même, il fut obligé de descendre. Il n’y voyait plus, il entendait des voix autour de lui, il se sentait devenir fou.</p>
           <p>Le jour se leva. Il aperçut trois poules noires qui dormaient dans un arbre ; il tressaillit, épouvanté de ce présage. Alors il promit à la sainte Vierge trois chasubles pour l’église, et qu’il irait pieds nus depuis le cimetière des Bertaux jusqu’à la chapelle de Vassonville.</p>
@@ -3114,9 +3080,8 @@
           <p>Il y en avait un autre qui, à cette heure-là, ne dormait pas.</p>
           <p>Sur la fosse, entre les sapins, un enfant pleurait agenouillé, et sa poitrine, brisée par les sanglots, haletait dans l’ombre, sous la pression d’un regret immense plus doux que la lune et plus insondable que la nuit. La grille tout à coup craqua. C’était Lestiboudois ; il venait chercher sa bêche qu’il avait oubliée tantôt. Il reconnut Justin escaladant le mur, et sut alors à quoi s’en tenir sur le malfaiteur qui lui dérobait ses pommes de terre.</p>
         </div>
-        <div xml:id="CHAP_38">
-          <head>XI
-<lb/></head>
+        <div type="chapter">
+          <head>XI</head>
           <p>Charles, le lendemain, fit revenir la petite. Elle demanda sa maman. On lui répondit qu’elle était absente, qu’elle lui rapporterait des joujoux. Berthe en reparla plusieurs fois ; puis, à la longue, elle n’y pensa plus. La gaieté de cette enfant navrait Bovary, et il avait à subir les intolérables consolations du pharmacien.</p>
           <p>Les affaires d’argent bientôt recommencèrent, M. Lheureux excitant de nouveau son ami Vinçart, et Charles s’engagea pour des sommes exorbitantes ; car jamais il ne voulut consentir à laisser vendre le moindre des meubles qui <hi rend="i">lui</hi> avaient appartenu. Sa mère en fut exaspérée. Il s’indigna plus fort qu’elle. Il avait changé tout à fait. Elle abandonna la maison.</p>
           <p>Alors chacun se mit à <hi rend="i">profiter</hi>. Mademoiselle Lempereur réclama six mois de leçons, bien qu’Emma n’en eût jamais pris une seule (malgré cette facture acquittée qu’elle avait fait voir à Bovary) : c’était une convention entre elles deux ; le loueur de livres réclama trois ans d’abonnement ; la mère Rolet réclama le port d’une vingtaine de lettres ; et, comme Charles demandait des explications, elle eut la délicatesse de répondre :</p>
