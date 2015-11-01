@@ -7,7 +7,7 @@
         <author key="Balzac, Honoré de (1799-1850)">Balzac</author>
       </titleStmt>
       <publicationStmt>
-        <publisher ref="http://efele.net/ebooks/">ÉFÉLÉ, réimprimeur la nuit</publisher>
+        <publisher>ÉFÉLÉ, réimprimeur la nuit</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/"/>
         </availability>
