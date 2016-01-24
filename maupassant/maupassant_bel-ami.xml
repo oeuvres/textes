@@ -29,9 +29,9 @@
   <text>
     <body>
       <div>
-        <head>PREMIÈRE PARTIE</head>
-        <div>
-          <head>– I –</head>
+        <head>Première partie</head>
+        <div type="chapter">
+          <head>Chapitre I</head>
           <p>Quand la caissière lui eut rendu la monnaie de sa pièce de cent sous, Georges Duroy sortit du restaurant.</p>
           <p>Comme il portait beau par nature et par pose d’ancien sous-officier, il cambra sa taille, frisa sa moustache d’un geste militaire et familier, et jeta sur les dîneurs attardés un regard rapide et circulaire, un de ces regards de joli garçon, qui s’étendent comme des coups d’épervier.</p>
           <p>Les femmes avaient levé la tête vers lui, trois petites ouvrières, une maîtresse de musique entre deux âges, mal peignée, négligée, coiffée d’un chapeau toujours poussiéreux et vêtue toujours d’une robe de travers, et deux bourgeoises avec leurs maris, habituées de cette gargote à prix fixe.</p>
@@ -220,8 +220,8 @@
           <p>Et elle prit son bras en signe de possession.</p>
           <p>Comme ils sortaient, il songeait qu’avec les autres vingt francs il pourrait facilement se procurer, en location, un costume de soirée pour le lendemain.</p>
         </div>
-        <div>
-          <head>– II –</head>
+        <div type="chapter">
+          <head>Chapitre II</head>
           <p>« Monsieur Forestier, s’il vous plaît ?</p>
           <p>– Au troisième, la porte à gauche. »</p>
           <p>Le concierge avait répondu cela d’une voix aimable où apparaissait une considération pour son locataire. Et Georges Duroy monta l’escalier.</p>
@@ -371,8 +371,8 @@
           <p>Quand il se retrouva sur l’escalier, il eut envie de descendre en courant, tant sa joie était véhémente, et il s’élança, enjambant les marches deux par deux ; mais tout à coup, il aperçut, dans la grande glace du second étage, un monsieur pressé qui venait en gambadant à sa rencontre, et il s’arrêta net, honteux comme s’il venait d’être surpris en faute.</p>
           <p>Puis il se regarda longuement, émerveillé d’être vraiment aussi joli garçon ; puis il se sourit avec complaisance ; puis, prenant congé de son image, il se salua très bas, avec cérémonie, comme on salue les grands personnages.</p>
         </div>
-        <div>
-          <head>– III –</head>
+        <div type="chapter">
+          <head>Chapitre III</head>
           <p>Quand Georges Duroy se retrouva dans la rue, il hésita sur ce qu’il ferait. Il avait envie de courir, de rêver, d’aller devant lui en songeant à l’avenir et en respirant l’air doux de la nuit ; mais la pensée de la série d’articles demandés par le père Walter le poursuivait, et il se décida à rentrer tout de suite pour se mettre au travail.</p>
           <p>Il revint à grands pas, gagna le boulevard extérieur, et le suivit jusqu’à la rue Boursault qu’il habitait. Sa maison, haute de six étages, était peuplée par vingt petits ménages ouvriers et bourgeois, et il éprouva en montant l’escalier, dont il éclairait avec des allumettes-bougies les marches sales où traînaient des bouts de papiers, des bouts de cigarettes, des épluchures de cuisine, une écœurante sensation de dégoût et une hâte de sortir de là, de loger comme les hommes riches, en des demeures propres, avec des tapis. Une odeur lourde de nourriture, de fosse d’aisances et d’humanité, une odeur stagnante de crasse et de vieille muraille, qu’aucun courant d’air n’eût pu chasser de ce logis, l’emplissait du haut en bas.</p>
           <p>La chambre du jeune homme, au cinquième étage, donnait, comme sur un abîme profond, sur l’immense tranchée du chemin de fer de l’Ouest, juste au-dessus de la sortie du tunnel, près de la gare des Batignolles. Duroy ouvrit sa fenêtre et s’accouda sur l’appui de fer rouillé.</p>
@@ -586,8 +586,8 @@
           <p>– Oui, mais ne t’en occupe pas : je corrigerai les épreuves. Fais la suite pour demain, et viens ici à trois heures, comme aujourd’hui. »</p>
           <p>Et Duroy, ayant serré toutes les mains sans savoir même le nom de leurs possesseurs, redescendit le bel escalier, le cœur joyeux et l’esprit allègre.</p>
         </div>
-        <div>
-          <head>– IV –</head>
+        <div type="chapter">
+          <head>Chapitre IV</head>
           <p>Georges Duroy dormit mal, tant le désir de voir imprimé son article. Dès que le jour parut, il fut debout, et il rôdait dans la rue bien avant l’heure où les porteurs de journaux vont, en courant, de kiosque en kiosque.</p>
           <p>Alors il gagna la gare Saint-Lazare, sachant bien que <hi rend="i">La Vie Française</hi> y arriverait avant de parvenir dans son quartier. Comme il était encore trop tôt, il erra sur le trottoir.</p>
           <p>Il vit arriver la marchande, qui ouvrit sa boutique de verre, puis il aperçut un homme portant sur sa tête un tas de grands papiers pliés. Il se précipita : c’étaient <hi rend="i">Le Figaro</hi>, le <hi rend="i">Gil-Blas, Le Gaulois, L’Événement</hi>, et deux ou trois autres feuilles du matin ; mais <hi rend="i">La Vie Française</hi> n’y était pas.</p>
@@ -800,8 +800,8 @@
           <p>C’est un truc à saisir, pensait-il, en voyant certains confrères aller la poche pleine d’or, sans jamais comprendre quels moyens secrets ils pouvaient bien employer pour se procurer cette aisance. Et il soupçonnait avec envie des procédés inconnus et suspects, des services rendus, toute une contrebande acceptée et consentie. Or, il lui fallait pénétrer le mystère, entrer dans l’association tacite, s’imposer aux camarades qui partageaient sans lui.</p>
           <p>Et il rêvait souvent le soir, en regardant de sa fenêtre passer les trains, aux procédés qu’il pourrait employer.</p>
         </div>
-        <div>
-          <head>– V –</head>
+        <div type="chapter">
+          <head>Chapitre V</head>
           <p>Deux mois s’étaient écoulés ; on touchait à septembre, et la fortune rapide que Duroy avait espérée lui semblait bien longue à venir. Il s’inquiétait surtout de la médiocrité morale de sa situation et ne voyait pas par quelle voie il escaladerait les hauteurs où l’on trouve la considération et l’argent. Il se sentait enfermé dans ce métier médiocre de reporter, muré là-dedans à n’en pouvoir sortir. On l’appréciait, mais on l’estimait selon son rang. Forestier même, à qui il rendait mille services, ne l’invitait plus à dîner, le traitait en tout comme un inférieur, bien qu’il le tutoyât comme un ami.</p>
           <p>De temps en temps, il est vrai, Duroy, saisissant une occasion, plaçait un bout d’article, et ayant acquis par ses échos une souplesse de plume et un tact qui lui manquaient lorsqu’il avait écrit sa seconde chronique sur l’Algérie, il ne courait plus aucun risque de voir refuser ses actualités. Mais de là à faire des chroniques au gré de sa fantaisie ou à traiter, en juge, les questions politiques, il y avait autant de différence qu’à conduire dans les avenues du Bois étant cocher, ou à conduire étant maître. Ce qui l’humiliait surtout, c’était de sentir fermées les portes du monde, de n’avoir pas de relations à traiter en égal, de ne pas entrer dans l’intimité des femmes, bien que plusieurs actrices connues l’eussent parfois accueilli avec une familiarité intéressée.</p>
           <p>Il savait d’ailleurs, par expérience, qu’elles éprouvaient pour lui, toutes, mondaines ou cabotines, un entraînement singulier, une sympathie instantanée, et il ressentait, de ne point connaître celles dont pourrait dépendre son avenir, une impatience de cheval entravé.</p>
@@ -1273,8 +1273,8 @@
           <p>Une gaieté s’éleva dans le groupe qui l’entourait. Un monsieur dit : « Bravo, la petite ! » et un jeune voyou arrêté entre les roues du fiacre, enfonçant sa tête dans la portière ouverte, cria avec un accent suraigu : « Bonsoir, Bibi ! »</p>
           <p>Puis la voiture se remit en marche, poursuivie par des rires.</p>
         </div>
-        <div>
-          <head>– VI –</head>
+        <div type="chapter">
+          <head>Chapitre VI</head>
           <p>Georges Duroy eut le réveil triste, le lendemain.</p>
           <p>Il s’habilla lentement, puis s’assit devant sa fenêtre et se mit à réfléchir. Il se sentait, dans tout le corps, une espèce de courbature, comme s’il avait reçu, la veille, une volée de coups de bâton.</p>
           <p>Enfin, la nécessité de trouver de l’argent l’aiguillonna et il se rendit chez Forestier.</p>
@@ -1608,8 +1608,8 @@
           <p>L’autre rendit avec courtoisie, mais d’une manière un peu fière.</p>
           <p>Le ménage Forestier partit le jeudi soir.</p>
         </div>
-        <div>
-          <head>– VII –</head>
+        <div type="chapter">
+          <head>Chapitre VII</head>
           <p>La disparition de Charles donna à Duroy une importance plus grande dans la rédaction de <hi rend="i">La Vie Française</hi>. Il signa quelques articles de fond, tout en signant aussi ses échos, car le patron voulait que chacun gardât la responsabilité de sa copie. Il eut quelques polémiques dont il se tira avec esprit ; et ses relations constantes avec les hommes d’État le préparaient peu à peu à devenir à son tour un rédacteur politique adroit et perspicace.</p>
           <p>Il ne voyait qu’une tache dans tout son horizon. Elle venait d’un petit journal frondeur qui l’attaquait constamment, ou plutôt qui attaquait en lui le chef des Échos de <hi rend="i">La Vie Française</hi>, le chef des échos à surprises de M. Walter, disait le rédacteur anonyme de cette feuille appelée : La Plume. C’étaient, chaque jour, des perfidies, des traits mordants, des insinuations de toute nature.</p>
           <p>Jacques Rival dit un jour à Duroy : « Vous êtes patient. »</p>
@@ -1861,8 +1861,8 @@
           <p>Et Duroy pensait, en se rendant au journal : « Quel drôle d’être ça fait ! Quelle tête d’oiseau ! Sait-on ce qu’elle veut et ce qu’elle aime ? Et quel drôle de ménage ! Quel fantaisiste a bien pu préparer l’accouplement de ce vieux et de cette écervelée ? Quel raisonnement a décidé cet inspecteur à épouser cette étudiante ? Mystère ! Qui sait ? L’amour, peut-être ? »</p>
           <p>Puis il conclut : « Enfin, c’est une bien gentille maîtresse. Je serais rudement bête de la lâcher. »</p>
         </div>
-        <div>
-          <head>– VIII –</head>
+        <div type="chapter">
+          <head>Chapitre VIII</head>
           <p>Son duel avait fait passer Duroy au nombre des chroniqueurs de tête de <hi rend="i">La Vie Française</hi> ; mais, comme il éprouvait une peine infinie à découvrir des idées, il prit la spécialité des déclamations sur la décadence des mœurs, sur l’abaissement des caractères, l’affaissement du patriotisme et l’anémie de l’honneur français. (Il avait trouvé le mot « anémie « dont il était fier.)</p>
           <p>Et quand Mme de Marelle, pleine de cet esprit gouailleur, sceptique et gobeur qu’on appelle l’esprit de Paris, se moquait de ses tirades qu’elle crevait d’une épigramme, il répondait en souriant : « Bah ! ça me fait une bonne réputation pour plus tard. »</p>
           <p>Il habitait maintenant rue de Constantinople, où il avait transporté sa malle, sa brosse, son rasoir et son savon, ce qui constituait son déménagement. Deux ou trois fois par semaine, la jeune femme arrivait avant qu’il fût levé, se déshabillait en une minute et se glissait dans le lit, toute frémissante du froid du dehors.</p>
@@ -2136,9 +2136,9 @@
         </div>
       </div>
       <div>
-        <head>DEUXIÈME PARTIE</head>
-        <div>
-          <head>– I –</head>
+        <head>Deuxième partie</head>
+        <div type="chapter">
+          <head>Chapitre I</head>
           <p>Georges Duroy avait retrouvé toutes ses habitudes anciennes.</p>
           <p>Installé maintenant dans le petit rez-de-chaussée de la rue de Constantinople, il vivait sagement, en homme qui prépare une existence nouvelle. Ses relations avec Mme de Marelle avaient même pris une allure conjugale, comme s’il se fût exercé d’avance à l’événement prochain ; et sa maîtresse, s’étonnant souvent de la tranquillité réglée de leur union, répétait en riant : « Tu es encore plus popote que mon mari, ça n’était pas la peine de changer. »</p>
           <p>Mme Forestier n’était pas revenue. Elle s’attardait à Cannes. Il reçut une lettre d’elle, annonçant son retour seulement pour le milieu d’avril, sans un mot d’allusion à leurs adieux. Il attendit. Il était bien résolu maintenant à prendre tous les moyens pour l’épouser, si elle semblait hésiter. Mais il avait confiance en sa fortune, confiance en cette force de séduction qu’il sentait en lui, force vague et irrésistible que subissaient toutes les femmes.</p>
@@ -2507,8 +2507,8 @@
           <p>Il répondit : « Bonjour, Made », en passant une main derrière sa taille.</p>
           <p>On apercevait au loin, dans le fond de la vallée, le grand fleuve déroulé comme un ruban d’argent sous le soleil du matin, et toutes les cheminées des usines qui soufflaient dans le ciel leurs nuages de charbon, et tous les clochers pointus dressés sur la vieille cité.</p>
         </div>
-        <div>
-          <head>– II –</head>
+        <div type="chapter">
+          <head>Chapitre II</head>
           <p>Les Du Roy étaient rentrés à Paris depuis deux jours et le journaliste avait repris son ancienne besogne en attendant qu’il quittât le service des échos pour s’emparer définitivement des fonctions de Forestier et se consacrer tout à fait à la politique.</p>
           <p>Il remontait chez lui, ce soir-là, au logis de son prédécesseur, le cœur joyeux, pour dîner, avec le désir éveillé d’embrasser tout à l’heure sa femme dont il subissait vivement le charme physique et l’insensible domination. En passant devant un fleuriste, au bas de la rue Notre-Dame-de-Lorette, il eut l’idée d’acheter un bouquet pour Madeleine et il prit une grosse botte de roses à peine ouvertes, un paquet de boutons parfumés.</p>
           <p>À chaque étage de son nouvel escalier il se regardait complaisamment dans cette glace dont la vue lui rappelait sans cesse sa première entrée dans la maison.</p>
@@ -2700,8 +2700,8 @@
           <p>Il sembla à la jeune femme que les lèvres de son mari étaient glacées.</p>
           <p>Il souriait cependant de son sourire ordinaire en lui donnant la main pour descendre devant les marches du café.</p>
         </div>
-        <div>
-          <head>– III –</head>
+        <div type="chapter">
+          <head>Chapitre III</head>
           <p>En entrant au journal, le lendemain, Du Roy alla trouver Boisrenard.</p>
           <p>« Mon cher ami, dit-il, j’ai un service à te demander. On trouve drôle depuis quelque temps de m’appeler Forestier. Moi, je commence à trouver ça bête. Veux-tu avoir la complaisance de prévenir doucement les camarades que je giflerai le premier qui se permettra de nouveau cette plaisanterie.</p>
           <p>« Ce sera à eux de réfléchir si cette blague-là vaut un coup d’épée. Je m’adresse à toi parce que tu es un homme calme qui peut empêcher des extrémités fâcheuses, et aussi parce que tu m’as servi de témoin dans notre affaire. »</p>
@@ -3012,8 +3012,8 @@
           <p>« Ça ne vaut point notre chambre », dit-elle.</p>
           <p>Il répondit : « Oh ! non. » Mais il pensait à Mme Walter.</p>
         </div>
-        <div>
-          <head>– IV –</head>
+        <div type="chapter">
+          <head>Chapitre IV</head>
           <p>La place de la Trinité était presque déserte, sous un éclatant soleil de juillet. Une chaleur pesante écrasait Paris, comme si l’air de là-haut, alourdi, brûlé, était retombé sur la ville, de l’air épais et cuisant qui faisait mal dans la poitrine.</p>
           <p>Les chutes d’eau, devant l’église, tombaient mollement. Elles semblaient fatiguées de couler, lasses et molles aussi, et le liquide du bassin où flottaient des feuilles et des bouts de papier avait l’air un peu verdâtre, épais et glauque.</p>
           <p>Un chien, ayant sauté par-dessus le rebord de pierre, se baignait dans cette onde douteuse. Quelques personnes, assises sur les bancs du petit jardin rond qui contourne le portail, regardaient cette bête avec envie.</p>
@@ -3228,8 +3228,8 @@
           <p>Il lui laissa ses bottines et l’emporta dans ses bras vers le lit. Alors, elle lui murmura à l’oreille, d’une voix brisée : « Je vous jure… je vous jure… que je n’ai jamais eu d’amant. » Comme une jeune fille aurait dit : « Je vous jure que je suis vierge. »</p>
           <p>Et il pensait : « Voilà ce qui m’est bien égal, par exemple. »</p>
         </div>
-        <div>
-          <head>– V –</head>
+        <div type="chapter">
+          <head>Chapitre V</head>
           <p>L’automne était venu. Les Du Roy avaient passé à Paris tout l’été, menant une campagne énergique dans <hi rend="i">La Vie Française</hi> en faveur du nouveau cabinet pendant les courtes vacances des députés.</p>
           <p>Quoiqu’on fût seulement dans les premiers jours d’octobre, les Chambres allaient reprendre leurs séances, car les affaires du Maroc devenaient menaçantes.</p>
           <p>Personne, au fond, ne croyait à une expédition vers Tanger, bien que, le jour de la séparation du Parlement, un député de la droite, le comte de Lambert-Sarrazin, dans un discours plein d’esprit, applaudi même par les centres, eût offert de parier et de donner en gage sa moustache, comme avait fait jadis un célèbre vice-roi des Indes, contre les favoris du chef du Conseil, que le nouveau cabinet ne se pourrait tenir d’imiter l’ancien et d’envoyer une armée à Tanger, en pendant à celle de Tunis, par amour de la symétrie, comme on met deux vases sur une cheminée. Il avait ajouté : « La terre d’Afrique est en effet une cheminée pour la France, messieurs, une cheminée qui brûle notre meilleur bois, une cheminée à grand tirage qu’on allume avec le papier de la Banque. »</p>
@@ -3546,8 +3546,8 @@
           <p>« Je t’en prie, laisse-moi tranquille, n’est-ce pas ? Je ne suis point d’humeur à batifoler. »</p>
           <p>Il se retourna, résigné, vers le mur, et, ayant fermé les yeux, il finit par s’endormir.</p>
         </div>
-        <div>
-          <head>– VI –</head>
+        <div type="chapter">
+          <head>Chapitre VI</head>
           <p>L’église était tendue de noir, et, sur le portail, un grand écusson coiffé d’une couronne annonçait aux passants qu’on enterrait un gentilhomme.</p>
           <p>La cérémonie venait de finir, les assistants s’en allaient lentement, défilant devant le cercueil et devant le neveu du comte de Vaudrec, qui serrait les mains et rendait les saluts.</p>
           <p>Quand Georges Du Roy et sa femme furent sortis, ils se mirent à marcher côte à côte, pour rentrer chez eux. Ils se taisaient, préoccupés.</p>
@@ -3720,8 +3720,8 @@
           <p>Du Roy leva la main pour bien éclairer leurs images, et il dit, avec un rire de triomphe :</p>
           <p>« Voilà des millionnaires qui passent. »</p>
         </div>
-        <div>
-          <head>– VII –</head>
+        <div type="chapter">
+          <head>Chapitre VII</head>
           <p>Depuis deux mois la conquête du Maroc était accomplie. La France, maîtresse de Tanger, possédait toute la côte africaine de la Méditerranée jusqu’à la régence de Tripoli, et elle avait garanti la dette du nouveau pays annexé.</p>
           <p>On disait que deux ministres gagnaient là une vingtaine de millions, et on citait, presque tout haut, Laroche-Mathieu.</p>
           <p>Quand à Walter, personne dans Paris n’ignorait qu’il avait fait coup double et encaissé de trente à quarante millions sur l’emprunt, et de huit à dix millions sur des mines de cuivre et de fer, ainsi que sur d’immenses terrains achetés pour rien avant la conquête et revendus le lendemain de l’occupation française à des compagnies de colonisation.</p>
@@ -4013,8 +4013,8 @@
           <p>Chacun s’étonna. Walter trouva la chose bien singulière. Madeleine, en souriant, déclara que Jésus avait l’air plus viril.</p>
           <p>Mme Walter demeurait immobile, contemplant d’un œil fixe le visage de son amant à côté du visage du Christ, et elle était devenue aussi blanche que ses cheveux blancs.</p>
         </div>
-        <div>
-          <head>– VIII –</head>
+        <div type="chapter">
+          <head>Chapitre VIII</head>
           <p>Pendant le reste de l’hiver, les Du Roy allèrent souvent chez les Walter. Georges même y dînait seul à tout instant, Madeleine se disant fatiguée et préférant rester chez elle.</p>
           <p>Il avait adopté le vendredi comme jour fixe, et la Patronne n’invitait jamais personne ce soir-là ; il appartenait à Bel-Ami, rien qu’à lui. Après dîner, on jouait aux cartes, on donnait à manger aux poissons chinois, on vivait et on s’amusait en famille. Plusieurs fois, derrière une porte, derrière un massif de la serre, dans un coin sombre, Mme Walter avait saisi brusquement dans ses bras le jeune homme, et, le serrant de toute sa force sur sa poitrine, lui avait jeté dans l’oreille : « Je t’aime !… je t’aime !… je t’aime à en mourir ! » Mais toujours il l’avait repoussée froidement, en répondant d’un ton sec : « Si vous recommencez, je ne viendrai plus ici. »</p>
           <p>Vers la fin de mars, on parla tout à coup du mariage des deux sœurs. Rose devait épouser disait-on, le comte de Latour-Yvelin, et Suzanne, le marquis de Cazolles. Ces deux hommes étaient devenus des familiers de la maison, de ces familiers à qui on accorde des faveurs spéciales, des prérogatives sensibles.</p>
@@ -4261,8 +4261,8 @@
           <p>Le vieux hésita quelques instants, puis il en prit son parti :</p>
           <p>« Faites, dit-il, tant pis pour ceux qui se fichent dans ces pétrins-là. »</p>
         </div>
-        <div>
-          <head>– IX –</head>
+        <div type="chapter">
+          <head>Chapitre IX</head>
           <p>Trois mois s’étaient écoulés. Le divorce de Du Roy venait d’être prononcé. Sa femme avait repris son nom de Forestier, et comme les Walter devaient partir, le 15 juillet, pour Trouville, on décida de passer une journée à la campagne, avant de se séparer.</p>
           <p>On choisit un jeudi, et on se mit en route dès neuf heures du matin, dans un grand landau de voyage à six places, attelé en poste à quatre chevaux.</p>
           <p>On allait déjeuner à Saint-Germain, au pavillon Henri-IV. Bel-Ami avait demandé à être le seul homme de la partie, car il ne pouvait supporter la présence et la figure du marquis de Cazolles. Mais, au dernier moment, il fut décidé que le comte de Latour-Yvelin serait enlevé, au saut du lit. On l’avait prévenu la veille.</p>
@@ -4466,8 +4466,8 @@
           <p>Jamais la jeune fille ne s’était tant amusée. Elle avait joué à la bergère. Comme il la faisait passer pour sa sœur, ils vivaient dans une intimité libre et chaste, une sorte de camaraderie amoureuse. Il jugeait habile de la respecter. Dès le lendemain de leur arrivée, elle acheta du linge et des vêtements de paysanne, et elle se mit à pêcher à la ligne, la tête couverte d’un immense chapeau de paille orné de fleurs des champs. Elle trouvait le pays délicieux. Il y avait là une vieille tour et un vieux château où l’on montrait d’admirables tapisseries.</p>
           <p>Georges, vêtu d’une vareuse achetée toute faite chez un commerçant du pays, promenait Suzanne, soit à pied, le long des berges, soit en bateau. Ils s’embrassaient à tout moment, frémissants, elle innocente et lui prêt à succomber. Mais il savait être fort : et quand il lui dit : « Nous retournerons à Paris demain, votre père m’accorde votre main », elle murmura naïvement : « Déjà, ça m’amusait tant d’être votre femme ! »</p>
         </div>
-        <div>
-          <head>– X –</head>
+        <div type="chapter">
+          <head>Chapitre X</head>
           <p>Il faisait sombre dans le petit appartement de la rue de Constantinople, car Georges Du Roy et Clotilde de Marelle s’étant rencontrés sous la porte étaient entrés brusquement, et elle lui avait dit, sans lui laisser le temps d’ouvrir les persiennes :</p>
           <p>« Ainsi, tu épouses Suzanne Walter ? »</p>
           <p>Il avoua avec douceur et ajouta :</p>
@@ -4587,7 +4587,6 @@
           <p>Lorsqu’il parvint sur le seuil, il aperçut la foule amassée, une foule noire, bruissante, venue là pour lui, pour lui Georges Du Roy. Le peuple de Paris le contemplait et l’enviait.</p>
           <p>Puis, relevant les yeux, il découvrit là-bas, derrière la place de la Concorde, la Chambre des députés. Et il lui sembla qu’il allait faire un bond du portique de la Madeleine au portique du Palais-Bourbon.</p>
           <p>Il descendit avec lenteur les marches du haut perron entre deux haies de spectateurs. Mais il ne les voyait point ; sa pensée maintenant revenait en arrière, et devant ses yeux éblouis par l’éclatant soleil flottait l’image de Mme de Marelle rajustant en face de la glace les petits cheveux frisés de ses tempes, toujours défaits au sortir du lit.</p>
-         
         </div>
       </div>
     </body>
