@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="http://svn.code.sf.net/p/algone/code/teibook/teibook.css"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" n="descartes_discours" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -8,20 +8,6 @@
         <title>Discours de la méthode</title>
         <author key="Descartes, René (1596-1650)">Descartes</author>
       </titleStmt>
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
     </fileDesc>
     <profileDesc>
       <creation>

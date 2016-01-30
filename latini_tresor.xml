@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fro">
   <teiHeader>
     <fileDesc>
@@ -7,15 +8,6 @@
         <title>Li livres dou tresor</title>
         <author key="Latini, Brunetto (1220-1294)">Brunetto Latini</author>
       </titleStmt>
-      
-
-
-
-
-
-
-
-
       <sourceDesc>
         <bibl>Brunetto Latini, <title>Li livres dou trésor</title> (1267). Édition critique par Francis J. Carmody, Berkeley: University of California Press, 1948.</bibl>
       </sourceDesc>

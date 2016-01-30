@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://svn.code.sf.net/p/algone/code/teipub/tei2html.xsl"?>
-<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--2012-07-11T18:07:49+02:00-->
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" n="baudelaire_fleurs" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -9,14 +8,6 @@
         <title>Les fleurs du mal</title>
         <author key="Baudelaire, Charles (1821-1867)">Baudelaire</author>
       </titleStmt>
-      
-
-
-
-
-
-
-
       <sourceDesc>
         <bibl>Baudelaire, <title>les Fleurs du mal</title>, Michel Lévy frères, 3e éd., Paris, 1868</bibl>
       </sourceDesc>

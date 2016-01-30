@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--<?xml-stylesheet type="text/xsl" href="http://svn.code.sf.net/p/algone/code/teipub/xsl/tei2html.xsl"?>-->
-<!--odt2tei: 2014-12-06T14:37:42+01:00-->
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -9,11 +8,6 @@
         <title>Historiettes, contes et fabliaux</title>
         <author>Sade, Donatien Alphonse François de</author>
       </titleStmt>
-      <editionStmt/>
-      <publicationStmt>
-        <availability status="restricted"/>
-      </publicationStmt>
-      <sourceDesc/>
     </fileDesc>
     <profileDesc>
       <creation>

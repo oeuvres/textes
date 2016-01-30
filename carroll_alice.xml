@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--<?xml-stylesheet type="text/xsl" href="http://svn.code.sf.net/p/algone/code/teipot/transform/tei_html.xsl"?>-->
-<!--2013-01-05T17:19:35+01:00-->
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" n="carroll_alice" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -9,14 +8,7 @@
         <title>Alice au pays des merveilles</title>
         <author key="Carroll, Lewis (1832-1898)">Lewis Carroll</author>
       </titleStmt>
-      
-
-
-
-
-
-
-      <sourceDesc>
+     <sourceDesc>
         <bibl>Lewis Carrol, <title>Alice au pays des merveille</title>s, traduit par Henri Bué, Macmillan, Londres, 1869</bibl>
       </sourceDesc>
     </fileDesc>

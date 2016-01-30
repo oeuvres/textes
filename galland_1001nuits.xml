@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--<?xml-stylesheet type="text/xsl" href="http://svn.code.sf.net/p/algone/code/teipot/transform/tei_html.xsl"?>-->
-<!--2013-01-04T11:29:03+01:00-->
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" n="galland_1001nuits" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -9,14 +8,6 @@
         <title>Les mille et une nuits</title>
         <author key="Galland, Antoine (1646-1715)">Antoine Galland</author>
       </titleStmt>
-      
-
-
-
-
-
-
-
       <sourceDesc>
         <bibl>Les mille et une nuits, 1704 (traduction Galland)</bibl>
       </sourceDesc>

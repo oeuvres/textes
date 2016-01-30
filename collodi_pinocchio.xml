@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../teipub/tei2html.xsl"?>
-<!--2013-01-04T09:16:04+01:00-->
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" n="collodi_pinocchio" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -10,15 +9,7 @@
         <author key="Collodi, Carlo (1826-1890)">Carlo Collodi</author>
         <editor role="translator">Claude Sartirano</editor>
       </titleStmt>
-      
-
-
-
-
-
-
-
-      <sourceDesc>
+     <sourceDesc>
         <bibl>Carlo Collodi, <title>les aventures de Pinocchio</title>, traduction Claude Sartirano</bibl>
       </sourceDesc>
     </fileDesc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--odt2tei: 2015-10-07T16:42:58+02:00-->
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -7,10 +8,6 @@
         <title>Les Trois Mousquetaires</title>
         <author>Dumas, Alexandre (1802-1870)</author>
       </titleStmt>
-      <editionStmt/>
-      <publicationStmt>
-        <availability status="restricted"/>
-      </publicationStmt>
       <sourceDesc>
         <bibl>
           <ref target="http://www.ebooksgratuits.com/newsendbook.php?id=318&amp;format=so">http://www.ebooksgratuits.com/newsendbook.php?id=318&amp;format=so</ref>

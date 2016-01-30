@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--<?xml-stylesheet type="text/xsl" href="http://svn.code.sf.net/p/algone/code/teipot/transform/tei_html.xsl"?>-->
-<!--2013-01-04T14:20:06+01:00-->
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" n="kipling_jungle" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -11,14 +10,6 @@
         <editor role="translator">Robert d’Humières</editor>
         <editor role="translator">Louis Fabulet</editor>
       </titleStmt>
-      
-
-
-
-
-
-
-
       <sourceDesc>
         <bibl>Kipling, le livre de la jungle (premier et second), traduction d’Humières et Fabulet</bibl>
       </sourceDesc>

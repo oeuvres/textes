@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../../teipub/tei2html.xsl"?>
-<?oxygen RNGSchema="../../teibook/teibook.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xml:id="rimbaud_poesies" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -8,16 +8,7 @@
         <title>Poésies</title>
         <author key="Rimbaud, Arthur (1854-1891)">Rimbaud</author>
       </titleStmt>
-      
-
-
-
-
-
-
-
-
-      <sourceDesc>
+       <sourceDesc>
         <bibl>Rimbaud, Poésies complètes, 1895</bibl>
       </sourceDesc>
     </fileDesc>

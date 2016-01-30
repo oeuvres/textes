@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--<?xml-stylesheet type="text/xsl" href="http://svn.code.sf.net/p/algone/code/teipub/xsl/tei2html.xsl"?>-->
-<!--odt2tei: 2014-09-30T11:45:38+02:00-->
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="defoe_robinson">
   <teiHeader>
     <fileDesc>
@@ -10,11 +9,6 @@
         <author>Defoe, Daniel</author>
         <editor role="translator">Borel, Pétrus</editor>
       </titleStmt>
-      <editionStmt/>
-      
-
-
-      <sourceDesc/>
     </fileDesc>
     <profileDesc>
       <creation>
