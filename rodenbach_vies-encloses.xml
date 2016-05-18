@@ -1,0 +1,3112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Les vies encloses</title>
+        <author key="Rodenbach, Georges (1855-1898)">Georges Rodenbach</author>
+      </titleStmt>
+      <editionStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <sourceDesc>
+        <bibl>
+          <ref target="http://www.ebooksgratuits.com/details.php?book=858">http://www.ebooksgratuits.com/details.php?book=858</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1896"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Aquarium mental</head>
+        <l/>
+        <div>
+          <head>I.</head>
+          <l/>
+          <l>L’eau sage s’est enclose en des cloisons de verre</l>
+          <l>D’où le monde lui soit plus vague et plus lointain ;</l>
+          <l>Elle est tiède, et nul vent glacial ne l’aère ;</l>
+          <l>Rien d’autre ne se mire en ces miroirs sans tain</l>
+          <l>Où, seule, elle se fait l’effet d’être plus vaste</l>
+          <l>Et de se prolonger soi-même à l’infini !</l>
+          <l>D’être recluse, elle s’épure, devient chaste,</l>
+          <l>Et son sort à celui du verre s’est uni,</l>
+          <l>Pour n’être ainsi qu’un seul sommeil moiré de rêves !</l>
+          <l>Eau de l’aquarium, nuit glauque, clair-obscur,</l>
+          <l>Où passe la pensée en apparences brèves</l>
+          <l>Comme les ombres d’un grand arbre sur un mur.</l>
+          <l/>
+          <l>Tout est songe, tout est solitude et silence</l>
+          <l>Parmi l’aquarium, pur d’avoir renoncé,</l>
+          <l>Et même le soleil, de son dur coup de lance,</l>
+          <l>Ne fait plus de blessure à son cristal foncé.</l>
+          <l>L’eau désormais est toute au jeu des poissons calmes</l>
+          <l>Éventant son repos de leurs muettes palmes ;</l>
+          <l>L’eau désormais est toute aux pensifs végétaux,</l>
+          <l>Dont l’essor, volontiers captif, se ramifie,</l>
+          <l>Qui, la brodant comme de rêves, sont sa vie</l>
+          <l>Intérieure, et sont ses canevas mentaux.</l>
+          <l>Et, riche ainsi pour s’être enclose, l’eau s’écoute</l>
+          <l>À travers les poissons et les herbages verts ;</l>
+          <l>Elle est fermée au monde et se possède toute</l>
+          <l>Et nul vent ne détruit son fragile univers.</l>
+        </div>
+        <div>
+          <head>II.</head>
+          <l/>
+          <l>L’aquarium où le regard descend et plonge</l>
+          <l>Laisse voir toute l’eau, non plus en horizon,</l>
+          <l>Mais dans sa profondeur, son infini de songe,</l>
+          <l>Sa vie intérieure, à nu sous la cloison.</l>
+          <l>Ah ! plus la même, et toute autre qu’à la surface !</l>
+          <l/>
+          <l>D’ordinaire l’eau veille, horizontale, au loin.</l>
+          <l>On la dirait vouée à ce seul subtil soin</l>
+          <l>D’être impressionnable au vent léger qui passe ;</l>
+          <l>De ne vouloir qu’être un clavier pour les roseaux ;</l>
+          <l>Et ne vouloir qu’être un hamac pour les oiseaux,</l>
+          <l>Grâce aux mailles que font les branches réfléchies ;</l>
+          <l>Et ne vouloir qu’être un miroir silencieux</l>
+          <l>Où les étoiles sont tout à coup élargies ;</l>
+          <l>Et surtout ne vouloir, dans son calme otieux,</l>
+          <l>Que s’orner de reflets, de couleurs accueillies,</l>
+          <l>Fard délayé du visage des Ophélies !</l>
+          <l/>
+          <l>Vains jeux ! Ils sont la vie apparente de l’eau,</l>
+          <l>Une identité feinte, un vague maquillage…</l>
+          <l/>
+          <l>Mais dans l’aquarium s’assagit l’eau volage</l>
+          <l>Qui s’isole parmi des moires en halo.</l>
+          <l>Le mystère est à nu, qu’on ne soupçonnait guère !</l>
+          <l>C’est l’âme enfin de l’eau qui se dévoile ici :</l>
+          <l>Fourmillement fiévreux sous le cristal transi ;</l>
+          <l>Zones où de gluants monstres se font la guerre ;</l>
+          <l>Végétation fine, herbes, perles, lueurs ;</l>
+          <l>Et cauteleux poissons doucement remueurs ;</l>
+          <l>Et gravier supportant quelque rose actinie,</l>
+          <l>Dont on ne sait si c’est un sexe ou un bijou ;</l>
+          <l>Et ces bulles sans but, venant on ne sait d’où,</l>
+          <l>Dont se constelle et se brode l’eau trop unie</l>
+          <l>Comme s’il y tombait un chapelet d’argent !</l>
+          <l/>
+          <l>Ah ! tout ce que le glauque aquarium enchâsse !</l>
+          <l>Ici l’eau n’est pas toute à la vie en surface,</l>
+          <l>À n’être qu’un écran docile s’imageant…</l>
+          <l>La voici, recueillie, en sa maison de verre</l>
+          <l>N’aimant plus que ce qui, dans elle, verdoie, erre</l>
+          <l>Et lui fait au dedans un Univers meilleur !</l>
+          <l/>
+          <p>Ainsi mon âme, seule, et que rien n’influence !</p>
+          <p>Elle est, comme en du verre, enclose en du silence,</p>
+          <p>Toute vouée à son spectacle intérieur,</p>
+          <p>À sa sorte de vie intime et sous-marine,</p>
+          <p>Où des rêves ont lui dans l’eau tout argentine.</p>
+          <p>Et que lui fait alors la Vie ? Et qu’est-ce encor</p>
+          <p>Ces reflets de surface, éphémère décor ?</p>
+        </div>
+        <div>
+          <head>III.</head>
+          <l/>
+          <l>Ophélie a laissé sombrer à pic ses nattes</l>
+          <l>Qui se sont peu à peu tout à fait dénouées ;</l>
+          <l>Ses yeux ouverts sur l’eau sont comme deux stigmates ;</l>
+          <l>Ses mains pâles sont si tristement échouées ;</l>
+          <l>Pourtant elle sourit, sentant sur son épaule</l>
+          <l>Ruisseler tout à coup sa chevelure immense,</l>
+          <l>Qui la fait ressembler au mirage d’un saule.</l>
+          <l>« Suis-je ou ne suis-je pas ? » a songé sa démence…</l>
+          <l>Les cheveux d’Ophélie envahissent l’eau grise,</l>
+          <l>Tumulte inextricable où sa tête s’est prise ;</l>
+          <l>Est-ce le lin d’un champ, est-ce sa chevelure,</l>
+          <l>L’embrouillamini vert qui rouit autour d’elle ?</l>
+          <l/>
+          <l>Ophélie étonnée a tâché de conclure :</l>
+          <l>« Suis-je ou ne suis-je pas ? », songe-t-elle, fidèle</l>
+          <l>Au souvenir des mots d’Hamlet, seigneur volage.</l>
+          <l/>
+          <l>Ses cheveux maintenant se nouent comme un feuillage</l>
+          <l>Qui jusqu’au bout de l’eau, sans fin, se ramifie.</l>
+          <l>Ophélie est trop morte, elle se liquéfie…</l>
+          <l>Les bagues ont quitté ses mains devenant nulles ;</l>
+          <l>Ses derniers pleurs à la surface font des bulles ;</l>
+          <l>Ses beaux yeux, délogés des chairs qui sont finies,</l>
+          <l>Survivent seuls, au fond, comme deux actinies.</l>
+          <l/>
+          <l>Et ses cheveux verdis, dont la masse persiste</l>
+          <l>Dans les herbes aquatiques qui leur ressemblent,</l>
+          <l>Sont si dénaturés d’avoir trempé qu’ils semblent</l>
+          <l>Un fouillis végétal issu de cette eau triste.</l>
+        </div>
+        <div>
+          <head>IV.</head>
+          <l/>
+          <l>L’aquarium est si bleuâtre, si lunaire ;</l>
+          <l>Fenêtre d’infini, s’ouvrant sur quel jardin ?</l>
+          <l>Miroir d’éternité dont le ciel est le tain.</l>
+          <l>Jusqu’où s’approfondit cette eau visionnaire,</l>
+          <l>Et jusqu’à quel recul va-t-elle prolongeant</l>
+          <l>Son azur ventilé par des frissons d’argent ?</l>
+          <l>C’est comme une atmosphère en fleur de serre chaude…</l>
+          <l>De temps en temps, dans le silence, l’eau se brode</l>
+          <l>Du passage d’un lent poisson entr’aperçu</l>
+          <l>Qui vient, oblique, part, se fond, devient fluide ;</l>
+          <l>Fusain vite effacé sur l’écran qui se vide,</l>
+          <l>Ébauche d’un dessin mort-né sur un tissu.</l>
+          <l/>
+          <l>Car le poisson s’estompe, entre dans une brume,</l>
+          <l>Pâlit de plus en plus, devient presque posthume,</l>
+          <l>Traînant comme des avirons émaciés</l>
+          <l>Ses nageoires qui sont déjà tout incolores.</l>
+          <l>Départs sans nul sillage, avec peine épiés,</l>
+          <l>Comme celui des étoiles dans les aurores.</l>
+          <l>Quel charme amer ont les choses qui vont finir !</l>
+          <l>Et n’est-ce pas, ce lent poisson, une pensée</l>
+          <l>Dont notre âme s’était un moment nuancée</l>
+          <l>Et qui fuit et qui n’est déjà qu’un souvenir ?</l>
+        </div>
+        <div>
+          <head>V.</head>
+          <l/>
+          <l>Ah ! mon âme sous verre, et si bien à l’abri !</l>
+          <l>Toute elle s’appartient dans l’atmosphère enclose ;</l>
+          <l>Ce qu’elle avait de lie ou de vase dépose ;</l>
+          <l>Le cristal contigu n’en est plus assombri.</l>
+          <l>Transparence de l’âme et du verre complice,</l>
+          <l>Que nul désir n’atteint, qu’aucun émoi ne plisse !</l>
+          <l>Mon âme s’est fermée et limitée à soi ;</l>
+          <l>Et, n’ayant pas voulu se mêler à la vie,</l>
+          <l>S’en épure et de plus en plus se clarifie.</l>
+          <l>Âme déjà fluide où cesse tout émoi ;</l>
+          <l>Mon âme est devenue aquatique et lunaire ;</l>
+          <l>Elle est toute fraîcheur, elle est toute clarté,</l>
+          <l>Et je vis comme si mon âme avait été</l>
+          <l>De la lune et de l’eau qu’on aurait mis sous verre.</l>
+        </div>
+        <div>
+          <head>VI.</head>
+          <l/>
+          <l>Quel léthargique aquarium somnolait là,</l>
+          <l>Entre les agressifs blocs d’ombre d’une grotte,</l>
+          <l>D’un vert fluide à qui du songe se mêla.</l>
+          <l>Couleur glauque d’un puits où toute l’aube flotte,</l>
+          <l>Ou d’un miroir perdu qu’on heurte au fond d’un bois</l>
+          <l>Et dans lequel tous les feuillages aboutissent.</l>
+          <l>Aquarium en fièvre, aux muettes parois,</l>
+          <l>Où des brumes sans cesse et des tulles se tissent ;</l>
+          <l>Alors ce sont soudain des obscurcissements ;</l>
+          <l>Puis c’est une éclaircie et de brusques trouées</l>
+          <l>(Ainsi dans les miroirs et dans les yeux stagnants) ;</l>
+          <l>Et les pâles cloisons sont un peu tatouées</l>
+          <l>Par les herbes et les poissons, les imageant…</l>
+          <l/>
+          <l>C’est l’instant du prestige ! Émoi de l’eau recluse !</l>
+          <l>Est-ce que c’est du clair de lune qui s’infuse ?</l>
+          <l>Toute une vie occulte y prend un bain d’argent</l>
+          <l>Dans l’enchevêtrement silencieux d’un saule</l>
+          <l>Qui serait tout entier entré parmi cette eau…</l>
+          <l>Remuement incessant comme dans un cerveau ;</l>
+          <l>Clarté terne d’éclipse et d’un minuit du pôle !</l>
+          <l>On voit se dérouler des Limbes, dirait-on,</l>
+          <l>Comme si ces poissons, ces herbages, ces pierres,</l>
+          <l>N’étaient autres que quelques âmes prisonnières</l>
+          <l>Qui, captives du verre, attendent leur pardon ;</l>
+          <l>Des âmes s’épurant, comme à demi damnées,</l>
+          <l>Dans ce bassin opaque où s’exila leur sort,</l>
+          <l>– Lieu qui n’est plus la vie et qui n’est pas la mort ! –</l>
+          <l>Des âmes expiant et qui sont condamnées</l>
+          <l>À n’être ainsi qu’un minéral, qu’un végétal,</l>
+          <l>Ou qu’un poisson aveugle en ce muet cristal ;</l>
+          <l>Et l’on voit chavirer ces âmes somnambules</l>
+          <l>S’évertuant sans cesse à se sauver un peu</l>
+          <l>De leur forme avilie en cet abîme bleu ;</l>
+          <l>Combat obscur ! Et ces intermittentes bulles,</l>
+          <l>Qui faufilent de lentes gouttes l’eau sans pli,</l>
+          <l>Ne sont-ce pas des pleurs, rosée expiatoire</l>
+          <l>Des âmes qui font là comme leur purgatoire,</l>
+          <l>Larmes montant à la surface de l’oubli !</l>
+        </div>
+        <div>
+          <head>VII.</head>
+          <l/>
+          <l>L’aquarium, toujours frissonnant, est étrange</l>
+          <l>Avec son eau qu’on ne sait quoi ride et dérange</l>
+          <l>Et qui se crispe moins d’un éveil de poissons</l>
+          <l>Que des yeux qu’en passant nous posâmes sur elle,</l>
+          <l>Et de savoir un peu de ce que nous pensons.</l>
+          <l>On dirait que toujours quelque chose chancelle</l>
+          <l>Dans cette eau sensitive au silence ambigu.</l>
+          <l>Eau de l’aquarium qui, glauque, se limite</l>
+          <l>Par des cloisons qui sont un palais exigu ;</l>
+          <l>Mais le verre est assez glauque pour qu’il l’imite ;</l>
+          <l>Ainsi l’eau, confondue avec lui, se recule</l>
+          <l>Dans un leurre équivoque où chacun s’est accru.</l>
+          <l>Aquarium troublant ! Limbes et crépuscule !</l>
+          <l>Songe vague et visqueux qu’on craindrait d’avoir eu !</l>
+          <l>État intermédiaire et qu’aucun ne discerne :</l>
+          <l>L’aquarium est-il parfois tout endormi ?</l>
+          <l>Mais voici qu’une bulle expire ; il a frémi</l>
+          <l>Et, la larme étant morte, une moire la cerne…</l>
+          <l>L’aquarium est-il parfois tout éveillé ?</l>
+          <l>Il fait plutôt songer alors aux somnambules ;</l>
+          <l>Car, malgré le frisson des poissons et des bulles</l>
+          <l>Et des herbes qui dans son silence ont grouillé,</l>
+          <l>On le sent étranger à cette vie occulte,</l>
+          <l>À ce qui, dans l’eau claire, en ténèbres se sculpte,</l>
+          <l>Comme si ce n’étaient qu’un cauchemar bénin</l>
+          <l>Et des rêves dont, sans le savoir, il s’image,</l>
+          <l>Symbole de notre âme et du sommeil humain</l>
+          <l>Où toujours quelque songe erre, fleurit ou nage.</l>
+        </div>
+        <div>
+          <head>VIII.</head>
+          <l/>
+          <l>Dans l’aquarium clos songent les actinies,</l>
+          <l>Anémones de mer, sensitives de l’eau ;</l>
+          <l>Les moires peu à peu se sont tout aplanies</l>
+          <l>Qui tout à l’heure s’arrondissaient en halo</l>
+          <l>À l’endroit qu’a blessé quelque nageoire en fuite ;</l>
+          <l>Le silence renaît et plus rien ne s’ébruite</l>
+          <l>Dans le bassin peuplé de formes en arrêt.</l>
+          <l>Alors, dans l’eau sans nul frisson, les actinies</l>
+          <l>S’ouvrent, comme une bouche au baiser s’ouvrirait,</l>
+          <l>Fardant de rose un peu leurs corolles blêmies,</l>
+          <l>Mais sensibles encor comme une plaie en fleur ;</l>
+          <l>Car le moindre nouvel éveil d’une nageoire</l>
+          <l/>
+          <l>Les rétracte aussitôt parmi l’eau qui se moire,</l>
+          <l>Encor que le poisson soit doucement frôleur,</l>
+          <l>Et les voilà toutes recloses, racornies,</l>
+          <l>Toutes tristes comme une bouche après l’adieu !</l>
+          <l/>
+          <l>Or nous avons aussi dans nous des actinies :</l>
+          <l>Rêves craintifs qui se déplient parfois un peu,</l>
+          <l>Jardin embryonnaire et comme sous-marin,</l>
+          <l>Fleurs rares n’émergeant que dans la solitude,</l>
+          <l>Bijoux dont le silence entr’ouvre seul l’écrin.</l>
+          <l>Mais combien brefs, ces beaux instants de plénitude</l>
+          <l>Qui sont le prix du calme et du renoncement !</l>
+          <l>Car revoici toujours les nageoires bannies</l>
+          <l>D’un rêve trop profane au louche glissement</l>
+          <l>Qui crispe l’eau de l’âme et clôt les actinies.</l>
+        </div>
+        <div>
+          <head>IX.</head>
+          <l/>
+          <l>L’aquarium d’abord ne semble pas vivant,</l>
+          <l>Inhabité comme un miroir dans un couvent ;</l>
+          <l>Crépuscule où toujours se reforme une brume ;</l>
+          <l>Il dort si pâlement qu’on le croirait posthume</l>
+          <l>Et que les reflets noirs qui viennent et s’en vont</l>
+          <l>Ne sont qu’ombres sans but sur un lit mortuaire</l>
+          <l>Et jeux furtifs de veilleuse sur le plafond.</l>
+          <l/>
+          <l>Pourtant dans l’eau, de temps en temps, quelque chose erre,</l>
+          <l>Circule, se déplie, ou bouge obliquement ;</l>
+          <l>Des frissons lumineux crispent cette eau qui mue,</l>
+          <l>– Tels les spasmes de lumière du diamant ! –</l>
+          <l>Un poisson sombre ondule, une herbe en deuil remue ;</l>
+          <l>Le sable mou du fond s’éboule comme si</l>
+          <l>C’était le sablier bouleversé de l’Heure ;</l>
+          <l>Et quelquefois aussi, sur le cristal transi,</l>
+          <l>Un monstre flasque, en trouble imagerie, affleure,</l>
+          <l>Cependant que l’eau souffre, en paraissant dormir,</l>
+          <l>Et sent passer, dans sa morose léthargie,</l>
+          <l>Mille ombres dont elle ne cesse de frémir</l>
+          <l>Qui font de sa surface une plaie élargie !</l>
+          <l/>
+          <l>Or n’est-ce pas l’image du sommeil humain</l>
+          <l>Où, dans l’eau du cerveau qu’on croit vidée et nue,</l>
+          <l>Des rêves sous-marins sont sans cesse en chemin,</l>
+          <l>Ah ! cette vie occulte, et qui se continue !</l>
+        </div>
+        <div>
+          <head>X.</head>
+          <l/>
+          <l>Quel aquarium glauque apparaît la Mémoire,</l>
+          <l>En qui les souvenirs, les rêves, le passé</l>
+          <l>Émergent par moments d’un clair-obscur glacé ;</l>
+          <l>Clairière d’une grotte en deuil ! Liquide armoire</l>
+          <l>Dont les panneaux ont des ombres pour bas-reliefs</l>
+          <l>Et qui conserve en elle un peu de notre vie :</l>
+          <l>Amour mort qu’on retrouve en scintillements brefs</l>
+          <l>(Collier perdu, mais qu’une perle certifie…) ;</l>
+          <l>Et nos espoirs mués en minéraux pensifs ;</l>
+          <l>Nos efforts devenus des varechs convulsifs ;</l>
+          <l>Telle bouche changée en coquillage inerte</l>
+          <l>Et tel péché, comme un poisson, qui bouge au fond…</l>
+          <l>Comment redevenir la Mémoire déserte ?</l>
+          <l>Mais sans cesse ces mous glissements la défont</l>
+          <l>Et rouvrent une plaie au fil de la Mémoire.</l>
+          <l>Sans cesse le passé, fait d’ombres, reparaît</l>
+          <l>Dans le repos de la Mémoire qui s’en moire.</l>
+          <l>C’est comme si toujours quelque chose y mourait !</l>
+          <l>Car retrouver un fantôme d’ancienne joie,</l>
+          <l>Le spectre d’une rose ou l’écho d’une voix,</l>
+          <l>C’est les voir mourir presque une seconde fois.</l>
+          <l/>
+          <l>Ah ! tout ce qui subsiste en nous grouille et louvoie ;</l>
+          <l>Tout ce qui reparaît d’un temps qu’on oubliait,</l>
+          <l>Déjà si loin, mais qui soudain dans nous remue :</l>
+          <l>Frôlements, frissons noirs et feuillage inquiet ;</l>
+          <l>Ah ! ne jamais pouvoir redevenir l’eau nue !</l>
+          <l>Toujours sentir dans l’eau lasse renaître un pli,</l>
+          <l>Et quelque forme errante, une ombre fugitive</l>
+          <l>Être l’inexorable empêcheuse d’Oubli !</l>
+          <l>Aquarium humain ! Mémoire sensitive !</l>
+          <l>Douleur quotidienne entre des verres clos !</l>
+          <l>Survivance de peine un peu somnambulique,</l>
+          <l>Comme si dans la châsse à la grêle relique</l>
+          <l>On sentait, en baisant la vitre, souffrir l’Os !</l>
+        </div>
+        <div>
+          <head>XI.</head>
+          <l/>
+          <l>L’Aquarium prend en pitié les autres eaux.</l>
+          <l/>
+          <l>Le Ruisseau se déchire en courant la vallée,</l>
+          <l>Eau râpée aux cailloux et sans cesse en allée,</l>
+          <l>Comme en fuite, portant les glaives des roseaux,</l>
+          <l>Ces glaives de douleur du Cœur de l’Eau docile.</l>
+          <l/>
+          <l>Le Fleuve aussi s’exalte et se fatigue en vain</l>
+          <l>À s’élargir, déjà plus humain que divin,</l>
+          <l>Hélas ! car tout son songe intérieur vacille</l>
+          <l>De porter des vaisseaux, de réfléchir des tours</l>
+          <l>Et d’être au gré de l’heure en ses vastes détours !</l>
+          <l/>
+          <l>Même l’eau du Canal n’est pas assez recluse,</l>
+          <l>Trop impressionnable aux nuages, au vent,</l>
+          <l>Au jeu de s’argenter parfois à quelque écluse</l>
+          <l>Qui le fait blanc comme les cygnes l’énervant.</l>
+          <l/>
+          <l>L’eau du Jet d’eau surtout est trop impatiente</l>
+          <l>De se grandir, de se lever comme un cimier,</l>
+          <l>Comme un beau vol de colombes qui s’oriente</l>
+          <l>Et que la lune attire en son clair colombier.</l>
+          <l>Ah ! ce leurre du ciel lointain et de la lune !</l>
+          <l>Car le Jet d’eau retombe en plumes, une à une ;</l>
+          <l>C’est chaque fois, dans la vasque, comme une mort,</l>
+          <l>Comme un deuil blanc qui s’émiette et qui surnage.</l>
+          <l>Plus de reflets ! L’eau trouble est pleine de carnage ;</l>
+          <l>Triste aboutissement d’un orgueilleux effort,</l>
+          <l>Quand il était facile et suave pour elle</l>
+          <l>D’être visionnaire en restant naturelle !</l>
+          <l/>
+          <l>La Mer aussi, qui voulut trop, souffre ; elle geint</l>
+          <l>De se briser aux rocs aigus des promontoires ;</l>
+          <l>Flots opaques, et gris comme un jour de Toussaint ;</l>
+          <l>Flux incessants et qu’on dirait expiatoires,</l>
+          <l>Sans cesse labourés par le vent et l’éclair,</l>
+          <l>Sans cesse fatigués par les vaisseaux véloces ;</l>
+          <l>Mer infinie en qui se fane un trésor clair :</l>
+          <l>Perles, coraux, et tous ces beaux écrins de noces,</l>
+          <l>Richesse intérieure, orfèvrerie en feu,</l>
+          <l>Dont, trop vouée à vivre, elle a joui si peu !</l>
+          <l/>
+          <l>L’Aquarium les plaint, toutes ces eaux vassales</l>
+          <l>Que la vie intéresse, et s’y associant ;</l>
+          <l>Tandis que lui, de son seul songe, est conscient ;</l>
+          <l>Il n’a pas d’autre but que ses fêtes mentales</l>
+          <l>Et l’anoblissement de l’univers qu’il est ;</l>
+          <l>Eau de l’Aquarium dont la pâleur miroite,</l>
+          <l>– C’est comme si du clair de lune se gelait ! –</l>
+          <l>Car dans le verre elle s’est close et se tient coite,</l>
+          <l>Moins en souci des vains reflets et du réel</l>
+          <l>Que d’être ainsi quelque mystère qui scintille</l>
+          <l>Et de réaliser ce qu’elle a d’éternel,</l>
+          <l>Avec l’orgueil un peu triste d’être inutile !</l>
+        </div>
+      </div>
+      <div>
+        <head>Le soir dans les vitres</head>
+        <l/>
+        <div>
+          <head>I.</head>
+          <l/>
+          <l>Le soir descend dans les vitres et les submerge…</l>
+          <l>Un rayon y vacille un moment comme un cierge,</l>
+          <l>Dernier cierge frileux des vêpres terminées !</l>
+          <l>L’ombre déferle ; on ne sait quoi chavire en elles ;</l>
+          <l>Les ultimes clartés sont vite éliminées,</l>
+          <l>Et c’est comme un sommeil délayant des prunelles.</l>
+          <l>Clair-obscur ! Douloureux combat de la Lumière</l>
+          <l>Et de l’Ombre, parmi les vitres – non moins beau</l>
+          <l>Que le même conflit dans le ciel et dans l’eau,</l>
+          <l>Quand le soleil n’est plus qu’une rose trémière</l>
+          <l>Qui s’effeuille parmi le déluge du soir.</l>
+          <l>Et les vitres, dernier champ clos du crépuscule,</l>
+          <l>Où l’Ombre a poursuivi le Couchant et l’accule,</l>
+          <l>Luisent, à cause d’eux, d’un adieu jaune et noir.</l>
+        </div>
+        <div>
+          <head>II.</head>
+          <l/>
+          <l>Pourtant l’ombre s’amasse aux fenêtres vaincues.</l>
+          <l>Les vitrages, bouquets brodés et tulle frêle,</l>
+          <l>Cèdent, et l’on dirait que leur blancheur dégèle,</l>
+          <l>Comme s’ils adhéraient aux vitres contiguës</l>
+          <l>Et que leur givre en fleur était né dans le verre.</l>
+          <l>Unanime débâcle : un bouquet se desserre,</l>
+          <l>Un brusque afflux de soir rompt la plus claire branche,</l>
+          <l>Et c’est la fin d’un fin bouton de rose blanche</l>
+          <l>Qui fond, s’écoule en pleurs et lentement s’annule,</l>
+          <l>Débâcle d’un dégel dans les rideaux de tulle.</l>
+        </div>
+        <div>
+          <head>III.</head>
+          <l/>
+          <l>Les vitres sont alors des aquariums d’ombre !</l>
+          <l>Parmi leur verre glauque a ruisselé le soir ;</l>
+          <l>Une perle s’en sauve ; une lueur y sombre ;</l>
+          <l>Et contre leur pâleur affleure un afflux noir,</l>
+          <l>Comme une eau qui toujours bouge et se renouvelle.</l>
+          <l>Et l’eau du soir triomphe ! Et c’est bientôt en elle</l>
+          <l>Des passages confus de formes émergeant,</l>
+          <l>Et les vitres ont l’air des<note place="bottom">Sic. Probable coquille de l’édition : « de »</note> bassins de silence.</l>
+          <l>Leur eau froide somnole ; une herbe s’y balance ;</l>
+          <l>Les astres, tout au fond, sont des poissons d’argent.</l>
+          <l>Mais cette vie et ces enluminures pâles,</l>
+          <l>Ces vagues remuements dans l’eau triste du soir,</l>
+          <l>Ces dessins inachevés comme aux plis des châles</l>
+          <l>Qui ramagent encor le verre déjà noir,</l>
+          <l>Ne sont-ce pas les vieux reflets des vitres mêmes</l>
+          <l>Se projetant, se délayant, au point qu’ils font</l>
+          <l>Des fenêtres comme un aquarium sans fond ;</l>
+          <l>Ah ! tout ce qui survit dans ces armoires blêmes !</l>
+          <l/>
+        </div>
+        <div>
+          <head>IV.</head>
+          <l/>
+          <l>La chambre triste et lasse est enfin résignée</l>
+          <l>Et s’abandonne au soir qui, sournois, s’insinue :</l>
+          <l>La chambre a l’air plus grande, a l’air aussi plus nue ;</l>
+          <l>L’ombre a tissé ses fils de toile d’araignée</l>
+          <l>Dans les angles, d’abord plus obscurs, du plafond.</l>
+          <l>Elle fane les étoffes, elle les fonce ;</l>
+          <l>Dans le miroir blêmi, les reflets se défont</l>
+          <l>Comme d’une Ophélie en larmes qui s’enfonce ;</l>
+          <l>Et les plis des rideaux ressemblent aux ornières</l>
+          <l>Très profondes des vieux chemins d’un vieux pays.</l>
+          <l>Le soir s’amasse, ayant la crainte des lumières,</l>
+          <l>Autour du lustre et des lampes, surtout haïs,</l>
+          <l>Qui méditent déjà de faire saigner l’Ombre.</l>
+          <l>Tout s’élague dans les ténèbres grandissantes ;</l>
+          <l>Un bouquet riait là, mais il s’efface et sombre</l>
+          <l>Et, dans l’obscurité, les fleurs sont comme absentes ;</l>
+          <l>Les bronzes nus ont des gestes découragés ;</l>
+          <l>Les vieux portraits d’aïeuls, ceux des aïeules feues,</l>
+          <l>S’assombrissent, ont des visages plus âgés,</l>
+          <l>Et du crêpe a couvert leurs fanfreluches bleues.</l>
+          <l>La chambre est tout entière en proie au soir ; et c’est</l>
+          <l>Comme si tout à coup la chambre vieillissait.</l>
+        </div>
+        <div>
+          <head>V.</head>
+          <l/>
+          <l>Le ciel est gris ; mon âme est grise ;</l>
+          <l>Elle se sent toute déprise,</l>
+          <l>Elle se sent un parloir nu ;</l>
+          <l>Car le soir, ce soir, m’est venu</l>
+          <l>Comme un commencement de crise.</l>
+          <l/>
+          <l>La pendule ourle de minutes</l>
+          <l>Le silence de la maison ;</l>
+          <l>Ô soir, quel est donc le poison</l>
+          <l>Que parmi tes crêpes tu blutes,</l>
+          <l>Pour que j’aie encor ces rechutes ?</l>
+          <l/>
+          <l>Couchant de cendre refroidie ;</l>
+          <l>Crépuscule d’âme indistinct ;</l>
+          <l>Mal du soir qui si mal m’atteint</l>
+          <l>Que c’est comme une maladie,</l>
+          <l>Et rien d’humain n’y remédie.</l>
+        </div>
+        <div>
+          <head>VI.</head>
+          <l/>
+          <l>Le soir descend ; il est imminent ; il approche,</l>
+          <l>Emblème de la mort que trop on oubliait ;</l>
+          <l>– On était trop vaillant, on était trop quiet ! –</l>
+          <l>Mais le soir doucement nous en fait le reproche</l>
+          <l>Car il est comme le précurseur de la mort !</l>
+          <l>Ah ! comment s’en sauver, quel moyen qu’on l’élude,</l>
+          <l>Et qu’on s’illusionne et qu’on le croie en tort</l>
+          <l>Et qu’on échappe à ce qu’il a de certitude,</l>
+          <l>Le temps de se reprendre au leurre du miroir :</l>
+          <l>Fenêtre où s’envoler, tournant le dos au soir !</l>
+          <l>Le temps de se reprendre au mensonge des lampes.</l>
+          <l>L’ombre s’aggrave ; tout s’oriente déjà</l>
+          <l>Vers la nuit ; seul un lis plus longtemps émergea ;</l>
+          <l>Mais, là, tous ces drapeaux qui meurent à nos hampes !</l>
+          <l>Tous ces cygnes que l’ombre incorpore ! Ces ors</l>
+          <l>Se dédorant sur les lambris et sur les plinthes</l>
+          <l>À mesure que les ténèbres du dehors</l>
+          <l>Couvrent de crêpe un vieux portrait aux lèvres peintes !</l>
+          <l>Les bibelots pensifs abdiquent sans effort</l>
+          <l>(Tristes un peu de se sentir des urnes closes)</l>
+          <l>À l’ombre qui leur fait une petite mort,</l>
+          <l>Et mon âme s’incline à l’exemple des choses.</l>
+        </div>
+        <div>
+          <head>VII.</head>
+          <l/>
+          <l>C’est Octobre qui s’en revient avec le Soir ;</l>
+          <l>Frères pensifs, ils reviennent de compagnie</l>
+          <l>S’installer dans la chambre et devant le miroir</l>
+          <l>Dont la clarté prolonge un éclat qui les nie ;</l>
+          <l>Frères lointains, envers lesquels on eut des torts</l>
+          <l>Qui rapportent un peu de fleurs des jardins morts</l>
+          <l>Pour les intercaler dans les fleurs des tentures,</l>
+          <l>Les tentures de demi-deuil de la Toussaint.</l>
+          <l>C’est le Soir, c’est Octobre ; une cloche se plaint</l>
+          <l>Songeant confusément à des cloches futures</l>
+          <l>Dont la tristesse en pleurs dans notre âme est déjà !</l>
+          <l>Le Soir s’installe, et rien de précis ne subsiste ;</l>
+          <l>Octobre aussi s’installe et nous revient plus triste</l>
+          <l>Depuis tous ces longs mois où seul il voyagea</l>
+          <l>Durant l’année, à la recherche de notre âme !</l>
+          <l>Il la retrouve enfin, et doucement la blâme</l>
+          <l>De l’avoir attendu pour faire accueil au Soir,</l>
+          <l>Et qu’elle soit encor si profane aux approches</l>
+          <l>De la Toussaint qui vient par un chemin de cloches…</l>
+          <l>Alors Octobre, auprès du Soir, songe à s’asseoir ;</l>
+          <l>Et notre âme s’éplore en voyant, face à face,</l>
+          <l>Ces deux hôtes causer de sa mort à voix basse !</l>
+        </div>
+        <div>
+          <head>VIII.</head>
+          <l/>
+          <l>On est toujours enfant par la crainte du soir !</l>
+          <l>C’est l’heure grise et l’heure en deuil qui terrorise…</l>
+          <l>L’âme s’y sent plus désertée et plus déprise,</l>
+          <l>Et l’élude un moment dans l’éclat du miroir ;</l>
+          <l>Mais l’ombre s’accumule et tout nous décolore,</l>
+          <l>Cygne sur l’eau que peu à peu l’ombre incorpore…</l>
+          <l>Or, n’est-ce pas déjà comme apprendre à mourir</l>
+          <l>Que se perdre soi-même ainsi, sans qu’on le sente,</l>
+          <l>Dans cette ombre d’instant en instant grandissante ?</l>
+          <l>Mourir, c’est se chercher en se voyant s’enfuir</l>
+          <l>Et s’en aller au fond d’une ombre où l’on surnage,</l>
+          <l>Obscurité de Dieu dont le soir est l’image !</l>
+          <l/>
+          <l>Quotidien émoi du retour de la nuit</l>
+          <l>Qui suggère la mort, parce qu’elle est complice</l>
+          <l>De cette cueillaison d’une âme comme un fruit…</l>
+          <l>Chacun sait son embûche, et que la mort s’y glisse !</l>
+          <l>Aussi, dans l’ombre accrue, a-t-on des peurs d’enfant ;</l>
+          <l>Car on sent, parmi ces crêpes, la mort qui rampe…</l>
+          <l>Qu’on allume la lampe ! Ah ! vite, un peu de lampe</l>
+          <l>Qui nous libère des ténèbres étoffant</l>
+          <l>La chambre pour en faire une chapelle ardente !</l>
+          <l>On est pris d’une angoisse et comme dans l’attente ;</l>
+          <l>Un péril imminent nous menace à coup sûr ;</l>
+          <l>Quelque lueur suprême expire au long du mur ;</l>
+          <l>Voici l’ombre qui, dans la chambre, s’acclimate !</l>
+          <l>Ah ! pour s’en prémunir et se sauver encor,</l>
+          <l>Vite la lampe, encor qu’elle ait l’air d’un stigmate,</l>
+          <l>Et rouvre dans l’air vide une blessure d’or.</l>
+          <l/>
+          <l>On échappe dès lors au morne crépuscule,</l>
+          <l>Que la lampe, de son feu fidèle, a vaincu ;</l>
+          <l>Rassuré par ce clair de lampe contigu,</l>
+          <l>On écoute les bruits que le soir articule</l>
+          <l>Par la fenêtre ouverte un peu, vivante un peu,</l>
+          <l>Et les vagues rumeurs dernières du jour feu.</l>
+        </div>
+        <div>
+          <head>IX.</head>
+          <l/>
+          <l>Le soir quotidien descend</l>
+          <l>Dans les vitres qu’il décompose ;</l>
+          <l/>
+          <l>On y voit s’évanouissant</l>
+          <l>Comme un encens sur une rose.</l>
+          <l/>
+          <l>C’est un funèbre et bref conflit</l>
+          <l>Dans les vitres, lasses d’attendre.</l>
+          <l/>
+          <l>Enfin le destin s’accomplit,</l>
+          <l>Pauvres vitres pleines de cendre…</l>
+          <l/>
+          <l>Et le soir qui manigançait</l>
+          <l>Dans la demeure enfin pénètre.</l>
+          <l/>
+          <l>Ombre unanime déjà ! C’est</l>
+          <l>Comme une mort dans la fenêtre.</l>
+          <l/>
+          <l>C’est la fin d’un règne ; ou c’est-il</l>
+          <l>Un pressentiment de veuvage,</l>
+          <l/>
+          <l>Un apprentissage d’exil,</l>
+          <l>Un commencement d’hivernage ?</l>
+          <l/>
+          <l>Soir affligeant ! On sent enfin</l>
+          <l>Qu’on est trop seul, qu’on ne vit guère,</l>
+          <l/>
+          <l>Humain à peine et trop divin !</l>
+          <l>Et que l’Art est un reliquaire</l>
+          <l/>
+          <l>Où l’on enclôt son cœur vivant</l>
+          <l>Dans un tombeau de pierreries.</l>
+          <l/>
+          <l>Ah ! vivre ! le soleil, le vent,</l>
+          <l>La mer, les arbres, les prairies ;</l>
+          <l/>
+          <l>Les lèvres et les seins aussi !</l>
+          <l>Un amour, un but, un calvaire !</l>
+          <l/>
+          <l>Pas toujours ce destin transi,</l>
+          <l>Cette solitude sous verre.</l>
+          <l/>
+          <l>Mais n’est-on pas ainsi déjà</l>
+          <l>– Espoir de gloire moins précaire ! –</l>
+          <l/>
+          <l>Le saint qui pour soi s’ouvragea</l>
+          <l>De son vivant, un reliquaire ?</l>
+        </div>
+        <div>
+          <head>X.</head>
+          <l/>
+          <l>Aux heures de soir morne où l’on voudrait mourir,</l>
+          <l>Où l’on se sent le cœur trop seul, l’âme trop lasse,</l>
+          <l>Quel rafraîchissement de se voir dans la glace !</l>
+          <l>Eau calme du miroir impossible à tarir ;</l>
+          <l>On y s’oublie<note place="bottom">Sic. Probable coquille de l’édition : « On s’y oublie »</note> ; on y dérive ; on y recule…</l>
+          <l>Oh ! s’en aller dans le miroir réfrigérant</l>
+          <l>Périr un peu comme en une eau de crépuscule,</l>
+          <l>Une eau stagnante, une eau sans but et sans courant</l>
+          <l>Où le visage nu sombre à la même place.</l>
+          <l>On se poursuit soi-même, on se cherche, on se perd</l>
+          <l>Dans le recul, dans la profondeur de la glace ;</l>
+          <l>On s’y découvre encor, mais comme recouvert</l>
+          <l>D’une eau vaste et sans fin, à peine transparente,</l>
+          <l>Qui fait que l’on se voit, mais pâle et tout changé :</l>
+          <l>Visage qu’on aura malade ou très âgé,</l>
+          <l>Visage tout simplifié qui s’apparente,</l>
+          <l>Silencieux, avec celui qu’on aura mort…</l>
+          <l>Le soir de plus en plus en submerge l’image</l>
+          <l>Et l’enfonce comme une lune qui surnage,</l>
+          <l>Et l’affaiblit comme les sons mourants d’un cor.</l>
+          <l>Visage en fuite et que toute l’ombre macule,</l>
+          <l>Visage qui déjà se semble avoir fini</l>
+          <l>D’aller jusqu’à l’enlizement<note place="bottom">Sic. Probable coquille de l’édition : « enlisement »</note> dans l’infini.</l>
+          <l>Ô ce jeu du miroir où soi-même on s’annule !</l>
+        </div>
+        <div>
+          <head>XI.</head>
+          <l/>
+          <l>Les vitres tout à l’heure étaient pâles et nues.</l>
+          <l>Mais peu à peu le soir entra dans la maison ;</l>
+          <l>On y sent à présent le péril d’un poison.</l>
+          <l>C’est que les vitres, pour le soir, sont des cornues</l>
+          <l>Où se distille on ne sait quoi dans leur cristal ;</l>
+          <l>Le couchant y répand un or qui les colore ;</l>
+          <l>Et pour qu’enfin le crépuscule s’élabore,</l>
+          <l>L’ombre, comme pour un apprêt médicinal,</l>
+          <l>Semble y verser ses ténèbres, d’une fiole.</l>
+          <l>Dans les verres, teintés de ce qui souffre en eux,</l>
+          <l>Un nuage s’achève, un reflet s’étiole ;</l>
+          <l>Il en germe quelque chose de vénéneux,</l>
+          <l>Menaçant la maison déjà presque endormie ;</l>
+          <l>Et c’est de plus en plus le nocturne élixir…</l>
+          <l>Ah ! les vitres et leur délétère chimie</l>
+          <l>Qui chaque soir ainsi me font un peu mourir !</l>
+          <l/>
+        </div>
+        <div>
+          <head>XII.</head>
+          <l/>
+          <l>Par ma fenêtre ouverte, une musique arrive</l>
+          <l>Qui traverse l’espace et les crêpes du soir ;</l>
+          <l>C’est d’un accordéon, au loin, à la dérive…</l>
+          <l>Où s’en va la fumée en quittant l’encensoir ?</l>
+          <l>Où fuit le son à qui le couchant s’apparie,</l>
+          <l>Et pourquoi voyager, s’en venir jusqu’à moi</l>
+          <l>Et dans ma solitude apporter son émoi,</l>
+          <l>Musique trop en pleurs qu’un léger vent charrie ?</l>
+          <l>Musique en peine de quelle âme ? Air aigrelet</l>
+          <l>Qui se traîne comme une vieille sous un châle ;</l>
+          <l>Un air de demi-deuil, on dirait violet,</l>
+          <l>Mais qui se fane, à chaque instant un peu plus pâle !</l>
+          <l/>
+          <l>J’écoute ; la musique image l’horizon :</l>
+          <l>Chocs ; titillations ; froides gouttes de son</l>
+          <l>Qui se figent en stalactites dans leur chute ;</l>
+          <l>Grains envolés d’un vieux rosaire de couvent ;</l>
+          <l>Musique en rêve ! Et comme elle se répercute !</l>
+          <l>Elle cuivre l’espace ; elle sale le vent ;</l>
+          <l>Puis elle est défaillante et devient déjà nulle…</l>
+          <l>Presque à ras du silence elle va s’assoupir ;</l>
+          <l>Dans ma fenêtre, c’est comme un dernier soupir</l>
+          <l>Et le tulle inquiet des rideaux en ondule…</l>
+          <l>Ô soir ! cette musique en fuite me fait mal !</l>
+          <l>Car n’est-ce pas mon âme extériorisée,</l>
+          <l>Et la plainte sans nom que je n’ai pas osée,</l>
+          <l>Et mon chagrin qui voudrait être lacrymal,</l>
+          <l>Dans cet accordéon plein de mélancolie</l>
+          <l>Qui comme un éventail en larmes se déplie.</l>
+          <l/>
+          <l>Ce triste son lointain jusqu’à moi propagé</l>
+          <l>S’ajoute dans le soir à la peine que j’ai,</l>
+          <l>Si bien que c’est, en lui, moi-même que j’écoute,</l>
+          <l>Ô mon destin jumeau, truchement désolé !</l>
+          <l>Car je l’aime surtout de le voir isolé</l>
+          <l>Et, comme moi, si seul à poursuivre sa route,</l>
+          <l>Sans que nul s’en émeuve au fond du soir transi</l>
+          <l>Où graduellement son concert s’émiette.</l>
+          <l>Mais ma pitié du moins le suit tout inquiète,</l>
+          <l>Tout affligée un peu, tout exaltée aussi,</l>
+          <l>Instrument d’idéal qu’aucun cœur ne reflète</l>
+          <l>– Ah ! que n’a-t-il été parmi les fifres gais ! –</l>
+          <l>Et qui s’obstine en sons tristement fatigués</l>
+          <l>Pour empêcher la mort du Chant d’être complète !</l>
+        </div>
+        <div>
+          <head>XIII.</head>
+          <l/>
+          <l>Le bouquet rose et bleu s’alanguit jusqu’au mauve</l>
+          <l>Dans l’ombre lente et qui, pour un moment, le sauve ;</l>
+          <l>Il s’incline, l’air triste, et comme s’il songeait…</l>
+          <l>Car l’ombre s’insinue en lui, le décolore,</l>
+          <l>Et, sentant sa fin proche, il meurt à tout projet.</l>
+          <l>Quelle est cette alchimie en deuil qui le déflore</l>
+          <l>Et, dans l’ombre, quels sont ces acides latents ?</l>
+          <l>Quel poison est le soir, pour qu’à son influence</l>
+          <l>Tout bouquet se déprenne et qu’il se dénuance,</l>
+          <l>Comme des fleurs d’ancienne étoffe en proie au temps ?</l>
+          <l>Lors le bouquet abdique ; il meurt à toute envie ;</l>
+          <l>Il s’est reclos sur lui-même ; il a renoncé,</l>
+          <l>Se sentant devenir de plus en plus foncé,</l>
+          <l>Et, libre enfin, avec l’ombre s’identifie.</l>
+        </div>
+        <div>
+          <head>XIV.</head>
+          <l/>
+          <l>Dans les vitres on ne sait quoi se décompose…</l>
+          <l>C’est le Jour mort, paré des vitrages en fleur,</l>
+          <l>Qui s’abandonne, beau de la Grande Pâleur.</l>
+          <l>Le couchant vient semer çà et là d’une rose</l>
+          <l>L’alcôve mortuaire où le Jour mort s’allonge.</l>
+          <l>Lentement, des lointains du ciel, un astre émerge</l>
+          <l>Et s’allume, à travers le verre, comme un cierge</l>
+          <l>Qui vient veiller, la mort du Jour, d’un feu qui songe ;</l>
+          <l>L’obscurité se hisse en tentures de deuil</l>
+          <l>Autour du lit de tulle où gît le Jour livide ;</l>
+          <l>Puis tout finit dans la fenêtre qui se vide</l>
+          <l>Comme si le Jour mort était mis au cercueil.</l>
+        </div>
+        <div>
+          <head>XV.</head>
+          <l/>
+          <l>Lorsque le soir descend, l’âme se pacifie,</l>
+          <l>Comme arrivée enfin dans une calme plaine ;</l>
+          <l>L’âme, durant le jour, allait broutant la vie ;</l>
+          <l>Herbe amère, buissons où se prenait sa laine ;</l>
+          <l>Mille soins : cette laine incessamment salie</l>
+          <l>Qui l’entourait comme un écheveau de fumées ;</l>
+          <l>Et toujours s’abreuver aux eaux accoutumées ;</l>
+          <l>Et toujours obéir au berger qui rallie.</l>
+          <l>Mais voici, dans le soir, que l’âme enfin s’isole,</l>
+          <l>Qu’elle se sent, hors du troupeau, sur un pré vide</l>
+          <l>Où sa seule ombre, au ras de l’herbe, s’étiole ;</l>
+          <l>Âme comme arrêtée au bord d’une eau placide,</l>
+          <l>Qui s’atteste à soi-même, avec soi se confronte,</l>
+          <l>Et, sous le ciel plein de lumière atrophiée,</l>
+          <l>S’aperçoit nue enfin, toute simplifiée,</l>
+          <l>Âme qui doit subir le soir comme une tonte !</l>
+          <l/>
+        </div>
+        <div>
+          <head>XVI.</head>
+          <l/>
+          <l>Le jour s’éteint dans les vitraux d’or endurci</l>
+          <l>Et de bleu clair auquel l’air du ciel collabore.</l>
+          <l>L’église est grise ; elle devient tout incolore ;</l>
+          <l>Et déjà les vitraux ont un aspect transi,</l>
+          <l>Eux qui tantôt encor blasonnaient le silence.</l>
+          <l>Nul bruit. Devant l’autel, la lampe se balance</l>
+          <l>Du mouvement lassé d’une tête d’enfant</l>
+          <l>Qui, très blonde, voulant dormir, se dodeline.</l>
+          <l>L’église, contre l’ombre, à peine se défend ;</l>
+          <l>Un reste d’encens plane en pâle mousseline</l>
+          <l>Qui fil à fil se désagrège dans les nefs ;</l>
+          <l>Quelques cierges ont par instants des éclats brefs</l>
+          <l>De flamme horizontale et dont l’ombre s’évente.</l>
+          <l>Dans les vitraux foncés, s’est amarré le soir ;</l>
+          <l>Translucide tantôt, leur verre est presque noir,</l>
+          <l>Bassins d’une eau froidie et qui se désargente !</l>
+          <l>Volupté de cette ombre et de subodorer</l>
+          <l>La maladive odeur des églises : bougies,</l>
+          <l>Encens fané, nappes du culte défraîchies,</l>
+          <l>Et les cires qui sont mortes de se pleurer !</l>
+        </div>
+        <div>
+          <head>XVII.</head>
+          <l/>
+          <l>Mon cœur s’est reposé dans les conseils du soir !</l>
+          <l>C’est le moment le plus divin de la journée,</l>
+          <l>Doux comme le dernier cierge du reposoir,</l>
+          <l>Nostalgique comme une étoffe un peu fanée.</l>
+          <l/>
+          <l>Certes, il fait souffrir. Quel refroidissement,</l>
+          <l>Et quel gel d’agonie infusé dans nos lombes !</l>
+          <l>Et quel ensanglanté concile de colombes</l>
+          <l>S’abat comme un hiver sur notre obscur tourment !</l>
+          <l/>
+          <l>N’importe ! il est meilleur que le soir s’accomplisse !</l>
+          <l>C’est seulement la chair qu’il fait pleine d’émoi ;</l>
+          <l>Car dans l’obscurité, dont le cœur est complice,</l>
+          <l>On sent éclore et vivre un clair de lune en soi.</l>
+          <l/>
+          <l>Et voici commencer le rêve et les féeries…</l>
+          <l>Ô mon cœur, fais accueil à la douleur du soir !</l>
+          <l>Le songe intérieur montre ses pierreries</l>
+          <l>Que le soir avantage avec son velours noir.</l>
+          <l/>
+          <l>C’est le moment du doute et des douleurs divines ;</l>
+          <l>Certes le soir est déchirant comme un adieu ;</l>
+          <l>L’ombre se tresse au front en couronne d’épines ;</l>
+          <l>Mais c’est aussi l’instant où l’on se sent un dieu !</l>
+        </div>
+      </div>
+      <div>
+        <head>Les lignes de la main</head>
+        <l/>
+        <div>
+          <head>I.</head>
+          <l/>
+          <l>La main s’enorgueillit de sa nudité calme</l>
+          <l>Et d’être rose et lisse, et de jouer dans l’air</l>
+          <l>Comme un oiseau narguant l’écume de la mer,</l>
+          <l>Et de frémir avec des souplesses de palme.</l>
+          <l/>
+          <l>La main exulte ; elle est fière comme une rose</l>
+          <l>– Sans songer que l’envers est un réseau de plis ! –</l>
+          <l>Et fait luire au soleil ses longs ongles polis</l>
+          <l>Enchâssant dans la chair un peu de corail rose.</l>
+          <l/>
+          <l>La main règne, d’un air impérieux, car tout</l>
+          <l>Ne s’accomplit que par elle, tout dépend d’elle ;</l>
+          <l>Pour le nid du bonheur, elle est une hirondelle ;</l>
+          <l>Et, pour le vin de joie, elle est le raisin d’août.</l>
+          <l/>
+          <l>La main rit d’être blanche et rose, et qu’elle éclaire</l>
+          <l>Comme un phare, et qu’elle ait une odeur de sachet ;</l>
+          <l>C’est comme si toujours elle s’endimanchait</l>
+          <l>À voir les bagues d’or dont se vêt l’annulaire.</l>
+          <l/>
+          <l>Or pendant que la main s’enorgueillit ainsi</l>
+          <l>D’être belle, et de se convaincre qu’elle embaume,</l>
+          <l>Les plis mystérieux s’aggravent dans la paume</l>
+          <l>Et vont commencer d’être un écheveau transi.</l>
+          <l/>
+          <l>Vain orgueil, jeu coquet de la main pavanée</l>
+          <l>Qui rit de ses bijoux, des ongles fins, des fards ;</l>
+          <l>Cependant qu’en dessous, avec des fils épars,</l>
+          <l>La Mort tisse déjà sa toile d’araignée.</l>
+        </div>
+        <div>
+          <head>II.</head>
+          <l/>
+          <l>Les lignes de la main, géographie innée !</l>
+          <l>Ce sont d’obscurs chemins venus de l’infini ;</l>
+          <l>Ce sont les fils brouillés d’un rouet endormi ;</l>
+          <l>Ah ! l’arabesque étrange où gît la Destinée !</l>
+          <l/>
+          <l>Quelle magicienne en lira le grimoire</l>
+          <l>Si confus – on dirait d’il y a si longtemps !</l>
+          <l>Parmi le sable nu, ruisseaux intermittents ;</l>
+          <l>Noms balafrant en vain un miroir sans mémoire.</l>
+          <l/>
+          <l>Signes définitifs, encor qu’irrésolus !</l>
+          <l>Pâle embrouillamini, fantasques écritures</l>
+          <l>Dont le sens se dérobe et fuit sous des ratures,</l>
+          <l>Et que nul familier du mystère n’a lus.</l>
+          <l/>
+          <l>Secret perdu du langage des lignes belles</l>
+          <l>Grâce à qui des bergers avaient trouvé le sens</l>
+          <l>Des astres de Chaldée en un ciel bleu d’encens,</l>
+          <l>Ayant vu dans leurs mains des lignes parallèles.</l>
+        </div>
+        <div>
+          <head>III.</head>
+          <l/>
+          <l>Je me souviens de telles mains, mains gardiennes !</l>
+          <l>Du rose d’une neige au soleil, lumineuses</l>
+          <l>Comme un albâtre pâle où dorment des veilleuses,</l>
+          <l>Ces chères mains qui m’ont été quotidiennes.</l>
+          <l/>
+          <l>Mains si claires ! Elles s’entouraient d’un halo</l>
+          <l>Dans l’air qui, de les voir jeunes, semblait vieilli ;</l>
+          <l>Si calmes, elles étaient comme un fruit cueilli ;</l>
+          <l>Fraîches, elles semblaient avoir joué dans l’eau.</l>
+          <l/>
+          <l>Ces fières mains, ces mains douces, ces mains bénignes</l>
+          <l>Qui se posaient sur mes cheveux, pleines de zèles ;</l>
+          <l>Qui me couvaient avec l’appuiement chaud des ailes</l>
+          <l>Et miraient dans mes yeux l’écheveau de leurs lignes.</l>
+          <l/>
+          <l>Mains de ma destinée où tout se présagea !</l>
+          <l>Et le premier émoi de mes mains dans ces mains !</l>
+          <l>Attouchements définitifs qu’on croit bénins,</l>
+          <l>Endroit minime où l’on se possède déjà.</l>
+        </div>
+        <div>
+          <head>IV.</head>
+          <l/>
+          <l>Quel contraste, la main d’enfant qui se déplie :</l>
+          <l>Elle est nouvelle et jeune et fraîche, et s’inaugure</l>
+          <l>Avec le dépliement d’une cire à Complie,</l>
+          <l>Ou l’émoi d’une oiselle à la frêle envergure.</l>
+          <l/>
+          <l>Au-dessus, tout est frais, immaculé, neuf, rose ;</l>
+          <l>Mais, en dessous, la main est ridée et vieillie ;</l>
+          <l>Et l’on dirait – la belle fleur étant cueillie –</l>
+          <l>Que c’est l’envers et les racines de la rose.</l>
+        </div>
+        <div>
+          <head>V.</head>
+          <l/>
+          <l>La main est le muet carrefour d’une Race !</l>
+          <l>Car les lignes aux longs méandres s’y croisant,</l>
+          <l>Ne sont-ce pas d’anciens chemins que rien n’efface</l>
+          <l>Et par où le passé se relie au présent ?</l>
+          <l/>
+          <l>Halte éphémère, au carrefour de notre main,</l>
+          <l>De ces mille chemins traversant la main nue,</l>
+          <l>Venus de l’infini pour repartir demain ;</l>
+          <l>C’est par eux que la Race en nous se continue.</l>
+          <l/>
+          <l>Le carrefour de notre main, un temps, les garde,</l>
+          <l>Mais trop brièvement pour les rendre meilleurs ;</l>
+          <l>Réseau qui reste intact pour le peu qu’il s’attarde,</l>
+          <l>Chemins venus d’ailleurs qui s’en iront ailleurs.</l>
+          <l/>
+          <l>Notre vie est, en eux, d’avance dessinée,</l>
+          <l>Car ils se croisent immuables dans les mains ;</l>
+          <l>Or le sort de chacun se lie à ces chemins…</l>
+          <l>Comment dès lors pouvoir changer sa destinée ?</l>
+        </div>
+        <div>
+          <head>VI.</head>
+          <l/>
+          <l>Douceur des mains où sont cachés des viatiques,</l>
+          <l>Les mains qui sont un peu notre âme faite chair !</l>
+          <l>Mains modestes, mains calmantes, mains magnétiques,</l>
+          <l>Pâles d’avoir semé des fluides dans l’air.</l>
+          <l>Mains de pardon sur les péchés, ou mains de proie</l>
+          <l>Sur les cheveux, ainsi que des chauves-souris,</l>
+          <l>Les emmêlant d’un vol qui tournoie et foudroie.</l>
+          <l>Mains comme des bouquets, et mains comme des cris ;</l>
+          <l>Ô mains non moins spirituelles que charnelles !</l>
+          <l>Les mouvements sans fin de l’âme sont en elles,</l>
+          <l>Transmis en un instant, avec quels fils ténus !</l>
+          <l>Mains dociles en qui des ordres sont venus</l>
+          <l>Dont elles sont les très ponctuelles servantes ;</l>
+          <l>Par elles s’accomplit tout le bien, tout le mal,</l>
+          <l>Puisant l’eau sans péché dans le puits baptismal,</l>
+          <l>Condensant le poison en mixtures savantes.</l>
+          <l>Mains complices de tous les actes, de tous les</l>
+          <l>Élans de l’âme ! Mains qui sont comme des clés</l>
+          <l>Pour ouvrir tous les cœurs et toutes les serrures.</l>
+          <l>Ô si subtiles mains, expertes aux luxures,</l>
+          <l>Qui dosent le péché, qui graduent la langueur ;</l>
+          <l>Ô si subtiles mains, expertes aux prières,</l>
+          <l>Jointes comme les mains des Saints dans les verrières ;</l>
+          <l>Mains – des outils pour se façonner son bonheur !</l>
+          <l>Toutes ces mains : d’amants, de héros, de fileuses ;</l>
+          <l>Les mains ont des reflets comme le fil d’une eau ;</l>
+          <l>Les mains ont des échos sans fin, ô recéleuses</l>
+          <l>Des secrets de l’alcôve et de ceux du tombeau !</l>
+        </div>
+        <div>
+          <head>VII.</head>
+          <l/>
+          <l>Souvent on voit des mains qui sont faibles et lasses</l>
+          <l>D’avoir voulu cueillir trop de roses ou d’âmes ;</l>
+          <l>Elles pendent le long du corps comme des rames,</l>
+          <l>Et ce n’est que du silence qu’elles déplacent</l>
+          <l>En remuant, de temps en temps, dans l’air à peine !</l>
+          <l>Mains qui voudraient un peu s’amarrer à la rive,</l>
+          <l>Mais que la vie, au fil de son courant, entraîne,</l>
+          <l>Mains sans espoirs et sans désirs, à la dérive…</l>
+        </div>
+        <div>
+          <head>VIII.</head>
+          <l/>
+          <l>Dans les portraits anciens où le temps collabore,</l>
+          <l>Les mains ont mûri. Mains comme des fruits ambrés !</l>
+          <l>Combien de souvenirs tout à coup remembrés !</l>
+          <l>Car dans ces mains, c’est toute une âme qu’on explore ;</l>
+          <l>Dans ces veines, c’est tout un sang qui transparaît.</l>
+          <l>Les mains ne sont-ce pas les échos du visage</l>
+          <l>Qui divulguent ce qu’il taisait comme un secret ?</l>
+          <l>Comment élucider le sens d’un paysage ?</l>
+          <l>Mais voici l’aide et la logique des chemins ;</l>
+          <l>Or elles ont aussi leurs longs chemins, les mains,</l>
+          <l>Qui se croisent et se quittent, comme en des feintes,</l>
+          <l>Lignes où s’éclaircit l’énigme des mains peintes !</l>
+          <l>Que de signes encore aux mains des vieux portraits :</l>
+          <l>Un pli, comme d’avoir trop feuilleté la Bible ;</l>
+          <l>Des bagues prolongeant sur les doigts leurs ors frais</l>
+          <l>Où quelque opale ou quelque améthyste, sensible</l>
+          <l>Comme un œil, éternise un ancien amour mort ;</l>
+          <l>Ou bien encore un sceptre, une rose tenue,</l>
+          <l>En un geste fixé d’orgueil ou de remords ;</l>
+          <l>Ou bien la main sans but qui s’offre toute nue</l>
+          <l>Mais dont l’inflexion raconte le destin :</l>
+          <l>À quels fuseaux de brume elle s’est occupée ;</l>
+          <l>Pour qui, pour quelle cause, elle a tenu l’épée ;</l>
+          <l>Si ce fut une chevelure ou du butin</l>
+          <l>Qu’elle aima manier au lointain des années.</l>
+          <l>Mains probantes, encor qu’elles se soient fanées,</l>
+          <l>Mains qui conservent des reflets comme un miroir,</l>
+          <l>Mains des anciens portraits où tout peut se revoir,</l>
+          <l>Dont les lignes sont des indices et des preuves</l>
+          <l>Recomposant l’homme ou la femme du portrait,</l>
+          <l>Comme un royaume, mort, encor se connaîtrait</l>
+          <l>Par le cours survécu des ruisseaux et des fleuves.</l>
+        </div>
+        <div>
+          <head>IX.</head>
+          <l/>
+          <l>Toutes ces mains : les mains des morts enfin inertes</l>
+          <l>Qui tiennent droit un vieux crucifix comme une arme,</l>
+          <l>Ou bien parfois quelques violettes de Parme ;</l>
+          <l>Et d’autres mains, les mains d’amants qui sont expertes</l>
+          <l/>
+          <l>À manier la chevelure d’une amante,</l>
+          <l>À la bien partager en deux sur chaque épaule,</l>
+          <l>À l’agiter comme le feuillage d’un saule</l>
+          <l>Qui, dans le vent changeant, s’étrécit ou s’augmente.</l>
+          <l/>
+          <l>Mains des fermes vendangeant les grappes du lait ;</l>
+          <l>Mains des berceaux dépliant leurs roses trémières ;</l>
+          <l>Et les mains des couvents en qui le chapelet</l>
+          <l>Est un silencieux écheveau de prières ;</l>
+          <l/>
+          <l>Toutes les mains s’évertuant vers des bonheurs,</l>
+          <l>Mains mystiques, mains guerrières, si variées :</l>
+          <l>Les mains, couleur de la lune, des mariées ;</l>
+          <l>Les mains, couleur de grand soleil, des moissonneurs ;</l>
+          <l/>
+          <l>Toutes : celles semant du grain ou des idées ;</l>
+          <l>Accouchant le bloc de marbre, de la statue,</l>
+          <l>Ou la mère, de l’enfant qui la perpétue ;</l>
+          <l>Toutes les mains, jeunes, vieilles, lisses, ridées,</l>
+          <l/>
+          <l>Toutes ont pour tourment caché ces lignes fines,</l>
+          <l>Ces méandres de plis, cet enchevêtrement ;</l>
+          <l>Or on dirait des cicatrices de racines,</l>
+          <l>Nos racines que nous portons, secrètement.</l>
+          <l/>
+          <l>C’est là, nous le sentons, que gît l’essentiel ;</l>
+          <l>Ces lignes sont vraiment les racines de l’être ;</l>
+          <l>Et c’est par là, quand nous commençâmes de naître,</l>
+          <l>Que nous avons été déracinés du ciel.</l>
+          <l/>
+          <l>La main en a gardé la preuve indélébile ;</l>
+          <l>Et c’est pourquoi, malgré bonheurs, bijoux, baisers,</l>
+          <l>Elle souffre de tous ces fils entrecroisés</l>
+          <l>Qui font pleurer en elle une plaie immobile.</l>
+        </div>
+      </div>
+      <div>
+        <head>Les malades aux fenêtres</head>
+        <l/>
+        <div>
+          <head>I.</head>
+          <l/>
+          <l>La maladie est un clair-obscur solennel,</l>
+          <l>L’instant mi-jour, mi-lune, angoissant crépuscule !</l>
+          <l>Dans l’ombre qui s’amasse, un reste de jour brûle ;</l>
+          <l>Reverra-t-on la vie au delà du tunnel ?</l>
+          <l>La maladie est une crise de lumière ;</l>
+          <l>On sent planer l’ombre de l’aile de la mort ;</l>
+          <l>Quelque chose pourtant d’avant-céleste en sort</l>
+          <l>Et répand une paix d’indulgence plénière.</l>
+          <l>Lente épuration ! Chaste ennoblissement</l>
+          <l>De tout l’être par on ne sait quel charme occulte.</l>
+          <l>Est-ce par la pâleur, par l’amaigrissement</l>
+          <l>Qui fait que le visage en ivoire se sculpte ?</l>
+          <l>On se croirait un autre ; on se semble être ailleurs ;</l>
+          <l>On voit mieux ; on s’exhausse à des rêves meilleurs ;</l>
+          <l>On a comme soudain en main un bréviaire ;</l>
+          <l>Ah ! qu’on est loin ! Est-ce qu’on habite une tour ?</l>
+          <l>Épreuve, demi-vie, état intermédiaire ;</l>
+          <l>On se sent anormal tel qu’un cierge en plein jour !</l>
+          <l/>
+        </div>
+        <div>
+          <head>II.</head>
+          <l/>
+          <l>Le malade souvent examine ses mains,</l>
+          <l>Si pâles, n’ayant plus que des gestes bénins</l>
+          <l>De sacerdoce et d’offices, à peine humaines ;</l>
+          <l>Il consulte ses mains, ses doigts trop délicats</l>
+          <l>Qui, plus que le visage, élucident son cas</l>
+          <l>Avec leur maigre ivoire et leurs débiles veines.</l>
+          <l/>
+          <l>Surtout le soir, il les considère en songeant</l>
+          <l>Parmi le crépuscule, automne des journées,</l>
+          <l>Et dans elles, qui sont longues d’être affinées,</l>
+          <l>Voit son mal comme hors de lui se prolongeant,</l>
+          <l>Mains pâles d’autant plus que l’obscurité tombe !</l>
+          <l>Elles semblent s’aimer et semblent s’appeler ;</l>
+          <l>Elles ont des blancheurs frileuses de colombe</l>
+          <l>Et, sveltes, on dirait qu’elles vont s’envoler.</l>
+          <l>Elles font sur l’air des taches surnaturelles</l>
+          <l>Comme si du nouveau clair de lune en chemin</l>
+          <l>Entrait par la fenêtre et se posait sur elles.</l>
+          <l>Or la pâleur est la même sur chaque main,</l>
+          <l>Et le malade songe à ses mains anciennes ;</l>
+          <l>Il ne reconnaît plus ces mains pâles pour siennes ;</l>
+          <l>Tel un petit enfant qui voit ses mains dans l’eau.</l>
+          <l/>
+          <l>Puis le malade mire au miroir sans mémoire</l>
+          <l>– Le miroir qui concentre un moment son eau noire –</l>
+          <l>Ses mains qu’il voit sombrer comme un couple jumeau ;</l>
+          <l>Ô vorace fontaine, obstinée et maigrie,</l>
+          <l>Où le malade suit ses mains, dans quel recul !</l>
+          <l>Couple blanc qui s’enfonce et de plus en plus nul</l>
+          <l>Jusqu’à ce que l’eau du miroir se soit tarie.</l>
+          <l>Il songe alors qu’il va bientôt ne plus pouvoir</l>
+          <l>Les suivre, quand sera total l’afflux du soir</l>
+          <l>Dans cette eau du profond miroir toute réduite ;</l>
+          <l>Et n’est-ce pas les voir mourir, que cette fuite ?</l>
+        </div>
+        <div>
+          <head>III.</head>
+          <l/>
+          <l>Doux réconfort qu’une présence de veilleuse</l>
+          <l>Si calme, dans la chambre, et l’air dévotieuse ;</l>
+          <l>Œil vigilant que le malade sent sur soi ;</l>
+          <l>Lumière humble ; discret dévouement qui se voile</l>
+          <l>De porcelaine ou de cristal, et s’y tient coi ;</l>
+          <l>Clarté qui s’atténue : on dirait une étoile</l>
+          <l>Dans de l’eau ; dans du tulle inviolable, un lis ;</l>
+          <l>On dirait une hostie en feu dans un ciboire.</l>
+          <l>Elle a l’air si lointaine et comme de jadis !</l>
+          <l>C’est à peine si l’ombre autour d’elle se moire</l>
+          <l>Et se dilate en une argentine pâleur,</l>
+          <l>Vague contagion de son halo placide,</l>
+          <l>Accroissement de ses linges de Sacré-Cœur…</l>
+          <l/>
+          <l>Or c’est assez pour que l’ombre enfin s’élucide,</l>
+          <l>L’ombre dont le malade a peur comme un enfant ;</l>
+          <l>Car dans la chambre où naît cette clarté recluse</l>
+          <l>Il semble qu’un peu de clair de lune s’infuse.</l>
+          <l>L’ombre d’abord dans les angles noirs se défend ;</l>
+          <l>Mais bientôt elle cède en de minimes luttes ;</l>
+          <l>La veilleuse empiète, élargit ses volutes ;</l>
+          <l>Et la chambre gagnée est plus claire au milieu.</l>
+          <l/>
+          <l>Lors le conflit s’achève en fantasmagories :</l>
+          <l>Reflet des meubles ; vols d’ombres trop agrandies</l>
+          <l>Charbonnant le plafond d’un vague camaïeu…</l>
+          <l>Or le malade aussi que la clarté ranime</l>
+          <l>Sent ce reflet en lui des choses d’alentour</l>
+          <l>Et le jeu noir de toute cette pantomime</l>
+          <l>Imageant son cerveau dans l’attente du jour.</l>
+          <l>La veilleuse à son tour le distrait, le renseigne ;</l>
+          <l>Lueur faible : c’est son espoir de guérison,</l>
+          <l>Ce qui reste de sa santé dans la maison ;</l>
+          <l>Mais quelle peur que tout à coup elle s’éteigne !…</l>
+        </div>
+        <div>
+          <head>IV.</head>
+          <l/>
+          <l>La maladie est si doucement isolante :</l>
+          <l>Lent repos d’un bateau qui songe au fil d’une eau,</l>
+          <l>Sans nulle brise, et nul courant qui violente,</l>
+          <l>Attaché sur le bord par la chaîne et l’anneau.</l>
+          <l>Avant ce calme octobre, il ne s’appartenait guère :<note place="bottom">Alexandrin de 13 pieds : probable coquille de l’éditeur. Le vers original doit être : « Avant ce calme octobre, il ne s’appartient guère »</note></l>
+          <l>Toujours du bruit, des violons, des passagers,</l>
+          <l>Et ses rames brouillant les canaux imagés.</l>
+          <l>Maintenant il est seul ; et doucement s’éclaire</l>
+          <l>D’un mirage de ciel qui n’est plus partiel ;</l>
+          <l>Il se ceint de reflets puisqu’il est immobile ;</l>
+          <l>Il est libre vraiment puisqu’il est inutile ;</l>
+          <l>Et, délivré du monde, il s’encadre de ciel.</l>
+          <l/>
+          <l>*</l>
+          <l/>
+          <l>Car cet isolement anoblit, lénifie ;</l>
+          <l>On se semble de l’autre côté de la vie ;</l>
+          <l>Les amis sont au loin, vont se raréfier ;</l>
+          <l>À quoi donc s’attacher ; à qui se confier ?</l>
+          <l>On ne va plus aimer les autres, mais on s’aime ;</l>
+          <l>On n’est plus possédé par de vains étrangers,</l>
+          <l>On se possède, on se réalise soi-même ;</l>
+          <l>Les nœuds sont déliés ! Les rapports sont changés !</l>
+          <l>Toute la vie et son mensonge et son ivraie</l>
+          <l>Se sont fanés dans le miroir intérieur</l>
+          <l>Où l’on retrouve enfin son visage meilleur,</l>
+          <l>Celui de pure essence et d’identité vraie.</l>
+          <l/>
+          <l>*</l>
+          <l/>
+          <l>Les maladies des pierres sont des végétations.</l>
+          <l/>
+          <l>Novalis.</l>
+          <l/>
+          <l>Quand la pierre est malade elle est toute couverte</l>
+          <l>De mousses, de lichens, d’une vie humble et verte ;</l>
+          <l>La pierre n’est plus pierre ; elle vit ; on dirait</l>
+          <l>Que s’éveille dans elle un projet de forêt,</l>
+          <l>Et que, d’être malade, elle s’accroît d’un règne,</l>
+          <l>La maladie étant un état sublimé,</l>
+          <l>Un avatar obscur où le mieux a germé !</l>
+          <l>Exemple clair qui sur nous-mêmes nous renseigne :</l>
+          <l>Si les plantes ne sont que d’anciens cailloux morts</l>
+          <l>Dont naquit tout à coup une occulte semence,</l>
+          <l>Les malades que nous sommes seraient alors</l>
+          <l>Des hommes déjà morts en qui le dieu commence !</l>
+        </div>
+        <div>
+          <head>V.</head>
+          <l/>
+          <l>Les glaces sont les mélancoliques gardiennes</l>
+          <l>Des visages et des choses qui s’y sont vus ;</l>
+          <l>Mirage obéissant, sans jamais un refus !</l>
+          <l>Mais le soir leur revient en crises quotidiennes ;</l>
+          <l>C’est une maladie en elles que le soir ;</l>
+          <l>Comment se prolonger un peu, comment surseoir</l>
+          <l>Au mal de perdre en soi les couleurs et les lignes ?</l>
+          <l>C’est le mal d’un canal où s’effacent des cygnes</l>
+          <l>Que l’ombre identifie avec elle sur l’eau.</l>
+          <l>Mal grandissant de l’ombre élargie en halo</l>
+          <l>Qui lentement dénude, annihile les glaces.</l>
+          <l>Elles luttent pourtant ; elles voudraient surseoir</l>
+          <l>Et leur fluide éclat nie un moment le soir…</l>
+          <l>Mais, en l’ombre aggravée, elles se font plus lasses</l>
+          <l>Cessant d’être dans les chambres comme un témoin.</l>
+          <l>En ce malaise étrange et qui les simplifie</l>
+          <l>Elles semblent déjà déprises, déjà loin,</l>
+          <l>Presque absentes et comme au delà de la vie !</l>
+          <l>Décalques apâlis, mirages incomplets ;</l>
+          <l>Or n’est-ce pas vraiment comme une maladie</l>
+          <l>Pour les miroirs que toute cette ombre agrandie,</l>
+          <l>Eux les frêles miroirs qui vivent de reflets.</l>
+        </div>
+        <div>
+          <head>VI.</head>
+          <l/>
+          <l>Et l’on redevient doux de la toute-douceur !</l>
+          <l>La maladie est à ce point anémiante</l>
+          <l>Qu’on prend un air de première communiante,</l>
+          <l>Qu’on prend, au lieu de son cœur d’homme, un cœur de fleur,</l>
+          <l>Un cœur de nénuphar dans une ville morte</l>
+          <l>Indifférent à tout ce qui se passe autour</l>
+          <l>De la silencieuse eau pâle qui le porte.</l>
+          <l/>
+          <l>Et l’on redevient doux comme la fin du jour,</l>
+          <l>Comme un canal après qu’on a fermé l’écluse.</l>
+          <l>Douceur qui vient de la douleur qui désabuse,</l>
+          <l>Et de se sentir seul puisqu’on est anormal ;</l>
+          <l>Douceur qui vient de l’isolement dans son mal,</l>
+          <l>La maladie étant une autre solitude.</l>
+          <l>On est le saule au bord d’une eau d’incertitude,</l>
+          <l>Inquiet seulement de son vague reflet</l>
+          <l>Qui s’éteindrait dans l’eau si quelque vent soufflait.</l>
+          <l/>
+          <l>On redevient de la douceur originelle ;</l>
+          <l>Tous les rêves qu’on fait ont à présent une aile,</l>
+          <l>Et cette douceur d’âme irradie au dehors,</l>
+          <l>Si bien que le visage a des pâleurs d’hostie,</l>
+          <l>Visage eucharistique et dont on communie !</l>
+          <l>Et l’on redevient doux comme un appel de cors,</l>
+          <l>Comme on l’est quand on cause à la fin d’un dimanche ;</l>
+          <l>On dirait que soudain la voix s’est faite blanche</l>
+          <l>Pour parler de la vie ainsi que d’un exil,</l>
+          <l>Ô calme voix qu’à peine un peu le couchant fonce,</l>
+          <l>Le calme son de voix de celui qui renonce,</l>
+          <l>Un son de voix déjà céleste et volatil,</l>
+          <l>Sauf aux instants de mal physique où l’on s’énerve ;</l>
+          <l>Mais combien de trésors de douceur en réserve !</l>
+        </div>
+        <div>
+          <head>VII.</head>
+          <l/>
+          <l>Un grand lis dépérit là-bas sur la console.</l>
+          <l/>
+          <l>Est-ce parce qu’il touche à la fin de son âge ?</l>
+          <l>Est-ce à cause du soir tombant qui trop l’isole</l>
+          <l>Dans des ombres où sa blancheur frêle surnage ?</l>
+          <l>À peine si sa forme encor se délimite ;</l>
+          <l>Il faudrait l’arroser, semble-t-il, d’eau bénite,</l>
+          <l>Svelte lis qui se meurt dans la chambre assombrie.</l>
+          <l/>
+          <l>Il se dressait si beau, l’air d’un jet d’eau qui prie !</l>
+          <l>Avec ses linges purs et sa parure blanche</l>
+          <l>Comme une fleur qui croit toujours que c’est dimanche.</l>
+          <l/>
+          <l>Maintenant il blêmit dans le soir taciturne ;</l>
+          <l>Il est livide, lis exsangue !… il s’offre comme</l>
+          <l>Un calice d’amertumes, une triste urne</l>
+          <l>À toutes les cendres du jour qui se consomme.</l>
+          <l/>
+          <l>Or à présent qu’il est malade et s’étiole</l>
+          <l>Et que l’obscurité de plus en plus l’évince,</l>
+          <l>Je sens qu’un peu de moi vivait dans sa corolle</l>
+          <l>Et qu’il était ce qu’il fallait que je devinsse,</l>
+          <l>Lis en qui je voyais mon âme devenue</l>
+          <l>Une fleur, et recommençant d’être ingénue.</l>
+          <l/>
+          <l>Et c’est pourquoi mon âme avec lui s’anémie ;</l>
+          <l>Moi-même je me fane en sa corolle soufre ;</l>
+          <l>Lis – bénitier de mes larmes ! – en qui je souffre !</l>
+          <l/>
+          <l>Pauvre fleur ! Elle empire, elle entre en agonie</l>
+          <l>Et se crispe, on dirait d’une douleur charnelle,</l>
+          <l>À cause de ce vaste afflux de crépuscule</l>
+          <l>– Ah ! tout ce qui, de moi, mourra bientôt en elle !</l>
+          <l>La fleur penche ; de plus en plus elle s’annule ;</l>
+          <l>C’est comme une hostie en fleur qui se désagrège…</l>
+          <l>Mais faut-il s’affliger ainsi que le lis meure,</l>
+          <l>Lui si discret que quand il meurt dans la demeure</l>
+          <l>C’est à peine si le silence s’en allège.</l>
+        </div>
+        <div>
+          <head>VIII.</head>
+          <l/>
+          <l>Charme étrange des teints où la chlorose neige !</l>
+          <l>Visages vraiment trop pâles pour être heureux,</l>
+          <l>Qui font un peu rêver à des lis dans un piège,</l>
+          <l>Tout blêmes, sauf leurs yeux spacieux et fiévreux</l>
+          <l>Brûlant de l’air dont s’inaugure une bougie.</l>
+          <l>Ô vierges ! Leur croissance est un triomphe ardu ;</l>
+          <l>Elles parlent ; et c’est, il semble, une élégie,</l>
+          <l>Un frileux bêlement d’agneau qu’on a tondu ;</l>
+          <l>Car leur voix est de la couleur de leur figure.</l>
+          <l>Quelque chose de doux pourtant les transfigure ;</l>
+          <l>Pâles comme la lune, elles ont son halo !</l>
+          <l>Parfois, quand elles vont se voir dans une glace,</l>
+          <l>C’est comme, tout à coup, si c’était dans de l’eau,</l>
+          <l>Tant leur teint est trop frêle et fond à la surface.</l>
+          <l/>
+          <l>Douce crise de chair et d’âme ! Éveil d’avril !</l>
+          <l>Heure où le buste s’orne, où la bouche est émue ;</l>
+          <l>Changer ! Et même la chevelure qui mue !</l>
+          <l>Et les seins nouveau-nés sur le corps puéril !</l>
+          <l>Moment si langoureux des surprises nubiles !</l>
+          <l>Pourtant l’eau reste indemne, elle ne souffre pas</l>
+          <l>Quand germe un nénuphar sur ses bords immobiles…</l>
+          <l/>
+          <l>Ah ! ces teints de chlorose au seuil des célibats !</l>
+        </div>
+        <div>
+          <head>IX.</head>
+          <l/>
+          <l>Le malade pensif est si loin de la vie</l>
+          <l>Et pour ses yeux la vie autrement signifie ;</l>
+          <l>Comme tout s’est fané soudain, et quel recul !</l>
+          <l>Il voit dans leur aspect d’éternité les choses.</l>
+          <l>Était-ce bien la peine alors d’aimer les roses ?</l>
+          <l>Et comme tout, vraiment presque tout, semble nul !</l>
+          <l/>
+          <l>Il est si loin, si par delà le paysage ;</l>
+          <l>Si haut, comme monté sur un clocher sans âge,</l>
+          <l>Comme enfin parvenu parmi de vierges monts.</l>
+          <l>Ah ! qu’il prend en pitié tout ce que nous nommons</l>
+          <l>Nos passions, nos buts, nos devoirs, nos mobiles ;</l>
+          <l>Que les arbres, en bas, lui paraissent débiles !</l>
+          <l/>
+          <l>L’amour ? Frivole jeu ! Vain espoir d’être aimé !</l>
+          <l>Vouloir toujours dans son âme le temps de mai !</l>
+          <l>Comme on s’acharne après cette folle chimère</l>
+          <l>De se sentir, avec un autre, congénère,</l>
+          <l>De ne plus être seul, ni deux, mais un enfin…</l>
+          <l>Rêve illusoire ! On est deux miroirs face à face</l>
+          <l>Se renvoyant quelques reflets à leur surface…</l>
+          <l>Ah ! s’être, fût-ce un jour, réalisé divin !</l>
+          <l>Avoir enclos l’éternité dans des minutes !</l>
+          <l>Mais c’était se vouer à d’impossibles luttes,</l>
+          <l>Car on ne peut pas faire avec deux corps un cœur,</l>
+          <l>On n’entre pas de force ainsi dans le bonheur !</l>
+          <l>Vanité que tous ces essais de bucolique,</l>
+          <l>Ces fièvres, ces baisers, ces brèves pâmoisons,</l>
+          <l>D’où l’on sort vide et vraiment trop mélancolique.</l>
+          <l/>
+          <l>Quant aux quotidiens conquérants de toisons,</l>
+          <l>Futile aussi, leur appétit de renommée.</l>
+          <l>(La gloire ? écrire un peu son nom dans la fumée !)</l>
+          <l>Ah ! combien vains tous ces ambitieux cabrés</l>
+          <l>Pour être les chevaux vainqueurs dans la revue.</l>
+          <l>Est-ce la peine aussi ? Vaut-il qu’on s’évertue</l>
+          <l>Vers des arcs de triomphe aussitôt délabrés ?</l>
+          <l/>
+          <l>L’orgueil, l’amour, autant d’inutiles trophées</l>
+          <l>Dont se faire un moment des tombes attifées.</l>
+        </div>
+        <div>
+          <head>X.</head>
+          <l/>
+          <l>La maladie atteint aussi les pauvres villes…</l>
+          <l/>
+          <l>Telles vont dépérir d’un mal confus et doux ;</l>
+          <l>À peine elles naissaient ; mais leurs cloches débiles</l>
+          <l>Sont comme les accès d’une petite toux…</l>
+          <l/>
+          <l>D’autres souffrent, sans se plaindre, d’avoir sans trêve</l>
+          <l>L’ombre d’un vieux beffroi, sur elles, qui les grève.</l>
+          <l/>
+          <l>D’autres sont simplement des vieilles déclinant,</l>
+          <l>Celles d’un temps fini, celles qui sont âgées,</l>
+          <l>Et dont les eaux, parmi leur silence stagnant,</l>
+          <l>Gardent tant de reflets qui les ont imagées.</l>
+          <l/>
+          <l>Il en est que naguère abandonna la mer</l>
+          <l>Comme un grand amour qui tout à coup se retire ;</l>
+          <l>Et, depuis ce moment, ces villes ont un air</l>
+          <l>De se survivre, en appelant quelque navire.</l>
+          <l/>
+          <l>Dans telles, c’est comme une odeur de vermoulu ;</l>
+          <l>Dans telles, c’est toujours comme s’il avait plu.</l>
+          <l/>
+          <l>Il en est de plus infirmes que des aïeules,</l>
+          <l>Dont les murs ont des blancs de linges démodés</l>
+          <l>Et des noirs de robes de veuves vivant seules.</l>
+          <l/>
+          <l>Celles aux murs perclus, aux pignons lézardés</l>
+          <l>Ont sur elles comme des rides de vieillesse.</l>
+          <l/>
+          <l>Celles, jeunes encor, dont la croissance cesse,</l>
+          <l>Celles aux terrains nus où l’on ne bâtit pas,</l>
+          <l>Souffrent du mal secret de devenir pubères ;</l>
+          <l>C’est leur sang qui palpite au pouls des réverbères ;</l>
+          <l>Et dans la tour qui ment à l’espoir du compas,</l>
+          <l>Dans l’église qui reste inachevée et vaine,</l>
+          <l>C’est leur propre existence aussi qui s’interrompt.</l>
+          <l/>
+          <l>Telle ville dolente est toujours en neuvaine,</l>
+          <l>Lieu de pèlerinage où l’on signe son front.</l>
+          <l>L’une décline et meurt d’une lente anémie ;</l>
+          <l>L’autre est pâle à jamais de quelque épidémie.</l>
+          <l/>
+          <l>Une autre est comme une paralytique, sans</l>
+          <l>La souplesse et la joie en elle des passants.</l>
+          <l/>
+          <l>Telles, leur maladie est d’être en proie aux pioches,</l>
+          <l>Les amputant de leurs vieux pignons, mutilant</l>
+          <l>Leurs briques dont le rouge est tout sanguinolent ;</l>
+          <l>Telles, leur maladie est d’être en proie aux cloches,</l>
+          <l>Et, dans leur calme et leur silence monacal,</l>
+          <l>Le cadran du clocher a l’air d’une tonsure.</l>
+          <l/>
+          <l>Il en est qu’affaiblit un jet d’eau vertical</l>
+          <l>Et qui souffrent de lui comme d’une blessure…</l>
+        </div>
+        <div>
+          <head>XI.</head>
+          <l/>
+          <l>Les mystérieux nerfs sont des plaintes ourdies,</l>
+          <l>Un dédale de fils, des méandres d’orties</l>
+          <l>Par qui toute douleur se propage au cerveau.</l>
+          <l>Quels nœuds ont étiré l’invisible écheveau ?</l>
+          <l>La pauvre chair sans force est une eau sensitive</l>
+          <l>Qu’accapare un filet frêle qu’on ne voit pas,</l>
+          <l>Mais dont le remuement fait se crisper l’eau vive.</l>
+          <l>Les nerfs : soudaineté de crise et branle-bas !</l>
+          <l>Ou lente manigance, hostilité sournoise,</l>
+          <l>Par exemple de quelque araignée en un coin,</l>
+          <l>Une chose qui très vaguement cherche noise,</l>
+          <l>Puis s’enhardit en nous, s’aventure plus loin,</l>
+          <l>Fait mal, se fâche, mord, glisse, s’accroît, pullule</l>
+          <l>Et court en nous comme dans l’herbe les fourmis</l>
+          <l>Ou va comme un poison volatil et qui brûle.</l>
+          <l>Supplices compliqués que les nerfs ont transmis !</l>
+          <l>Ah ! les nerfs, dont chacun nous fait mal comme une arme !</l>
+          <l>Chacun d’eux est une corde sous un archet</l>
+          <l>Qui souffre comme si quelqu’un nous l’arrachait ;</l>
+          <l>Chacun d’eux est un fil où s’enfile une larme !</l>
+        </div>
+        <div>
+          <head>XII.</head>
+          <l/>
+          <l>L’eau des anciens canaux est débile et malade,</l>
+          <l>Si morne, parmi les villes mortes, aux quais</l>
+          <l>Parés d’arbres et de pignons en enfilade</l>
+          <l>Qui sont, dans cette eau pauvre, à peine décalqués ;</l>
+          <l>Eau vieillie et sans force ; eau malingre et déprise</l>
+          <l>De tout élan pour se raidir contre la brise</l>
+          <l>Qui lui creuse trop de rides… Oh ! la triste eau</l>
+          <l>Qui va pleurer sous les ponts noirs et qui s’afflige</l>
+          <l>Des reflets qu’elle doit porter, eau vraiment lige,</l>
+          <l>Et qui lui sont comme un immobile fardeau.</l>
+          <l>Mais, trop âgée, à la surface qui se moire,</l>
+          <l>Elle perd ses reflets, comme on perd la mémoire,</l>
+          <l>Et les délaie en de confus mirages gris.</l>
+          <l>Eau si dolente, au point qu’elle en semble mortelle,</l>
+          <l>Pourquoi si nue et si déjà nulle ? Et qu’a-t-elle,</l>
+          <l>Toute à sa somnolence, à ses songes aigris,</l>
+          <l>Pour n’être ainsi plus qu’un traître miroir de givre</l>
+          <l>Où la lune elle-même a de la peine à vivre ?</l>
+        </div>
+        <div>
+          <head>XIII.</head>
+          <l/>
+          <l>Le malade, quand vient la tristesse nocturne,</l>
+          <l>Est sensible comme une cendre dans une urne.</l>
+          <l/>
+          <l>Il écoute, et perçoit dans l’air le moindre bruit :</l>
+          <l>Frisson d’arbre, pas d’un passant, plainte de cloche ;</l>
+          <l>Vigie exacte de tout bruit, il se raccroche</l>
+          <l>À ces vagues rumeurs dont s’image la nuit</l>
+          <l>Et par qui le silence apparaît plus immense ;</l>
+          <l>Ce sont les bruits qui font la preuve du silence,</l>
+          <l>Tandis que les reflets font la preuve de l’eau.</l>
+          <l>Puis il regarde, et voit des lueurs inconnues :</l>
+          <l>Lumières qu’on dirait la fuite d’un flambeau ;</l>
+          <l>Rayon brusque par qui les glaces semblent nues ;</l>
+          <l>Étincelles qui s’en viennent on ne sait d’où ;</l>
+          <l>Or sorti d’un bouquet, projeté d’un bijou ;</l>
+          <l>Phosphorescence de l’ombre ; clarté qui rôde ;</l>
+          <l>Feux follets brefs ; scintillement intermittent…</l>
+          <l>Le malade les suit et son émoi s’en brode.</l>
+          <l/>
+          <l>Mais ces frêles clartés ne durent qu’un instant,</l>
+          <l>Gouttelettes de couleur qui sont vite bues,</l>
+          <l>Car c’est d’elles que les ténèbres sont embues ;</l>
+          <l>Le malade pourtant de ses yeux les atteint</l>
+          <l>– Papillons épinglés à travers la nuit noire –</l>
+          <l>Et fixe ces lueurs au vol trop vite éteint</l>
+          <l>Sous le verre silencieux de sa mémoire.</l>
+          <l/>
+          <l>Maintenant, c’est l’émoi plus subtil des odeurs !</l>
+          <l>Soudain la chambre close est toute viciée</l>
+          <l>Par on ne sait quels aromes lourds et rôdeurs ;</l>
+          <l>Puis flotte une senteur qui semble émaciée</l>
+          <l>Et si faible qu’elle est sur le point de mourir ;</l>
+          <l>Le malade sent tout : qu’un parfum se cramponne ;</l>
+          <l>Que d’autres sont épars dont la présence est bonne :</l>
+          <l>Calmes fruits pour la soif achevant de mûrir,</l>
+          <l>Bouquet fleurant à peine et qui se neutralise,</l>
+          <l>Survivance dans le linge d’un vieux sachet</l>
+          <l>Qui, depuis des matins d’autrefois, s’y cachait,</l>
+          <l>Tel un encens d’anciens saluts dans une église.</l>
+          <l>Puis il perçoit aussi des aromes brutaux</l>
+          <l>Comme un attouchement d’instruments d’hôpitaux ;</l>
+          <l>Des relents volatils d’éther et de morphine</l>
+          <l>Sortis de la fiole où dort leur senteur fine</l>
+          <l>Qui procure un sommeil frais comme dans un bois ;</l>
+          <l>Puis des parfums aigris de potions, de ouates,</l>
+          <l>Des odeurs en sourdine et qui se tenaient coites,</l>
+          <l>Des poisons condensés, tout à coup aux abois,</l>
+          <l>Qu’on jugeait prisonniers dans les pastilles closes</l>
+          <l>Mais qui s’évadent, tel l’hiver hors des flocons,</l>
+          <l>Et tournent en vertige, exaspérant leurs doses,</l>
+          <l>Ô câlins, ô rusés, ô furieux poisons,</l>
+          <l>Qui font soudain que le malade qui s’étonne</l>
+          <l>Croit, dans l’air fermenté de la chambre, qu’il tonne</l>
+          <l>Et s’être assis dans un jardin trop vénéneux.</l>
+          <l/>
+          <l>Ah ! cet affinement des soirs de maladie,</l>
+          <l>Quand tout crispe les nerfs, se répercute en eux !</l>
+          <l>Araignée aux aguets dans une toile ourdie ;</l>
+          <l>Sens aiguisés jusqu’à l’infinitésimal.</l>
+          <l>Qui les disait bornés ? Chacun est une embûche</l>
+          <l>Qui capture tout bruit, où toute odeur trébuche,</l>
+          <l>Si bien que le cerveau s’en paraît anormal,</l>
+          <l>– Ruche désordonnée où, dans l’or des cellules,</l>
+          <l>Avec l’essaim de ses abeilles qu’elle attend,</l>
+          <l>Entreraient, comme des intrus, au même instant</l>
+          <l>De minimes fourmis, de folles libellules.</l>
+        </div>
+        <div>
+          <head>XIV.</head>
+          <l/>
+          <l>Comme tout est changé de par la maladie</l>
+          <l>Dans la maison qui prend un air religieux ;</l>
+          <l>Elle semble plus vide, elle semble agrandie,</l>
+          <l>Il s’y répand un silence contagieux</l>
+          <l>Dont le plus léger bruit blesse la neige vierge.</l>
+          <l>Vie en songe ! voici que s’embrument les pas,</l>
+          <l>Et les voix mêmement s’embrument, parlent bas ;</l>
+          <l>Le malade est l’hostie où tout l’encens converge.</l>
+          <l/>
+          <l>Quel mystère est latent ? Quel rite s’accomplit</l>
+          <l>Pour qu’un respect d’autel environne le lit ?</l>
+          <l>Tout subit par degrés la mystique influence :</l>
+          <l>Comme par un vitrail, le jour se dénuance ;</l>
+          <l>Un étranger, il semble (est-ce l’ange gardien</l>
+          <l>Soudain visible ?), habite à présent la demeure,</l>
+          <l>Comme pour prémunir du danger qu’on y meure,</l>
+          <l>Et la maison craintive a pris un air chrétien.</l>
+          <l/>
+          <l>Or on s’améliore, on s’épure soi-même</l>
+          <l>Par la sorte d’ennoblissement propagé ;</l>
+          <l>On se sent devenir autre, le cœur changé ;</l>
+          <l>Il flotte en la demeure un parfum de saint chrême ;</l>
+          <l>Déjà les passions, à leur tour, parlent bas ;</l>
+          <l>Même le juste amour interrompt ses ébats ;</l>
+          <l>On se semble, à présent, vivre dans une église.</l>
+          <l/>
+          <l>Le malade apparaît grave et sacerdotal,</l>
+          <l>L’air d’avoir avec Dieu quelque entretien mental.</l>
+          <l/>
+          <l>Car le Silence enfin en lui se réalise !</l>
+          <l>Il est celui qui fait taire les bruits humains</l>
+          <l>Et les transsubstantie en imposant les mains ;</l>
+          <l>Il est l’essence et la substance du Silence ;</l>
+          <l>Il en est la Victime et le Prêtre à la fois ;</l>
+          <l>C’est un Saint Sacrifice aussi que la souffrance…</l>
+          <l>La maison entend Dieu qui descend à sa voix !</l>
+        </div>
+        <div>
+          <head>XV.</head>
+          <l/>
+          <l>La vieille ville en proie à l’hiver était seule,</l>
+          <l>Vieille ville taciturne comme une aïeule ;</l>
+          <l>Il semblait que la vieille ville s’engourdît !</l>
+          <l>Elle avait un aspect déjà presque posthume,</l>
+          <l>Moins morose de la gelée et de la brume</l>
+          <l>Que de son trop inexplicable discrédit.</l>
+          <l>Donc elle avait fini de vivre dans l’attente.</l>
+          <l>Parfois un carillon, musique intermittente,</l>
+          <l>Présence qui s’accroît dans l’air et qui décroît,</l>
+          <l>Mettait dans sa tristesse une brève accalmie.</l>
+          <l>Peut-être que la ville aurait péri de froid</l>
+          <l>Si, lasse, elle s’était tout à fait endormie ;</l>
+          <l>Mais la cloche venait veiller, la réveiller,</l>
+          <l>Comme pour la changer sur un pâle oreiller,</l>
+          <l>Et s’obstinait, parmi la neige en avalanche,</l>
+          <l>À ranimer le visage de son sommeil</l>
+          <l>Comme du frôlement d’une cornette blanche ;</l>
+          <l>Cloche, Sœur gardienne, ô Sœur de bon conseil,</l>
+          <l>Transportant la malade à des saisons meilleures</l>
+          <l>Et lui versant ses sons dosés, tous les quarts d’heures<note place="bottom">Sic</note>.</l>
+        </div>
+        <div>
+          <head>XVI.</head>
+          <l/>
+          <l>Comme te voilà loin de celui que tu fus</l>
+          <l>Ô malade, déjà si lointain, si confus,</l>
+          <l>Méconnaissable, et si différent de toi-même !</l>
+          <l>La lune ainsi se voit reculée et plus blême</l>
+          <l>Toute changée et délayée en son halo</l>
+          <l>Quand elle se confronte avec elle dans l’eau.</l>
+          <l/>
+          <l>De même, étant malade, on se ressemble à peine ;</l>
+          <l>On n’a plus son visage, ah ! comme on est changé !</l>
+          <l>On est le mouton nu qui pleure après sa laine ;</l>
+          <l>On se trouve soudain plus sage et plus âgé ;</l>
+          <l>On se cherche, on se perd, en molle souvenance ;</l>
+          <l>Soi-même on se revoit tel qu’après une absence ;</l>
+          <l>On se reconnaît mal comme à se voir dans l’eau ;</l>
+          <l>On est si différent qu’on se semble nouveau,</l>
+          <l>Avec même une autre âme, avec d’autres idées,</l>
+          <l>– Des lis simples ont remplacé les orchidées ! –</l>
+          <l>Et de celui qu’on fut on se souvient si peu,</l>
+          <l>Moins que le soir ne se souvient du matin bleu !</l>
+          <l/>
+          <l>Le malade ainsi songe et, dans sa vie, il erre.</l>
+          <l>Sa vie ! Elle lui semble à lui-même étrangère,</l>
+          <l>Elle s’efface et se résume à du brouillard ;</l>
+          <l>Ce qu’il s’en remémore, en tant de crépuscule,</l>
+          <l>Est advenu naguère à quelqu’un, quelque part ;</l>
+          <l>Peut-être est-ce à lui-même et qu’il fut somnambule ?</l>
+          <l>Peut-être qu’il se trompe et que c’est arrivé</l>
+          <l>À un qui lui ressemble et dans une autre vie ?</l>
+          <l>Passé qu’il a vécu, mais qui semble rêvé.</l>
+          <l>N’était-il pas un autre avant la maladie ?</l>
+          <l>Or ce pâle Autrefois si peu se prolongea,</l>
+          <l>Maison de l’horizon indistincte déjà</l>
+          <l>Qu’indique seule une fumée irrésolue…</l>
+          <l>Tout est si transitoire et si vite accompli !</l>
+          <l>Sa vie antérieure est presque dans l’oubli ;</l>
+          <l>Il la sent vague en lui comme une histoire lue ;</l>
+          <l>Et, morne, il a l’impression jusqu’à l’aigu</l>
+          <l>D’avoir à peine été, d’avoir si peu vécu !</l>
+        </div>
+        <div>
+          <head>XVII.</head>
+          <l/>
+          <l>Combien longues pour le malade les journées ;</l>
+          <l>Combien longues surtout pour lui les lentes nuits !</l>
+          <l>Sans répit, toutes les minutes égrenées</l>
+          <l>Au cadran de l’horloge où tournent ses ennuis !</l>
+          <l>Que l’horloge, à la fin, un moment s’interrompe !</l>
+          <l>Toujours le Temps qui s’émiette, impartial :</l>
+          <l>Bruit de rouage ou de sable, bruit labial ;</l>
+          <l>Que le silence enfin, avec sa bonne estompe,</l>
+          <l>Uniformise un peu cette bouche au fusain…</l>
+          <l>Le cadran, n’est-ce pas le visage de l’Heure ?</l>
+          <l>Mais où, dans ce visage, est la bouche qui pleure,</l>
+          <l>Bouche de l’Heure, au bruit cruel et trop voisin,</l>
+          <l>Qui sans cesse importune avec sa voix vieillotte ?</l>
+          <l>– Ah ! que l’Heure s’arrête et trêve au balancier ! –</l>
+          <l>Bouche d’ombre qu’on ne voit pas et qui grignote</l>
+          <l>Notre vie en suspens, avec ses dents d’acier.</l>
+        </div>
+        <div>
+          <head>XVIII.</head>
+          <l/>
+          <l>Convalescence : ô la fraîcheur brusque et câline</l>
+          <l>Quand la fièvre dont on brûlait s’éteint soudain ;</l>
+          <l>Douceur sur soi d’un pansement de mousseline,</l>
+          <l>Fraîcheur sur soi du vent, de la mer, de l’étain.</l>
+          <l>On se sent comme dans une longue avenue</l>
+          <l>Dont le feuillage, blanc de lune, qui remue</l>
+          <l>Vous évente de son ombre si calmement</l>
+          <l>Et refroidit en vous les charbons de la fièvre.</l>
+          <l>Ah ! ce bonheur confus du recommencement !</l>
+          <l>Cette humide fraîcheur née au seuil de la lèvre,</l>
+          <l>Comme d’avoir baisé l’or de quelque bijou !</l>
+          <l>D’où viennent tout à coup ces impressions fraîches</l>
+          <l>Qui se fondent et qui se propagent jusqu’où ?</l>
+          <l>Est-ce du lustre ? Est-ce du verre des bobèches</l>
+          <l>Dont on sent, dans sa bouche en feu, le givre entré ?</l>
+          <l>Est-ce de la cornette au beau linge lustré</l>
+          <l>Dont la Sœur qui nous veille a fait palpiter l’aile ?</l>
+          <l>Ou bien est-ce le vent ? Ou bien encor pleut-il</l>
+          <l>Et c’est-il de la pluie en écheveau subtil</l>
+          <l>Qui soudain au rouet de notre âme s’emmêle ?</l>
+          <l/>
+          <l>Convalescence ! Doux mélange : pluie et soir,</l>
+          <l>Linges, cristal, et vendanges de raisin noir !</l>
+          <l>Tout ce qui rafraîchit, tout ce qui désaltère ;</l>
+          <l>Convalescence si printanière… Elle aère</l>
+          <l>Comme une brise ; elle refroidit comme une eau ;</l>
+          <l>On dirait qu’elle se répand parmi les chambres</l>
+          <l>Et sur le lit, si frais qu’il en semble nouveau ;</l>
+          <l>On s’y déplie ; on y dorlote tous ses membres ;</l>
+          <l>C’est fini maintenant, la fièvre et ses charbons !</l>
+          <l>Les draps sont ventilés ; ils ont des frimas bons ;</l>
+          <l>Unanime fraîcheur de toute cette toile ;</l>
+          <l>Si fraîche que c’est comme un bain dans une étoile !</l>
+          <l>Délice de revivre et d’avoir prévalu ;</l>
+          <l>Instant bénin qui semble, après la canicule</l>
+          <l>Et des marches dans un chemin qui se recule,</l>
+          <l>L’accueil d’une prairie où longtemps il a plu.</l>
+          <l/>
+        </div>
+        <div>
+          <head>XIX.</head>
+          <l/>
+          <l>Émoi de peu à peu recommencer à vivre !</l>
+          <l>De rentrer dans la vie où déjà l’on se sent</l>
+          <l>Presque étranger, comme à son retour un absent ;</l>
+          <l>Incertitude ! Pas désappris ! On est ivre !</l>
+          <l/>
+          <l>Ah ! ce soleil trop clair et cette lumière neuve !<note place="bottom">Alexandrin de 13 pieds : probable coquille de l’éditeur. Le vers original doit être : « Ah ! ce soleil trop clair, cette lumière neuve ! »</note></l>
+          <l>Tout tourne : soleil, fleurs et les arbres un peu,</l>
+          <l>Oscillant dans le vent – tels les mâts sur un fleuve –</l>
+          <l>Et l’on regarde entre leurs feuilles le ciel bleu.</l>
+          <l/>
+          <l>On est l’oiseau qui s’aventure après la pluie ;</l>
+          <l>On est le verger blanc dans le réveil d’avril ;</l>
+          <l>Pourtant on craint la grêle, un retour du péril :</l>
+          <l>La maladie est-elle loin et bien enfuie ?</l>
+          <l/>
+          <l>Comme on en tremble encore ! Et quels pas calculés</l>
+          <l>Par crainte d’être faible et de quelque rechute !</l>
+          <l>Pouvoir marcher jusqu’à ces arbres reculés !</l>
+          <l>Espoir et peur, ombre et soleil sur la minute…</l>
+          <l/>
+          <l>Heure trouble ! Émoi d’un logis longtemps fermé</l>
+          <l>Où chavire dans le miroir l’aube venue ;</l>
+          <l>On se sent seul, épars et désaccoutumé</l>
+          <l>De la vie, au lointain, qui toujours continue.</l>
+          <l/>
+          <l>On est le pénitent sorti d’une neuvaine</l>
+          <l>Et dépris de la vie à cause de l’encens ;</l>
+          <l>Ah ! que la vie est loin ! Ah ! que la vie est vaine !</l>
+          <l>Où vont-ils donc, tous ces passants, tous ces passants ?</l>
+          <l/>
+          <l>Ils se hâtent ; mais leur affairement étonne ;</l>
+          <l>Ils s’égaient ; mais leur joie est étrange et fait mal ;</l>
+          <l>Soi-même, au milieu d’eux, on se sent anormal ;</l>
+          <l>Et la vie où l’on rentre a l’air si monotone.</l>
+          <l/>
+          <l>Hier on vivait encor comme derrière un verre,</l>
+          <l>Convalescence ! Mais maintenant on a l’air</l>
+          <l>Du matelot morose et qui s’ennuie à terre</l>
+          <l>D’être sorti de l’aventure de la mer.</l>
+          <l/>
+          <l>On semble avoir aussi navigué des années</l>
+          <l>– La maladie étant un voyage chez Dieu –</l>
+          <l>Et revenir vieilli dans des villes fanées,</l>
+          <l>Triste, ne sachant plus que des gestes d’adieu !</l>
+        </div>
+      </div>
+      <div>
+        <head>Le voyage dans les yeux</head>
+        <l/>
+        <div>
+          <head>I.</head>
+          <l/>
+          <l>Tels yeux sont des pays de glace, un climat nu</l>
+          <l>Où l’on chemine sans chemins dans l’inconnu ;</l>
+          <l>D’autres, des soirs de province pleins de fumées</l>
+          <l>Où passent des oiseaux aux ailes déplumées</l>
+          <l>Qui leur font ces plaintifs regards intermittents ;</l>
+          <l>D’autres vides, mais sous l’influence du temps,</l>
+          <l>Où la mer de leur âme à flots muets déferle,</l>
+          <l>Sont rafraîchis, profonds, mobiles comme une eau,</l>
+          <l>Flux et reflux du lent regard roulant sa perle !</l>
+          <l/>
+          <l>Or tout s’y mire en un reflet double et jumeau :</l>
+          <l>Ceux-ci gardent le rose ancien d’un couchant rose</l>
+          <l>Qui leur fut un moment d’amour essentiel</l>
+          <l>Et s’effeuilla dans eux comme une vaste rose ;</l>
+          <l>Ceux-là sont bleus d’avoir tant regardé le ciel,</l>
+          <l>Et, si ceux-ci sont bleus, c’est d’encens qui subsiste.</l>
+          <l>Puis en d’autres – recels compliqués – il y a</l>
+          <l>De vieux bijoux, de grands arbres, un clocher triste,</l>
+          <l>Des visages que trop d’absence délaya,</l>
+          <l>Des linges démodés d’enfant morte, des cloches,</l>
+          <l>Et des anges dont on devine les approches</l>
+          <l>À voir, au fil des yeux qui s’en sont tout remplis,</l>
+          <l>Leur robe comme un orgue aux longs tuyaux de plis.</l>
+          <l/>
+          <l>Ah ! les yeux ! tous les yeux ! tant de reflets posthumes !</l>
+          <l>Reliquaires du sang de tous les soirs tombants ;</l>
+          <l>Chaires où toute noce a promulgué ses bans ;</l>
+          <l>Sites où chaque automne a légué de ses brumes.</l>
+          <l>Yeux ! carrefours de tous les buts s’y résumant ;</l>
+          <l>Fenêtres d’infini ; calme aboutissement ;</l>
+          <l>Car tout converge à ces vitres de chair nacrée,</l>
+          <l>Miroirs vivants en qui l’Univers se recrée.</l>
+        </div>
+        <div>
+          <head>II.</head>
+          <l/>
+          <l>Pourquoi les yeux, étant limpides, mentent-ils ?</l>
+          <l>Comment la vérité, dans leur indifférence,</l>
+          <l>Meurt-elle en diluant ses frissons volatils ?</l>
+          <l>Nul n’en a vu le fond malgré leur transparence</l>
+          <l>Et ce n’est que cristal fluide, à l’infini,</l>
+          <l>Qui toujours se tient coi, l’air sincère et candide.</l>
+          <l>Aucune passion, aucun crime ne ride</l>
+          <l>Ce pouvoir dangereux d’être un étang uni.</l>
+          <l>Ah ! savoir !… s’y peut-on fier, sources de joie,</l>
+          <l>Quand ils ont l’air d’un peu promettre de l’amour,</l>
+          <l>Ou ne sont-ils qu’un clair mirage où l’on se noie ?</l>
+          <l>Ah ! savoir !… démêler l’ombre d’avec le jour,</l>
+          <l>Et connaître à la fin ce qu’ils peuvent enclore</l>
+          <l>Derrière leur surface et derrière leur flore,</l>
+          <l>Sous leurs nénuphars blancs – frileuse puberté –</l>
+          <l>Plus loin, dans le recul de leur ambiguïté.</l>
+          <l>En vain veut-on trier le réel du mensonge ;</l>
+          <l>Les yeux, nus comme l’eau, resteront clairs aussi,</l>
+          <l>Bien que l’âme souvent où, pour savoir, on plonge</l>
+          <l>Soit une vase au fond de leur azur transi ;</l>
+          <l>Mystère de cette eau des yeux toujours placide</l>
+          <l>En qui l’âme dépose et si peu s’élucide.</l>
+          <l/>
+        </div>
+        <div>
+          <head>III.</head>
+          <l/>
+          <l>Dans les yeux, rien de leur histoire ne s’efface ;</l>
+          <l>Rien n’est soluble ; tout s’avère à leur surface…</l>
+          <l/>
+          <l>Ainsi tels yeux ont l’air pauvres dorénavant</l>
+          <l>Pour avoir médité d’entrer en un couvent ;</l>
+          <l>Tels sont en fleur pour avoir vu des orchidées ;</l>
+          <l>D’autres sont nus de tant de fautes regardées ;</l>
+          <l>On y perçoit des courtisanes se baignant</l>
+          <l>Et par leurs fards perdus l’eau des yeux est nacrée ;</l>
+          <l>D’autres, pour être nés près d’un canal stagnant,</l>
+          <l>Portent un vaisseau noir qu’aucun marin ne grée</l>
+          <l>Et qui semble, dans eux, captif en des glaçons…</l>
+          <l>Prolongement sans fin. Survie ! Aubes lointaines !</l>
+          <l>Ciel qui met dans les puits de bleus caparaçons !</l>
+          <l>Nuages habitant les prunelles humaines !</l>
+          <l/>
+          <l>Tout le passé qui s’y garde, remémoré !</l>
+          <l>Tout ce qui s’y trahit qu’on croyait ignoré :</l>
+          <l>Les vœux qu’on viola ; les seins que nous fleurîmes ;</l>
+          <l>Et le regard qu’on eut en pensant à des crimes ;</l>
+          <l>Et le regard qu’on eut, pris d’un dessein vénal,</l>
+          <l>Fût-ce un instant, jadis, devant des pierreries</l>
+          <l>– Trésor qu’on troquerait contre ses chairs fleuries –</l>
+          <l>Et qui fait à jamais, de l’œil, l’écrin du Mal.</l>
+          <l/>
+          <l>Car tout s’y fige, y dure ; et tout s’y perpétue :</l>
+          <l>Désirs, mouvements d’âme, instantané décor,</l>
+          <l>Tout ce qui fut, rien qu’un moment, y flotte encor ;</l>
+          <l>Dans l’air des yeux aussi survit la cloche tue,</l>
+          <l>Et l’on voit, dans des yeux qui se croient gais et beaux,</l>
+          <l>D’anciens amours mirés comme de grands tombeaux !</l>
+        </div>
+        <div>
+          <head>IV.</head>
+          <l/>
+          <l>Quelques femmes, dans leurs prunelles sensitives,</l>
+          <l>Ont des ombres et des lueurs alternatives ;</l>
+          <l>Il y fait noir ou clair à leur guise ; on dirait</l>
+          <l>Derrière la cloison transparente des tempes</l>
+          <l>Qu’on baisse tour à tour et qu’on monte des lampes.</l>
+          <l>Au fil des yeux dormants quelle est cette forêt</l>
+          <l>Dont les arbres, qu’on ne voit pas, mirent leurs palmes</l>
+          <l>Et leurs cimes, une minute, en frissons calmes ?</l>
+          <l>Dentelle obscure dont ils sont passementés,</l>
+          <l>Franges, ombre qui vient de quelque rive adverse,</l>
+          <l>Ô regards par cette ombre éphémère éventés !</l>
+          <l>Une autre fois, quel ciel intime s’y renverse</l>
+          <l>Dont les soucis, que nul ne connaît, font pourtant</l>
+          <l>Une tache de grands nuages pleins de pluie ?</l>
+          <l>Nuit et soleil, en un dosage intermittent !</l>
+          <l>Puis assombrissement total, lumière enfuie…</l>
+          <l>Tout s’y brouille, rien ne survit à leur niveau</l>
+          <l>Comme quand un grand vent a couru sur une eau !</l>
+          <l/>
+        </div>
+        <div>
+          <head>V.</head>
+          <l/>
+          <l>L’œil est un glauque aquarium d’eau somnolente :</l>
+          <l>Tranquillité, repos apparent, calmes plis</l>
+          <l>Comme ceux qui s’éternisent dans les surplis ;</l>
+          <l>Puis tout à coup un trouble, une ascension lente</l>
+          <l>D’un désir qui vient faire une blessure à l’eau,</l>
+          <l>Moires d’une blessure élargie en halo.</l>
+          <l>Ce désir s’évapore ; un autre lui succède.</l>
+          <l>Chacun des mouvements de l’âme en cette eau tiède</l>
+          <l>Est une ombre sous des vitres qui disparaît ;</l>
+          <l>En fuite comme avec des nageoires, l’ombre erre</l>
+          <l>Et s’argente dans la transparence du verre.</l>
+          <l>Aquarium peuplé de songes en arrêt !</l>
+          <l>Une pensée y nage à peine définie</l>
+          <l>Et retourne dormir dans des varechs couchés</l>
+          <l>Parmi les minéraux du crâne et ses rochers.</l>
+          <l>Une autre pensée ose – et c’est une actinie</l>
+          <l>Ouvrant dans la prunelle un coquillage-fleur,</l>
+          <l>Mais qu’on l’effleure, il se reclôt avec douleur !</l>
+          <l/>
+          <l>Paysage qui change à tout instant : pensées</l>
+          <l>Qui sont des poissons noirs, des perles nuancées,</l>
+          <l>Des monstres froids ou des infiniment petits,</l>
+          <l>Corpuscules dans le fond de l’être blottis ;</l>
+          <l>Embryons de projets, vagues germes de rêves,</l>
+          <l>Émergeant d’on ne sait quel abîme mental,</l>
+          <l>Qui montent jusqu’à l’œil en assomptions brèves</l>
+          <l>Et viennent animer cet écran de cristal.</l>
+          <l/>
+        </div>
+        <div>
+          <head>VI.</head>
+          <l>D’où vient-il dans les yeux cet occulte affluent</l>
+          <l>Des larmes, filet d’eau, ruisselet qui se mêle</l>
+          <l>Au tranquille étang bleu pâle de la prunelle ;</l>
+          <l>Source qui se divulgue en discontinuant,</l>
+          <l>Chapelet s’égrenant, gouttes accumulées…</l>
+          <l>Or les vitres qu’un peu de pluie a granulées</l>
+          <l>Ont un trouble semblable, et tout s’y brouille ainsi !</l>
+          <l>Mais pourquoi, mais sous quelle influence secrète</l>
+          <l>Cette eau des pleurs amers est-elle toujours prête ?</l>
+          <l>Ce n’est pas que pour un malheur, pour un souci !</l>
+          <l>Même pour rien : pour un orgue triste, une fuite</l>
+          <l>De nuages, des lis qui meurent sans emploi,</l>
+          <l>La source qu’on croyait captée au fond de soi</l>
+          <l>Jusqu’au plein air des yeux est de nouveau déduite</l>
+          <l>Et s’égoutte, collier d’âme désenfilé !</l>
+          <l/>
+          <l>Or qui les filtre une à une, ces larmes nues ?</l>
+          <l>Élixir de douleur, né dans quelles cornues ?</l>
+          <l>Et qui cristallisa leur mystère salé</l>
+          <l>En l’émiettement de semblables globules ?…</l>
+          <l>Quels sables sont en nous ? quel puits intérieur</l>
+          <l>D’où montent, en crevant, ces pleurs comme des bulles ?</l>
+          <l>Ou bien le crâne est-il une grotte en moiteur</l>
+          <l>D’où sourdent ces stalactites intermittentes ?</l>
+          <l/>
+          <l>Où donc le réservoir des pleurs, agrégat d’eaux ?</l>
+          <l>Quels circuits jusqu’aux yeux, au long de quelles pentes ?</l>
+          <l>Où donc, sur quels penchants du cœur, sur quels coteaux,</l>
+          <l>Les vignes dont le vin a rempli ces burettes</l>
+          <l>Pour la messe de Joie ou la messe de Deuil ?</l>
+          <l/>
+          <l>Sens divers et confus qu’ont les larmes muettes ;</l>
+          <l>Peut-être sans raison autre que baigner l’œil</l>
+          <l>D’un liquide qui vient de l’âme, et s’y fiance</l>
+          <l>Pour en rendre plus bleue et claire la faïence.</l>
+          <l/>
+        </div>
+        <div>
+          <head>VII.</head>
+          <l/>
+          <l>Les yeux sont des bassins d’eau changeante qui dort,</l>
+          <l>Où, parmi des frissons de moires remuées,</l>
+          <l>Appareille une flotte éparse de nuées,</l>
+          <l>Voiles blanches qui vont vers un horizon d’or ;</l>
+          <l>Mais parfois certains grands nuages couleur d’encre</l>
+          <l>S’immobilisent comme en quarantaine, au fond</l>
+          <l>De tels beaux yeux de qui l’étiage est profond</l>
+          <l>Et qui portent en eux ces nuages à l’ancre.</l>
+          <l/>
+        </div>
+        <div>
+          <head>VIII.</head>
+          <l/>
+          <l>L’agate arborisée est pleine d’une flore</l>
+          <l>Sous-marine ; ainsi l’œil – on dirait des lacis,</l>
+          <l>Une géographie aux fleuves indécis</l>
+          <l>Que le verre, veiné d’ombres, aime d’enclore.</l>
+          <l>Splendeur mate de la pierre opaque sous quoi</l>
+          <l>Tout un spectacle intérieur qui se tient coi :</l>
+          <l>Sang, feuillages, coraux, à travers de la pluie ;</l>
+          <l>Gazes d’insectes morts dont l’aile mal enfuie</l>
+          <l>Dans ce prisme à jamais figea son petit vol ;</l>
+          <l>Reflets momifiés comme dans de l’alcool !</l>
+          <l>Or si telle apparaît l’agate translucide</l>
+          <l>C’est qu’elle est millénaire et garde en ses parois</l>
+          <l>Les vestiges des très antiques désarrois…</l>
+          <l>Ainsi l’œil – plein d’anciens rêves dont il s’oxyde,</l>
+          <l>Plein de passé dont pour toujours il est imbu,</l>
+          <l>Souvenirs conservés dans ses pierres charnelles</l>
+          <l>Que, pareil à l’agate, il agglomère en elles…</l>
+          <l>Ah ! tout ce qui survit sous son cristal embu !</l>
+          <l/>
+        </div>
+        <div>
+          <head>IX.</head>
+          <l/>
+          <l>Quelles clartés, reflets d’étoiles ou de lampes,</l>
+          <l>Allongent dans les yeux de lumineuses rampes ?</l>
+          <l>Est-ce un feu du dehors ? Est-ce un feu du dedans ?</l>
+          <l>D’un âtre intérieur plein de tisons ardents,</l>
+          <l>Ou d’une rue, au loin, pleine de réverbères</l>
+          <l>Qui se mirent dans les yeux sombres chaque soir</l>
+          <l>Et leur sont comme des parures viagères ?</l>
+          <l/>
+          <l>De quoi sont clairs les yeux ? D’où vient, dans l’encensoir,</l>
+          <l>La braise en feu ? D’où vient la lave en ces fioles ?</l>
+          <l>Sont-ils des jardins noirs ouverts aux lucioles ?</l>
+          <l>Sont-ils le champ gelé d’un télescope, écran</l>
+          <l>D’une silencieuse armée en marche d’astres</l>
+          <l>Qui défile parmi le verre en s’y nacrant,</l>
+          <l>Piège où, tout intégral, vaste ciel, tu t’encastres ?</l>
+          <l>Ou bien sont-ils des fenêtres d’orphelinats</l>
+          <l>Se voilant, contre le dehors et toute enquête,</l>
+          <l>De rideaux vaporeux, mousseline en frimas.</l>
+          <l>Mais, parmi cette neige, une flamme empiète,</l>
+          <l>Écho d’un foyer rouge et qui somnole un peu</l>
+          <l>Plus au fond, tout au fond, dans la Maison de l’Âme,</l>
+          <l>Où vont et viennent et s’assoient autour d’un feu</l>
+          <l>Les Passions, avec leurs visages de femme.</l>
+          <l/>
+        </div>
+        <div>
+          <head>X.</head>
+          <l/>
+          <l>En l’eau tiède des yeux tranquilles combien j’ai</l>
+          <l>Souvent, le soir, plongé mon visage et nagé</l>
+          <l>Dans leur silence, vers une rive inconnue !</l>
+          <l>Mon âme s’y sentait toute légère et nue</l>
+          <l>Et délivrée enfin des pesanteurs du corps.</l>
+          <l>Autour d’elle, pas même un cercle de ces moires</l>
+          <l>Qui dans l’eau, pour un souffle, un éveil de nageoires,</l>
+          <l>S’élargissent comme les sons mourants des cors.</l>
+          <l/>
+          <l>Nul trouble dans les yeux à cause de mon âme,</l>
+          <l>Tant elle nage doux, tant elle insiste peu,</l>
+          <l>Et soudain se libère en leur infini bleu,</l>
+          <l>Devenue une brise, un parfum, une flamme,</l>
+          <l>Une fleur, tout au plus un vierge nénuphar</l>
+          <l>Que, sans savoir son âge ou s’il pèse, l’eau porte…</l>
+          <l>Ainsi mon âme, en l’eau des yeux noyant son fard,</l>
+          <l>Toute fraîche, croit qu’elle a fini d’être morte !</l>
+          <l/>
+        </div>
+        <div>
+          <head>XI.</head>
+          <l/>
+          <l>Celui qui dessina ces Têtes au fusain</l>
+          <l>En rehaussa d’un peu de couleurs la souffrance ;</l>
+          <l>Leurs lèvres, comme en un vitrail diocésain,</l>
+          <l>Sont closes ; on dirait des fermoirs de silence.</l>
+          <l>Mais leurs yeux, leurs yeux froids élargis en halo,</l>
+          <l>Ces yeux bleuis, pareils à des bouches dans l’eau,</l>
+          <l>Appellent comme en se noyant quelque Ophélie.</l>
+          <l>Yeux dilatés, bijoux pâles de la folie !</l>
+          <l>Princesses d’Elseneur ou de l’Escurial</l>
+          <l>Dont la tristesse en ces fusains noirs persévère,</l>
+          <l>Victimes reposant sous la pitié du verre</l>
+          <l>Comme au fil d’un tranquille étang seigneurial.</l>
+          <l>Yeux qui durent parmi ces figures mort-nées…</l>
+          <l>Tels les joyaux dans les couronnes en exil,</l>
+          <l>Les couronnes sans but des reines détrônées.</l>
+          <l/>
+          <l>Ces faces ? Lis défunts. Mais l’œil est un pistil</l>
+          <l>Où la vie est continuée et se résorbe.</l>
+          <l>La lune vit, ayant des yeux tels dans son orbe !</l>
+          <l>Ah ! ces yeux, les clairs de lune qu’ils ont été !</l>
+          <l>Yeux fixes qui font ces Têtes hallucinées !</l>
+          <l>Des yeux qui furent morts mais ont ressuscité</l>
+          <l>Et gardent tout : ciel bleu, fleurs emmagasinées,</l>
+          <l>Tout le vaste paysage d’après-midi</l>
+          <l>Qu’ils ont capté durant la suprême minute,</l>
+          <l>Mais dont l’amas d’eau vive, absorbée en leur chute,</l>
+          <l>N’a pu détruire en eux le mirage agrandi.</l>
+          <l>Yeux de reflets et de verdure délayée,</l>
+          <l>Yeux remontés à la surface, revenus</l>
+          <l>Avec un tatouage au fil des globes nus,</l>
+          <l>Et qui disent ce que médite une noyée !</l>
+        </div>
+        <div>
+          <head>XII.</head>
+          <l/>
+          <l>Mon âme dans les yeux languissamment dérive,</l>
+          <l>Les yeux vastes et frais, comme emplis d’une eau vive ;</l>
+          <l>Mon âme y vogue à cause aussi d’un certain bleu</l>
+          <l>Qui dans les yeux, ainsi que dans l’eau, semble vivre,</l>
+          <l>Le bleu du ciel au fil des yeux qui flotte un peu…</l>
+          <l>Et mon âme entraînée en eux se plaît à suivre</l>
+          <l>Ces petits golfes clairs dans les roseaux des cils,</l>
+          <l>Ces bords des yeux pareils à des anses de joie</l>
+          <l>Où mon âme en partance, un moment, s’atermoie</l>
+          <l>Avant d’appareiller pour de lointains exils.</l>
+          <l/>
+          <l>Bords des yeux, bords de l’eau ! transparence bleuie !</l>
+          <l>Multiplication fragile des reflets !</l>
+          <l>Cristal prêt à mourir, vent, si tu l’éraflais !</l>
+          <l>Fraîcheur où la clarté de la lune est rouie ;</l>
+          <l>Silence plein de nacre et plein d’herbes semblant</l>
+          <l>Une flore inconnue et soudain révélée</l>
+          <l>D’un climat autre où la verdure est niellée.</l>
+          <l>Ah ! ces bords frais des yeux où dort un sable blanc,</l>
+          <l>Mon âme, triste du départ, y temporise,</l>
+          <l>Prétextant la marée ou l’absence de brise,</l>
+          <l>Et s’y dorlote encore une minute à voir</l>
+          <l>Tant de reflets parmi ces bords de nonchaloir,</l>
+          <l>Puis démarre vers la haute mer des prunelles…</l>
+          <l>Mais quel monde nouveau, quels pôles sont en elles,</l>
+          <l>Et qu’est-ce qu’on rencontre au bout des yeux quand on</l>
+          <l>S’enfonce par delà leur ligne d’horizon ?</l>
+          <l/>
+        </div>
+        <div>
+          <head>XIII.</head>
+          <l>L’œil, qu’on croit enchâssé, comme une calme opale,</l>
+          <l>Et prisonnier dans les paupières de chair pâle,</l>
+          <l>Est libre et, par l’air nu, s’évade quelquefois,</l>
+          <l>Si l’aimante une bouche ou le son d’une voix…</l>
+          <l>Exode tout à coup d’une large prunelle</l>
+          <l>Qui, d’un visage cher, réellement descend,</l>
+          <l>Avec tous les reflets de l’horizon en elle,</l>
+          <l>Proche de plus en plus, si proche qu’on la sent,</l>
+          <l>Quand, aux heures d’amour, elle fait ce prodige</l>
+          <l>D’être comme une fleur qui quitterait sa tige</l>
+          <l>Et d’abolir l’espace entre les deux amants.</l>
+          <l>Regard qui bouge et vient, qui se pose et caresse,</l>
+          <l>Plus formel qu’une lèvre ou des attouchements…</l>
+          <l>Sensation physique et qui s’appuie. Ivresse</l>
+          <l>De la chair se pâmant sous ce baiser de l’œil !</l>
+          <l/>
+          <l>L’œil voyage. Il franchit le temps et la distance ;</l>
+          <l>Même les morts envoient vers nous leur œil en deuil</l>
+          <l>Qui, des lieux d’autrefois conservant l’accointance,</l>
+          <l>Revient un peu dans nos chambres, comme au parloir,</l>
+          <l>Et pleure avec la pluie aux vitres dans le soir !</l>
+          <l>L’œil des absents aussi, que le vieux miroir garde,</l>
+          <l>Émerge, se déclôt comme d’un bassin nu,</l>
+          <l>Éclat d’astres lointains jusqu’ici parvenu…</l>
+          <l>C’est avec ces yeux-là que l’ombre nous regarde !</l>
+          <l/>
+          <l>Que d’autres yeux qui sont insistants ou distraits :</l>
+          <l>L’œil de l’enfant que nous fûmes ; l’œil des portraits ;</l>
+          <l>L’œil en rosace d’une église de village ;</l>
+          <l>L’œil aveugle des puits vitrifié de gel ;</l>
+          <l>L’œil de la lune ; l’œil des choses sans visage ;</l>
+          <l>L’œil des passions ; l’œil du remords ; l’œil d’Abel</l>
+          <l>Dont les pleurs de Caïn lotionnent la plaie ;</l>
+          <l>L’œil de Dieu redoutable en son triangle en or</l>
+          <l>Dont la fatalité géométrique effraie.</l>
+          <l/>
+          <l>Ah ! tous ces yeux ! tant d’yeux ! N’en est-il point encor ?</l>
+          <l>Prunelles à venir, prunelles pressenties,</l>
+          <l>Où le Mystère habite, ainsi qu’en des hosties ;</l>
+          <l>Car leur fourmillement s’est transsubstantié.</l>
+          <l>Et ces yeux présumés que ma chair sent sur elle,</l>
+          <l>Quand ils m’ont, dans des soirs tristes, communié,</l>
+          <l>N’est-ce pas comme un peu de Présence Réelle ?</l>
+          <l/>
+        </div>
+        <div>
+          <head>XIV.</head>
+          <l/>
+          <l>En des pays de longs canaux et de marais,</l>
+          <l>Les yeux sont, eux aussi, baignés d’un charme frais ;</l>
+          <l>Clairs yeux remémorés de Flandre et de Hollande</l>
+          <l>Qui paraissent mouillés, influencés par l’eau ;</l>
+          <l>Yeux comme un petit port avec un seul bateau</l>
+          <l>Qui s’avoue humble, et que nul trafic n’achalande,</l>
+          <l>Mais dont le calme heureux contribue à polir</l>
+          <l>Les reflets d’alentour qui s’y viennent pâlir.</l>
+          <l>S’ils sont ainsi, c’est à cause de l’eau voisine</l>
+          <l>Qui les fait à sa ressemblance, y propageant</l>
+          <l>Son aspect de miroir et de fluide argent.</l>
+          <l>Donc, comme un port, cette eau des yeux emmagasine</l>
+          <l>Les horizons et le paysage adjacent</l>
+          <l>Dont le mirage en sa transparence descend :</l>
+          <l>Le ciel y réfléchit ses teintes sans durée ;</l>
+          <l>On y perçoit aussi, comme sur un vélin,</l>
+          <l>L’enluminure en or d’un vieux quai, d’un moulin,</l>
+          <l>Et toute l’ambiance y vit, miniaturée.</l>
+          <l/>
+        </div>
+        <div>
+          <head>XV.</head>
+          <l/>
+          <l>On reconnaît de suite à certains vagues signes</l>
+          <l>Quels yeux ont déjà vu mourir, à certains plis</l>
+          <l>Comme en laisse dans l’eau quelque fuite de cygnes.</l>
+          <l>C’est fini, l’eau quiète et tous les bons oublis !</l>
+          <l>Chez les mères surtout, aux deuils indélébiles,</l>
+          <l>Dont sont morts autrefois les enfants trop débiles.</l>
+          <l>C’est dans leurs yeux qu’elles les ont ensevelis ;</l>
+          <l>C’est dans leurs yeux que pour toujours elles les gardent</l>
+          <l>Comme dans des berceaux lentement abolis,</l>
+          <l>Alcôves de miroirs où leurs départs s’attardent…</l>
+          <l>Ah ! qu’on ne parle pas trop haut près de leurs yeux</l>
+          <l>Où les doux enfants morts sommeillent parmi l’anse</l>
+          <l>Que leur font ces yeux froids ombrés de cils soyeux ;</l>
+          <l>Abîmes de tristesse ! Yeux en qui se balance</l>
+          <l>Le repos des petits enfants qui ne sont plus.</l>
+          <l>C’est là que flotte, avec des flux et des reflux,</l>
+          <l>Ce qui subsiste d’eux, reflet, sillage ou cendre…</l>
+          <l>Et dans les yeux de leurs mères, dans ces yeux d’eau,</l>
+          <l>Ils dorment, enfonçant leur immortel fardeau</l>
+          <l>Qui transparaît et, lent, continue à descendre !</l>
+          <l/>
+        </div>
+        <div>
+          <head>XVI.</head>
+          <l/>
+          <l>Yeux d’aveugles : ils sont tristes, l’air d’une plaie ;</l>
+          <l>Yeux nuls, sans effigie ; étain qui se délaie ;</l>
+          <l>Yeux d’aveugles : jardins où la vie a neigé ;</l>
+          <l>Yeux plus vitreux que ceux des morts. Ah ! qu’ils sont tristes,</l>
+          <l>Nus comme les tonsures des séminaristes ;</l>
+          <l>Eau d’un canal que nuls bateaux n’ont imagé ;</l>
+          <l>Patènes qui jamais ne mireront la messe</l>
+          <l>Et les cierges et des lèvres d’enfants de chœur.</l>
+          <l>Veilleuses sans clarté. Fioles sans liqueur.</l>
+          <l>Depuis quand ? Sont-ils nés dans cette ombre ? Ou bien n’est-ce</l>
+          <l>Qu’un obscurcissement graduel – tel le soir ;</l>
+          <l>Ou l’usure – tel un tissu réincorpore</l>
+          <l>Les roses et les lis le brodant sur fond noir,</l>
+          <l>Et bientôt s’unifie en étoffe incolore.</l>
+          <l/>
+          <l>Ah ! qu’ils sont tristes ! qu’ils sont tristes ! On dirait</l>
+          <l>Des scellés apposés sur une tête morte.</l>
+          <l/>
+          <l>Ces yeux, sans plus jamais qu’un seul regard en sorte,</l>
+          <l>C’est, sans tain, un miroir qui s’étiolerait ;</l>
+          <l>C’est, sans jet d’eau, la vasque immobile qui gèle ;</l>
+          <l>C’est, derrière une vitre, une hostie en prison.</l>
+          <l>Ah ! ces yeux ! on frissonne au bord de leur margelle,</l>
+          <l>Puits d’infini, que bouche un si calme glaçon.</l>
+          <l/>
+        </div>
+        <div>
+          <head>XVII.</head>
+          <l/>
+          <l>J’ai gardé dans mes yeux, comme un thésauriseur,</l>
+          <l>L’or des moissons ; l’or des chevelures ; un site</l>
+          <l>Dont mon âme fut seule à savoir la douceur ;</l>
+          <l>Un couchant dont le rose à mon gré ressuscite ;</l>
+          <l>Puis tels cygnes au clair de la lune nageant,</l>
+          <l>Des cygnes de qui l’aile a la forme des harpes,</l>
+          <l>Harpes de Lohengrin aux musiques d’argent.</l>
+          <l/>
+          <l>J’ai gardé dans mes yeux de bleuâtres écharpes,</l>
+          <l>Vapeurs d’étangs, brouillards que la pluie a brochés,</l>
+          <l>Et d’où montent des fonds de ville, des tourelles</l>
+          <l>Qu’une guirlande, en fer, d’angélus lie entre elles…</l>
+          <l>Et je marche portant dans mes yeux ces clochers</l>
+          <l/>
+          <l>Vus un soir en voyage au bout du crépuscule.</l>
+          <l>J’y garde encor des ciels, des arbres et de l’eau ;</l>
+          <l>Des femmes que l’absence au fond de l’œil accule,</l>
+          <l>Toutes tristes comme des lis dans un préau ;</l>
+          <l>Puis des noces en blanc, des baptêmes, la moire</l>
+          <l>Sous la brise, d’un vieux canal horizontal…</l>
+          <l/>
+          <l>Or, ces reflets dans l’œil, c’est toute ma mémoire ;</l>
+          <l>Un souvenir plutôt physique que mental :</l>
+          <l>Réverbérations d’enfance et de voyages,</l>
+          <l>Dessins figuratifs des heures qui s’en vont,</l>
+          <l>Survivances toutes visuelles qui font</l>
+          <l>De mes yeux comme un grand reliquaire d’images !</l>
+          <l/>
+        </div>
+        <div>
+          <head>XVIII.</head>
+          <l/>
+          <l>Les yeux des femmes sont des Méditerranées</l>
+          <l>Faites d’azur et de l’écume des années</l>
+          <l>Où l’âme s’aventure en sa jeune saison.</l>
+          <l>Quelles mers sont là-bas, derrière l’horizon,</l>
+          <l>Qui déferlent autour de ces îles jumelles ?</l>
+          <l>En quel golfe atterrir au fond bleu des prunelles ?</l>
+          <l/>
+          <l>L’infini s’y recule en un roulis berceur ;</l>
+          <l>Et l’âme part, dérive, en proie aux vents rebelles,</l>
+          <l>S’extasiant parmi les yeux des femmes belles.</l>
+          <l>Mais parfois l’ouragan convulse leur douceur</l>
+          <l>Et l’âme va toucher les récifs des traîtrises ;</l>
+          <l/>
+          <l>Elle se heurte à des banquises de froideur :</l>
+          <l>Climats gelés, glaçons, brouillards, régions grises ;</l>
+          <l>On navigue soudain sous un rouge équateur :</l>
+          <l>Flammes d’orgueil, corail sanguin de la luxure,</l>
+          <l>Feux convergeant de fleuves chauds qu’on ne voit pas.</l>
+          <l>Que d’embûches cachait ce piège qui s’azure !</l>
+          <l/>
+          <l>L’âme est désemparée en de muets combats</l>
+          <l>Et bientôt se mutile, abandonnant ses voiles,</l>
+          <l>Vidant ses filets noirs de sa pêche d’étoiles,</l>
+          <l>Sacrifiant ses mâts pour se sauver un peu,</l>
+          <l>Jetant cargaison, or, tout, dans l’abîme bleu !</l>
+          <l/>
+          <l>Enfin, un soir que c’est la fin de sa jeunesse,</l>
+          <l>L’âme s’amarre ; elle est édifiée et cesse</l>
+          <l>D’appareiller parmi les beaux yeux spacieux…</l>
+          <l/>
+          <l>Ah ! ce leurre d’aller voyager dans les yeux !</l>
+        </div>
+        <div>
+          <head>XIX.</head>
+          <l/>
+          <l>Le sommeil met aux yeux un tain spirituel</l>
+          <l>Grâce auquel leurs miroirs exigus se prolongent</l>
+          <l>Par delà la mémoire et le temps actuel.</l>
+          <l>Ils voient plus loin et mieux, tandis qu’on croit qu’ils songent</l>
+          <l>Et tout l’Univers joue en ces glaces sans fond.</l>
+          <l>Ah ! les pauvres regards, si nus durant la veille !</l>
+          <l>Dans les yeux endormis, un beau cygne appareille ;</l>
+          <l>Et ces ombres soudain que des nuages font !</l>
+          <l>C’est un bonheur en fuite, un malheur qui s’avance ;</l>
+          <l>L’automne s’y mélange à des roses d’enfance ;</l>
+          <l>On se voit mort, tandis qu’on se revoit amant ;</l>
+          <l>Ce n’est plus le présent seulement qu’on reflète ;</l>
+          <l>Sur l’eau frêle des yeux court un pressentiment ;</l>
+          <l>Puis l’âme a revécu ses lendemains de fête ;</l>
+          <l>Ô rêve, où toute la Destinée apparaît !</l>
+          <l>Car le sommeil a fait en nous du clair de lune</l>
+          <l>Où toute notre vie afflue et ne fait qu’une :</l>
+          <l>Vieux souvenirs tels que des cors dans la forêt ;</l>
+          <l>Maux futurs dont on sent le vent de l’aile presque ;</l>
+          <l>Le passé, l’avenir – en une seule fresque…</l>
+          <l>Phénomène du rêve où tout s’unifia !</l>
+          <l/>
+          <l>L’espace s’est fondu dans le temps qui s’abroge ;</l>
+          <l>Est-ce qu’on sait encor les pays qu’il y a ?</l>
+          <l>Et, comme un puits tari, se dénude l’horloge.</l>
+          <l>Rêver, c’est se prévoir en son éternité !</l>
+          <l>Vie anticipative ! Ô fantasmagorie !</l>
+          <l>Patrimoine divin qu’on aurait escompté :</l>
+          <l>N’est-ce pas, pour notre âme, une avance d’hoirie</l>
+          <l>Sur sa vie immortelle et sur sa part de ciel</l>
+          <l>Que cette clairvoyance au delà du réel,</l>
+          <l>Ô prunelles soudain devenant plus lucides ?</l>
+          <l>Car le sommeil, pour y capturer l’horizon,</l>
+          <l>A versé sur leur plaque inerte ses acides,</l>
+          <l>Et l’homme endormi voit par delà sa maison !</l>
+          <l/>
+          <l>Mais au réveil ce tain spirituel dégèle,</l>
+          <l>Il fond ; et l’œil déclos n’est plus qu’un miroir frêle,</l>
+          <l>Miroir quotidien et borné dont le tain</l>
+          <l>Est suffisant aux fins de la vie ordinaire ;</l>
+          <l>Œil sorti du sommeil et qui ne mire guère</l>
+          <l>Que les chambres et les seuls arbres du jardin.</l>
+          <l/>
+        </div>
+        <div>
+          <head>XX.</head>
+          <l/>
+          <l>Tels yeux parfois ont l’air plus vieux que leurs visages ;</l>
+          <l>Et même s’ils sont clairs, même s’ils sont rieurs,</l>
+          <l>À leur fatigue on les soupçonne antérieurs</l>
+          <l>Et venus là s’ancrer après de longs voyages.</l>
+          <l>Regards âgés dans un ensemble puéril :</l>
+          <l>Les yeux sont un octobre et la bouche un avril ;</l>
+          <l>Eux sont pleins de feuilles mortes ; elle, de roses ;</l>
+          <l>Et le contraste entre eux est presque un désaccord.</l>
+          <l>Où trouver un visage unifiant son sort</l>
+          <l>Dont les lèvres avec les yeux se soient décloses</l>
+          <l>Et dont la voix serait de la couleur des yeux ?</l>
+          <l>Il faudrait pour cela des yeux qu’on inaugure,</l>
+          <l>Qui soient neufs, nés en même temps que la figure,</l>
+          <l>Au lieu de ceux qu’on a, fanés par tant d’adieux,</l>
+          <l>Dont le sort aboutit, pour faire un moment halte,</l>
+          <l>À s’accoupler sur tel profil qui s’en exalte.</l>
+          <l>Yeux dont on ne sait plus l’âge ! Errantes lueurs !</l>
+          <l>Astres déchus sans cesse en route ! Yeux migrateurs !</l>
+          <l>Joyaux qui tour à tour ornaient une couronne,</l>
+          <l>Passent dans un bijou d’église, émigrent dans</l>
+          <l>Un anneau, sans savoir quel or les environne ;</l>
+          <l>Joyaux ! Yeux ! qui dira vos clairs antécédents ?</l>
+          <l/>
+          <l>Car les yeux, eux aussi, comme les pierreries,</l>
+          <l>Vivent d’un destin propre, ont en eux leurs féeries.</l>
+          <l>Contemporains du luxe âgé de nos aïeux,</l>
+          <l>Concomitants de je ne sais quels astres vieux ;</l>
+          <l>Ils possèdent comme une âme rétrogradée,</l>
+          <l>Faits d’antique azur, faits d’une perle évadée ;</l>
+          <l>Ils n’ont rien de terrestre et rien de temporel,</l>
+          <l>Sertis et dessertis, depuis les lointains âges,</l>
+          <l>Dans la métempsycose éparse des visages…</l>
+          <l/>
+          <l>C’est aussi par ses yeux que l’homme est immortel ?</l>
+        </div>
+      </div>
+      <div>
+        <head>La tentation des nuages</head>
+        <l/>
+        <div>
+          <head>I.</head>
+          <l/>
+          <l>En vain les vitres glauques des vieilles maisons</l>
+          <l>Sont un rempart de verre humble qui s’interpose</l>
+          <l>Entre la vie en fièvre et la calme âme enclose,</l>
+          <l>Elles n’ont qu’embrumé l’appel des horizons.</l>
+          <l/>
+          <l>Le lointain ciel sans cesse y passe et les aère</l>
+          <l>Du prestige de ses beaux voyages tentants ;</l>
+          <l>Et les nuages qui sont les robes du temps</l>
+          <l>Se reposent parmi ces armoires de verre.</l>
+          <l/>
+          <l>Les midis, d’un vaste or fluide, le soir mauve,</l>
+          <l>L’aube, tout ce qui passe et part incessamment,</l>
+          <l>Vient tenter l’âme en songe et qui se croyait sauve</l>
+          <l>Derrière le cristal de son renoncement.</l>
+          <l/>
+          <l>Ah ! les vitres, toujours reprises par la Vie,</l>
+          <l>Qui, reflétant la vaine ivresse du départ,</l>
+          <l>Sont complices du ciel en marche qui convie,</l>
+          <l>Comme s’il y avait le bonheur autre part !</l>
+          <l/>
+          <l>Tentation dans les vitres fallacieuses</l>
+          <l>Qui propagent, en l’ombre intime des maisons,</l>
+          <l>La vagabonde humeur des changeants horizons</l>
+          <l>Et leurs roses et leurs flammes silencieuses.</l>
+          <l/>
+          <l>Et tu souffres, pauvre âme enclose, qui songeais</l>
+          <l>Dans le sage insouci des âmes qui renoncent,</l>
+          <l>Car les vitres qui s’éclaircissent ou se foncent</l>
+          <l>S’emplissent de l’ardeur fiévreuse des projets.</l>
+          <l/>
+          <l>Les vitres ont trahi ! Demeures mal gardées !</l>
+          <l>Mais les vitres déjà, pour avoir accueilli</l>
+          <l>Les vieux couchants, ont pris soudain un air vieilli,</l>
+          <l>Courtisanes que les nuages ont fardées !</l>
+          <l/>
+        </div>
+        <div>
+          <head>II.</head>
+          <l/>
+          <l>Sur le ciel immuable ont flotté des nuages,</l>
+          <l>Tissus à la dérive et parure changeante ;</l>
+          <l>Ô nuages, partis pour de lointains voyages,</l>
+          <l>Entrant soudain dans mon âme qui s’en argente ;</l>
+          <l>Et je suis dans mon âme où, calmes, ils s’en vont,</l>
+          <l>Les nuages qui se défont et se refont.</l>
+          <l/>
+        </div>
+        <div>
+          <head>III.</head>
+          <l/>
+          <l>Le couchant triomphal est une fin de règne…</l>
+          <l>Des cuivres de victoire énamourent le soir ;</l>
+          <l>Des drapeaux sont hissés ; un sang nombreux imprègne</l>
+          <l>Le fond du ciel qui s’en rougit comme un pressoir ;</l>
+          <l>Et l’on croit voir s’enfuir une armée ennemie.</l>
+          <l>Maintenant c’est la paix de la lutte finie ;</l>
+          <l>L’orgueil, – et l’on entend le bruit lourd de sa clé ; –</l>
+          <l>C’est l’accomplissement, le butin étalé,</l>
+          <l>L’or du soleil, les nuages comme des porches</l>
+          <l>D’où l’on voit des palais d’azur s’approfondir ;</l>
+          <l>Et le ruissellement de joyaux, et les torches</l>
+          <l>Dont les gestes de feu conduisent au nadir…</l>
+          <l/>
+          <l>Couchant sublime ! Architectures inouïes !</l>
+          <l>Premiers astres qui font le ciel fleurdelysé !</l>
+          <l>Et là-bas, toutes ces chevelures rouies</l>
+          <l>Comme un lin fin dans un étang cristallisé,</l>
+          <l>Moisson des longs cheveux fauchés des Ophélies !</l>
+          <l/>
+          <l>Charme de l’équivoque et des anomalies !</l>
+          <l>Vertigineux palais que des nuages font,</l>
+          <l>Auxquels à chaque instant quelque chose s’annexe ;</l>
+          <l>Nuée, en forme de montagne, qui se fond ;</l>
+          <l>Petite brume rose offerte comme un sexe ;</l>
+          <l>Vapeurs se contractant en bêtes de blason</l>
+          <l>Qui sont soudain des léopards ouvrant leurs gueules</l>
+          <l>Ou des licornes dans le soir piaffant seules ;</l>
+          <l>Puis voici d’autres jeux occupant l’horizon :</l>
+          <l>Les nuages sont purs comme des mousselines ;</l>
+          <l>On voit des communiantes dans des berlines</l>
+          <l>Qui jettent par les portières des nénuphars ;</l>
+          <l>Tout est blanc dans le ciel qui croit que c’est dimanche !</l>
+          <l/>
+          <l>Or tout ce luxe du couchant, ce sang, ces fards,</l>
+          <l>Ces grottes, ces palais de féerie or et blanche,</l>
+          <l>Cette mer bleue où dort la coupe de Thulé,</l>
+          <l>Cette splendeur que plus personne ne dénie</l>
+          <l>Et qui semble un triomphe récapitulé,</l>
+          <l/>
+          <l>C’est l’image de la vieillesse du Génie !</l>
+          <l/>
+        </div>
+        <div>
+          <head>IV.</head>
+          <l/>
+          <l>Le gris des ciels du Nord dans mon âme est resté ;</l>
+          <l>Je l’ai cherché dans l’eau, dans les yeux, dans la perle ;</l>
+          <l>Gris indéfinissable et comme velouté,</l>
+          <l>Gris pâle d’une mer d’octobre qui déferle,</l>
+          <l>Gris de pierre d’un vieux cimetière fermé.</l>
+          <l>D’où venait-il, ce gris par-dessus mon enfance</l>
+          <l>Qui se mirait dans le canal inanimé ?</l>
+          <l>Il était la couleur sensible du Silence</l>
+          <l>Et le prolongement des tours grises dans l’air.</l>
+          <l>Ce ciel de demi-deuil immuable avait l’air</l>
+          <l>D’un veuvage qui ne veut pas même une rose</l>
+          <l>Et dont le crêpe obscur sans cesse s’interpose</l>
+          <l>Entre la joie humaine et son chagrin sans fin.</l>
+          <l>Ah ! ces ciels gris, couleur d’une cloche qui tinte,</l>
+          <l>Dont maintenant et pour toujours ma vie est teinte !</l>
+          <l>– Et, pour moudre ces ciels, tournait quelque moulin !</l>
+          <l/>
+        </div>
+        <div>
+          <head>V.</head>
+          <l/>
+          <l>La fumée a monté des toits languissamment</l>
+          <l>Pour aller dans le ciel rejoindre une nuée</l>
+          <l>Où, pensive, elle s’est comme continuée…</l>
+          <l>Ô nuée, amarrée au fond du firmament !</l>
+          <l>C’est un calme navire, une île irrésolue</l>
+          <l>Que des alluvions de fumée ont accrue…</l>
+          <l>Et le vent léger joue en ce jardin changeant</l>
+          <l>Tantôt s’élargissant et tantôt s’allongeant,</l>
+          <l>Nuée inconsistante, à peine située…</l>
+          <l>Mais la fumée entre dans elle et disparaît ;</l>
+          <l>La fumée est la jeune sœur de la nuée,</l>
+          <l>Toute fragile et l’air d’apporter un secret ;</l>
+          <l>Or la nuée, en l’accueillant, s’en influence,</l>
+          <l>Car la fumée est gaie ou sévère, suivant</l>
+          <l>Qu’elle sort d’une auberge ou monte d’un couvent ;</l>
+          <l>La nuée, à son tour, en change de nuance</l>
+          <l>Et quand nous la voyons rose ou grise ou tout or</l>
+          <l>C’est qu’en elle est entrée une fumée en fuite,</l>
+          <l>Lui racontant : récit d’amour, récit de mort,</l>
+          <l>L’histoire des foyers qui par l’âtre s’ébruite.</l>
+          <l/>
+        </div>
+        <div>
+          <head>VI.</head>
+          <l/>
+          <l>L’aube a déchiré l’ombre et commence d’éclore,</l>
+          <l>D’un mauve de prélude enflé jusqu’au lilas ;</l>
+          <l>S’étant taillé des nuages en falbalas,</l>
+          <l>Elle se décolore, elle se recolore.</l>
+          <l>Alors c’est le miracle opéré comme un jeu :</l>
+          <l>Le ciel est tout à coup une plaine de brume ;</l>
+          <l>Une église à vitraux qu’un peu d’encens enfume ;</l>
+          <l>Le ciel est un bûcher de lis qui sont en feu ;</l>
+          <l>Dans des tulles en fleur, le jour naissant s’infuse ;</l>
+          <l>Puis il descend du ciel une fraîcheur d’écluse…</l>
+          <l>Et, comme l’eau tombant qui s’engendre de soi,</l>
+          <l>Des vapeurs ont jailli par chutes graduées,</l>
+          <l>Telle une cataracte aux liquides nuées.</l>
+          <l>L’horizon se recueille, un moment se tient coi,</l>
+          <l>Mais voici qu’à nouveau la jeune aube irradie ;</l>
+          <l>Elle achève la nuit sous sa clarté brandie</l>
+          <l>Et tend dans l’air de clairs tissus en espalier ;</l>
+          <l>La lune, au fond, se dédore comme une icône.</l>
+          <l>Quelle chimie en fièvre a su multiplier</l>
+          <l>Ces affluents de rouge et ces halos de jaune</l>
+          <l>Comme si l’aube avait délayé l’arc-en-ciel ?</l>
+          <l/>
+          <l>Explosion de la jeunesse ! L’aube exulte,</l>
+          <l>Puis se calme ; et bientôt, assagie, elle sculpte</l>
+          <l>Des nuages dans l’or uni d’un ciel de miel !</l>
+          <l/>
+        </div>
+        <div>
+          <head>VII.</head>
+          <l/>
+          <l>Dans les ciels de Toussaint la pluie est humble et lente !</l>
+          <l>Maladive beauté de ces ciels où des fils</l>
+          <l>Ont capturé notre âme en leurs réseaux subtils,</l>
+          <l>Écheveau qu’on croit frêle et qui nous violente !</l>
+          <l>Quel remède à l’ennui des longs jours pluvieux ?</l>
+          <l>Et comment éclaircir, lorsqu’on y est en proie,</l>
+          <l>Le mystère de leur tristesse qui larmoie ?</l>
+          <l>Sont-ce les pleurs du ciel – pleurés avec quels yeux ?</l>
+          <l>Sont-ce les pleurs du ciel – en deuil de quelle peine ?</l>
+          <l>Car la pluie a vraiment une tristesse humaine !</l>
+          <l>Pluie éparse. Elle nous atteint ! C’est comme afin</l>
+          <l>De nous lier à sa peine contagieuse.</l>
+          <l>Elle s’étend dans l’atmosphère spongieuse</l>
+          <l>Et, grise, elle renaît d’elle-même sans fin.</l>
+          <l>Pluie étrange. Est-ce un filet où l’âme se mouille</l>
+          <l>Et se débat ? Est-ce de la poussière d’eau ?</l>
+          <l>Ou l’effilochement fil à fil d’un rideau ?</l>
+          <l>Est-ce le chanvre impalpable d’une quenouille ?</l>
+          <l>Ou bien le ciel a-t-il lui-même des douleurs</l>
+          <l>Et pleut-il simplement les jours que le ciel pleure ?</l>
+          <l>Alors tout s’élucide : attraction des pleurs !</l>
+          <l>La pluie apporte en nous les tristesses de l’heure ;</l>
+          <l>Insinuante, jusqu’en nous elle descend ;</l>
+          <l>Elle cherche nos pleurs et va les accroissant,</l>
+          <l>Ô pluie alimentant le réservoir des larmes !</l>
+          <l>Inexorable pluie ! Apporteuse d’alarmes !</l>
+          <l>Nous n’en souffrons si fort que pour prévoir un peu</l>
+          <l>Qu’après la pluie et les heures sombres enfuies,</l>
+          <l>Même lorsque le ciel sera de nouveau bleu,</l>
+          <l>Il nous faudra plus tard pleurer toutes ces pluies.</l>
+          <l/>
+        </div>
+        <div>
+          <head>VIII.</head>
+          <l/>
+          <l>Le soleil monte et brûle au haut du ciel d’été.</l>
+          <l>Comment subir ses feux, son or diamanté,</l>
+          <l>Luxe aveuglant d’un grand Saint Sacrement solaire ?</l>
+          <l>Or voici çà et là le reposoir paisible</l>
+          <l>D’une nuée aux plis ombreux d’étoffe claire ;</l>
+          <l>Grâce à ces frais abris, l’azur est accessible :</l>
+          <l>Jardins disséminés aux quinconces de neige,</l>
+          <l>Grottes de ouate et de mousseline bouffante,</l>
+          <l>Éventails de duvet dont le ciel chaud s’évente.</l>
+          <l/>
+          <l>Ô nuages, frais comme les nus du Corrège</l>
+          <l>Et bombant, eux aussi, des croupes nonchalantes ;</l>
+          <l>Fraîcheur des chairs, celle des eaux, celle des plantes,</l>
+          <l>Tout ce que l’Univers a de frais s’y résume !</l>
+          <l>Dans les immensités par le soleil chauffées</l>
+          <l>Ils sont de bons relais, des oasis de brume,</l>
+          <l>Des étapes aux rafraîchissantes bouffées…</l>
+          <l/>
+          <l>Ainsi les plans divins sont bien harmoniés !</l>
+          <l>Que ferait le désert sans le frais des palmiers ?</l>
+          <l>Et que ferait l’azur s’il n’était versatile</l>
+          <l>Avec, sans cesse, un nuage qui le ventile ?</l>
+          <l/>
+        </div>
+        <div>
+          <head>IX.</head>
+          <l/>
+          <l>La lune m’a hanté d’un paysage blanc,</l>
+          <l>Pays immaculé dont la candeur enjôle,</l>
+          <l>Terre anormale et qui scintille en assemblant</l>
+          <l>Un climat d’île chaude et la blancheur du pôle.</l>
+          <l>Unanime blancheur : des rivières de lait,</l>
+          <l>Tout opaques, que ne maquille aucun reflet ;</l>
+          <l>Rien que des lis, sans papillon qui les obsède ;</l>
+          <l>Des collines d’une neige qui serait tiède ;</l>
+          <l>Des roseaux écorchés dont la moelle est à nu</l>
+          <l>Pour avoir l’air dans l’air d’une moisson de cierges.</l>
+          <l>Ô lune ! pays blanc d’où je suis revenu,</l>
+          <l>Fou d’avoir traversé votre dortoir de vierges !</l>
+          <l/>
+        </div>
+        <div>
+          <head>X.</head>
+          <l/>
+          <l>Torpeur de certains soirs à la fin de l’été !</l>
+          <l>Le ciel brûle, il est en fièvre, rouge et livide !</l>
+          <l>Il est mélancolique et plein d’anxiété</l>
+          <l>Comme, après la musique, un jardin qui se vide.</l>
+          <l>L’aspect en change à tout instant – telle la mer ;</l>
+          <l>Mais le ciel est solide ; on dirait une chair</l>
+          <l>Que tourmente à cette heure une pensée impure,</l>
+          <l>Délire de malade et cauchemar du soir.</l>
+          <l>L’astre, comme une plaie, au bas du ciel, suppure…</l>
+          <l>Qu’est-ce qui va venir et qu’est-ce qu’on va voir ?</l>
+          <l>Le ciel de plus en plus est tragique ; il bouscule</l>
+          <l>Les nuages, comme un fiévreux ses oreillers ;</l>
+          <l>Couchants de l’équinoxe et de la canicule !</l>
+          <l>Ici, des lacs de fiel ; là, des rayons caillés</l>
+          <l>Comme du sang ; plus loin, des fleurs empoisonnées,</l>
+          <l>Un moutonnement, blanc vert, de brebis mort-nées ;</l>
+          <l>Ah ! les tragiques soirs ! Ciel pestilentiel</l>
+          <l>Qui, plein d’angoisse, a l’air d’un Jardin des Olives,</l>
+          <l>Ou, plein de fièvre, a l’air de vendanges lascives ;</l>
+          <l>Ciel d’amour, ciel de mort, ô trop vénéneux ciel,</l>
+          <l>Vénéneux comme le maquillage des pitres…</l>
+          <l>Trouble de ces soirs lourds emplis d’exhalaisons</l>
+          <l>Où l’on se signe, au fond des peureuses maisons,</l>
+          <l>Devant un éclair brusque et qui soufre les vitres !</l>
+          <l/>
+        </div>
+        <div>
+          <head>XI.</head>
+          <l/>
+          <l>Le soleil dans la brume est en convalescence.</l>
+          <l>Va-t-il guérir de la brume tout éphémère ?</l>
+          <l>Va-t-il mourir de la brume qui s’agglomère ?</l>
+          <l>Il a l’air de quelqu’un qu’on revoit dans l’absence ;</l>
+          <l>Il lutte, son visage est exsangue et se fane ;</l>
+          <l>La brume s’interpose ; elle est si diaphane</l>
+          <l>Que c’est comme un encens anémié qui fume,</l>
+          <l>Que c’est comme une vitre, un écran de fumée</l>
+          <l>Derrière lesquels l’Astre attend sa destinée.</l>
+          <l>Obstacle frêle, dirait-on, que cette brume ;</l>
+          <l>Mais pas assez pour que le soleil s’en délivre,</l>
+          <l>Soit le malade, ôté des vitres, qui va vivre…</l>
+          <l/>
+        </div>
+        <div>
+          <head>XII.</head>
+          <l/>
+          <l>C’est fini, la légende enfantine des astres,</l>
+          <l>De les croire vivants, de les songer des lis ;</l>
+          <l>La nuit souffre de ses millénaires désastres.</l>
+          <l>C’est fini de rêver le ciel, comme jadis,</l>
+          <l>Un champ bleu qu’une main partiale ensemence ;</l>
+          <l>La science le prouve une agonie immense :</l>
+          <l>Soleils mourants dont le décès est calculé ;</l>
+          <l>Déserts nus, sans écho ; cendre de nébuleuses ;</l>
+          <l>Étoiles qui sont des orphelines frileuses ;</l>
+          <l>Globes dont le soupir est inarticulé</l>
+          <l>Achevant de périr comme en des léthargies.</l>
+          <l>Ciel qui s’éteint ! Vaste hôpital de l’Infini,</l>
+          <l>Où la lune, antique diseuse d’élégies,</l>
+          <l>Semble malade, tant son visage est blêmi ;</l>
+          <l>Tels soirs surtout, elle est plus pâle et délayée :</l>
+          <l>On dirait une hostie, au fil du ciel, noyée ;</l>
+          <l>On dirait un cadran de tour miré dans l’eau ;</l>
+          <l>Lune en exil et que nulle étoile n’escorte ;</l>
+          <l>À l’horizon désert, elle a l’air d’être morte,</l>
+          <l>Lune exsangue sur l’oreiller de son halo !</l>
+          <l/>
+        </div>
+        <div>
+          <head>XIII.</head>
+          <l/>
+          <l>Le soir tombe, le vent tiédit, édulcoré</l>
+          <l>Par la calme fraîcheur des pièces d’eau voisines ;</l>
+          <l>On sent dans l’air du lilas neuf et des glycines ;</l>
+          <l>Tandis qu’un astre vieux, d’or détérioré,</l>
+          <l>Émerge, puis un autre un peu moins incolore.</l>
+          <l>Or les jeunes étoiles ont aussi jailli ;</l>
+          <l>Alors, honteux du premier astre trop vieilli,</l>
+          <l>Voilà le ciel soudain qui le réincorpore !</l>
+          <l/>
+        </div>
+        <div>
+          <head>XIV.</head>
+          <l/>
+          <l>Mon cœur s’est affligé du départ des nuages,</l>
+          <l>Navires indolents, cygnes appareilleurs,</l>
+          <l>Eux qui partent sans cesse et qui s’en vont ailleurs</l>
+          <l>Et vivent la bonne aventure des voyages.</l>
+          <l/>
+          <l>Bohémiens des crépuscules, ils s’en vont,</l>
+          <l>Clairs fichus ! Au hasard erre la caravane…</l>
+          <l>Ils sont tout assombris dès que le ciel se fane,</l>
+          <l>Et ce sont les pays traversés qui les font.</l>
+          <l/>
+          <l>Ô petite nuée, au vent, qui se modèle</l>
+          <l>Sur la forme d’un astre ou d’un continent blond</l>
+          <l>Que, dans sa course molle, elle admire en surplomb ;</l>
+          <l>Ciel du soir où chaque île a vu sa sœur jumelle !</l>
+          <l/>
+          <l>C’est de toujours partir qu’on est toujours changeant !</l>
+          <l>Beaux nuages, brume frêle qui s’abandonne !</l>
+          <l>Moi je vis comme un arbre – et me sens monotone…</l>
+          <l>Ah ! se quitter enfin soi-même, en voyageant.</l>
+          <l/>
+          <l>Partir ! Être le nuage qui se disperse,</l>
+          <l>Qui se livre, docile, au vent, aux tours, aux mâts ;</l>
+          <l>Ne vouloir être aussi que selon les climats</l>
+          <l>Et selon la douceur de l’heure qu’on traverse.</l>
+          <l/>
+          <l>Recommencer sa vie en la changeant ! Oui, c’est</l>
+          <l>Se refaire une autre âme en face d’autres fleuves ;</l>
+          <l>Se sentir toujours neuf devant des roses neuves ;</l>
+          <l>S’éveiller chaque jour comme si l’on naissait !</l>
+          <l/>
+          <l>Mais qu’est-ce une autre terre, une autre floraison,</l>
+          <l>Et le temps qui chemine avec d’autres visages ?</l>
+          <l>C’est dans soi qu’on peut voir les plus beaux paysages,</l>
+          <l>Faible âme, qu’aimantait ce départ d’horizon !</l>
+          <l/>
+          <l>Le voyage est un leurre ; on cesse jour à jour</l>
+          <l>D’être soi, pour changer selon le site et l’heure ;</l>
+          <l>Ne vas-tu donc pleurer que si la source pleure,</l>
+          <l>Et ne penser à Dieu que si tinte une tour ?</l>
+          <l/>
+          <l>Sois toi-même en restant dans ta maison fermée,</l>
+          <l>Au lieu de devenir un autre à chaque adieu ;</l>
+          <l>Bonheur subtil d’orner en soi sa destinée</l>
+          <l>D’un voyage qu’on rêve et qui n’a pas eu lieu !</l>
+          <l/>
+        </div>
+      </div>
+      <div>
+        <head>L’âme sous-marine</head>
+        <l/>
+        <div>
+          <head>I.</head>
+          <l/>
+          <l>Donc on a l’air de vivre et de mirer la vie,</l>
+          <l>Et d’être une eau docile où le couchant s’enflamme,</l>
+          <l>Une eau candide où le matin se clarifie,</l>
+          <l>Comme si l’Univers cessait au fil de l’âme.</l>
+          <l/>
+          <l>Oui ! c’est vrai que notre âme est pleine de reflets :</l>
+          <l>Arbres, visages, ciels, maquillant sa surface,</l>
+          <l>Et les astres qui sont comme des feux follets,</l>
+          <l>Et tout ce que la vie à sa surface enchâsse.</l>
+          <l/>
+          <l>Oui ! c’est vrai que notre âme au monde se fiance !</l>
+          <l>Mais qu’est-ce de mirer la simple vie humaine</l>
+          <l>Quand, dans ses profondeurs, s’ouvre un divin domaine :</l>
+          <l>Tout le royaume glauque de l’Inconscience.</l>
+          <l/>
+          <l>Qui l’eût prévu sous cette calme nappe d’eau ?</l>
+          <l>Voici le gouffre et les richesses sous-marines :</l>
+          <l>Un idéal trop beau, tombé comme un fardeau,</l>
+          <l>Et des rêves, petites algues argentines…</l>
+          <l/>
+          <l>Puis le corail des belles lèvres attendues,</l>
+          <l>Et, par delà des sables d’or, la grotte triste</l>
+          <l>D’un amour trop rêvé qui nulle part n’existe,</l>
+          <l>Et qu’on leurre en aimant quelques pâles statues.</l>
+          <l/>
+          <l>Vaste abîme du fond de l’âme, insoupçonné :</l>
+          <l>Un rêve qu’on croyait mort et qui continue,</l>
+          <l>Des désirs s’ébauchant dans une argile nue,</l>
+          <l>Un orgueil qui, dans l’ombre, est un roi détrôné.</l>
+          <l/>
+          <l>Prolongement sans fin de cette vie occulte :</l>
+          <l>Tout un pavoisement, toute une panoplie ;</l>
+          <l>Une espérance un peu vague qui se déplie ;</l>
+          <l>Un souvenir ouvrant sa fleur dans l’herbe inculte.</l>
+          <l/>
+          <l>Puis des fièvres roulant leurs vagues de phosphore,</l>
+          <l>Comme si tout le clair de lune était en nous.</l>
+          <l>Quels sont ces péchés noirs que moi-même j’ignore</l>
+          <l>Et qui hantent mon âme avec de grands remous ?</l>
+          <l/>
+          <l>Sombre trésor intérieur de mes pensées ;</l>
+          <l>Royaume souterrain auquel enfin j’accède ;</l>
+          <l>Et cette mer du fond de l’âme, immense et tiède,</l>
+          <l>Où sont des cris et des tendresses renoncées.</l>
+          <l/>
+          <l>Ah ! ce que l’âme sait d’elle-même est si peu</l>
+          <l>Devant l’immensité de sa vie inconnue,</l>
+          <l>Sans même le soupçon d’être un abîme bleu</l>
+          <l>Au fond duquel sa Destinée est seule et nue !</l>
+          <l/>
+        </div>
+        <div>
+          <head>II.</head>
+          <l/>
+          <l>Toute une vie en nous, non visible, circule</l>
+          <l>Et s’enchevêtre en longs remous intermittents ;</l>
+          <l>Notre âme en est variable comme le temps ;</l>
+          <l>Tantôt il y fait jour et tantôt crépuscule,</l>
+          <l>Selon de brefs et de furtifs dérangements</l>
+          <l>Tels que ceux du feuillage et des étangs dormants.</l>
+          <l>Pourquoi ces accès d’ombre et ces accès d’aurore</l>
+          <l>Dans ces zones de soi que soi-même on ignore ?</l>
+          <l>Qu’est-ce qui s’accomplit, qu’est-ce qui se détruit ?</l>
+          <l>Mais, qu’il fasse aube ou soir dans notre âme immobile,</l>
+          <l>La même vie occulte en elle se poursuit,</l>
+          <l>Comme la mer menant son œuvre sous une île !</l>
+          <l/>
+        </div>
+        <div>
+          <head>III.</head>
+          <l/>
+          <l>Nous avons nos Limbes obscures</l>
+          <l>Où dorment des projets mort-nés,</l>
+          <l>Comme des enfants sans figures.</l>
+          <l/>
+          <l>Rêves en germe, espoirs aînés,</l>
+          <l>Rosiers trop faibles, lis trop pâles,</l>
+          <l>Avant l’avril déracinés.</l>
+          <l/>
+          <l>Nous avons nos Limbes mentales</l>
+          <l>Où sont des désirs mal éclos,</l>
+          <l>Des fleurs où manquent des pétales ;</l>
+          <l/>
+          <l>Jardins obscurs comme un chaos</l>
+          <l>Où des amours non abouties</l>
+          <l>Vivent encor, mais les yeux clos.</l>
+          <l/>
+          <l>Ah ! tant d’images décaties !</l>
+          <l>Et tout ce beau froment en vain</l>
+          <l>Qui rêvait d’être des hosties.</l>
+          <l/>
+          <l>Sombre royaume souterrain,</l>
+          <l>Labyrinthe d’inconscience,</l>
+          <l>C’est là qu’on est un peu divin…</l>
+          <l/>
+          <l>Un rêve y dure, un vœu s’élance ;</l>
+          <l>Un espoir vit, quoique déçu ;</l>
+          <l>Un reflet à l’eau se fiance ;</l>
+          <l/>
+          <l>Et cela bouge à mon insu</l>
+          <l>Dans ce clair-obscur de moi-même :</l>
+          <l>Tout un Univers mal conçu,</l>
+          <l/>
+          <l>Et tout des songes sans baptême !</l>
+        </div>
+        <div>
+          <head>IV.</head>
+          <l/>
+          <l>Nous ne savons de notre âme que la surface !</l>
+          <l>C’est ce que sait, de l’eau, le nénuphar au fil</l>
+          <l>De cette eau ; ce que sait, d’un miroir, le profil</l>
+          <l>Qui s’y mire ; ah ! plonger dans l’étang, dans la glace !</l>
+          <l/>
+          <l>Nous ne savons de notre âme que ce que sait</l>
+          <l>De la mer un enfant qui joue avec la vague ;</l>
+          <l>Il suit au loin, dans la brume qui les élague,</l>
+          <l>Les vaisseaux que tantôt leur ombre devançait.</l>
+          <l/>
+          <l>Ah ! plonger dans la mer ! savoir tout de l’abîme :</l>
+          <l>Les monstres, les coraux, tant de trésors sombrés,</l>
+          <l>Et les zones du fond vertes comme des prés,</l>
+          <l>– Ce qu’on voyait à la surface est si minime !</l>
+          <l/>
+          <l>Et plonger dans notre âme – elle est un gouffre aussi –</l>
+          <l>Pour voir les rêves nus, le combat des pensées,</l>
+          <l>Et les projets qui sont des perles nuancées,</l>
+          <l>Tout le Moi sous-marin dans le cerveau transi.</l>
+          <l/>
+          <l>Pour le plongeur de l’âme y a-t-il une cloche ?</l>
+          <l>Ah ! oui ! descendre au fond de son propre destin,</l>
+          <l>Savoir ce qui se passe en cette mer sans fin,</l>
+          <l>Et démêler tout ce varech qui s’effiloche.</l>
+          <l/>
+          <l>Mais cette vie en profondeur, nous l’ignorons ;</l>
+          <l>Ne connaissant de notre âme que la surface,</l>
+          <l>Ce que sait de la mer vaste l’enfant qui passe</l>
+          <l>Et ne voit qu’à fleur d’eau bouger les vaisseaux prompts.</l>
+          <l/>
+        </div>
+        <div>
+          <head>V.</head>
+          <l/>
+          <l>Je rêve de plonger jusqu’au fond de mon âme</l>
+          <l>Où des rêves sombrés ont perdu leur trésor ;</l>
+          <l>Je soupçonne qu’il y a là des bagues d’or</l>
+          <l>Et des lingots à faire fondre dans la flamme</l>
+          <l>Pour y couler mon effigie ainsi qu’un roi.</l>
+          <l>Mais à quoi bon descendre en l’âme sous-marine ?</l>
+          <l>Surtout ne soyons pas le plongeur qui s’obstine ;</l>
+          <l>Laissons plutôt cette richesse sans emploi,</l>
+          <l>Car les profondes eaux de l’âme sont perfides !</l>
+          <l>Peut-être bien qu’au fond du cristal reculé</l>
+          <l>Je trouverais la coupe du roi de Thulé…</l>
+          <l>Mais quel émoi si je revenais les mains vides !</l>
+          <l/>
+        </div>
+        <div>
+          <head>VI.</head>
+          <l/>
+          <l>Nous connaissons si mal notre pauvre âme immense !</l>
+          <l>Elle est la mer, un infini, un élément,</l>
+          <l>Qui ne cesse jamais et toujours recommence ;</l>
+          <l>Mais nous n’en savons bien que le commencement.</l>
+          <l/>
+          <l>Notre âme ? Elle est aussi la grande Ville Bleue</l>
+          <l>Dont nous avons peur comme des enfants perdus</l>
+          <l>Qui, muets, sans oser dépasser la banlieue,</l>
+          <l>En regardent les toits et les clochers pointus.</l>
+          <l/>
+          <l>Effroi d’entrer dans cette ville, de descendre</l>
+          <l>Dans cette mer ; enfin de tout voir et savoir :</l>
+          <l>D’un ancien amour mort, ce qui reste de cendre ;</l>
+          <l>Ce qui subsiste de reflets dans le miroir.</l>
+          <l/>
+          <l>On ne connaît qu’un peu de soi, quelques pensées</l>
+          <l>Qu’on croit mener comme un berger bien obéi,</l>
+          <l>Mais c’est la lune, au loin, qui les a recensées</l>
+          <l>Et qui les conduit paître en son jardin bleui.</l>
+          <l/>
+          <l>On ne sait que le bord de l’âme, quelques rêves,</l>
+          <l>Un peu de flots venus au-devant de nos mains ;</l>
+          <l>Tandis qu’à l’infini se prolongent les grèves…</l>
+          <l>Des plongeurs ont cherché les trésors sous-marins.</l>
+          <l/>
+          <l>L’âme entend par moments des bruits ; elle soupçonne</l>
+          <l>Que c’est sa Destinée en marche à son insu</l>
+          <l>Qui circule parmi la Ville Bleue et sonne</l>
+          <l>Les cloches, pour un deuil qu’elle n’aura pas su.</l>
+          <l/>
+          <l>L’âme présume un peu sa vie intérieure ;</l>
+          <l>Elle devine un peu par instants qu’il y a</l>
+          <l>Quelques enfants de chœur, avec leur voix mineure,</l>
+          <l>Qui cheminent dans elle en blancs Alléluia.</l>
+          <l/>
+          <l>Vaste univers qu’elle contient et qu’elle ignore :</l>
+          <l>Tous ces élans, tous ces songes, tous ces essors ;</l>
+          <l>Tant de péchés nouveaux, une faune, une flore ;</l>
+          <l>Et des vaisseaux, au fond de l’eau, pleins de trésors !</l>
+          <l/>
+          <l>Clair-obscur traversé d’ombres somnambuliques ;</l>
+          <l>Désirs s’évertuant à sortir de la mer ;</l>
+          <l>Rêves anciens crus morts et devenus reliques ;</l>
+          <l>Fruits d’or où fait son œuvre un invisible ver.</l>
+          <l/>
+          <l>Tant de choses que l’âme aveugle continue :</l>
+          <l>Des rêves qu’elle sent et qu’elle ne voit pas ;</l>
+          <l>Une action sans but qui lui reste inconnue</l>
+          <l>Et dont on ne sait qui poursuit le canevas.</l>
+          <l/>
+          <l>L’âme s’effraie ! Ah ! son trop peu de clairvoyance</l>
+          <l>Devant cet infini dans elle refluant ;</l>
+          <l>Et son Entendement dans cette Inconscience</l>
+          <l>Heurte la mer et meurt comme un pauvre affluent !</l>
+          <l/>
+        </div>
+      </div>
+      <div>
+        <head>Épilogue</head>
+        <l/>
+        <l>Ici toute une vie invisible est enclose</l>
+        <l>Qui n’a laissé voir d’elle et d’un muet tourment</l>
+        <l>Que ce que laisse voir une eau d’aspect dormant</l>
+        <l>Où la lune mélancoliquement se pose.</l>
+        <l/>
+        <l>L’eau songe ; elle miroite ; et l’on dirait un ciel,</l>
+        <l>Tant elle s’orne d’étoiles silencieuses.</l>
+        <l>Ô leurre de ce miroir artificiel !</l>
+        <l>Apparence ! Sérénités fallacieuses !</l>
+        <l/>
+        <l>Sous la blanche surface immobile, cette eau</l>
+        <l>Souffre ; d’anciens chagrins la font glacée et noire ;</l>
+        <l>Qu’on imagine, sous de l’herbe, un vieux tombeau</l>
+        <l>De qui le mort, mal mort, garderait la mémoire.</l>
+        <l/>
+        <l>Ô mémoire, par qui même les clairs instants</l>
+        <l>Sont douloureux et comme assombris d’une vase ;</l>
+        <l>L’eau se dore de ciel ; le chœur des roseaux jase ;</l>
+        <l>Mais le manque de joie a duré trop longtemps.</l>
+        <l/>
+        <l>Et cette eau qu’est mon âme, en vain pacifiée,</l>
+        <l>Frémit d’une douleur qu’on dirait un secret,</l>
+        <l>Voix suprême d’une race qui disparaît,</l>
+        <l>Et plainte, au fond de l’eau, d’une cloche noyée !</l>
+      </div>
+    </body>
+  </text>
+</TEI>
