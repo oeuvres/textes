@@ -34,7 +34,7 @@
     <body>
       <div>
         <head>Tome premier</head>
-        <div>
+        <div type="chapter">
           <head>L’auteur anglais au public Français<note place="bottom">Voir ci-après le texte original.</note>.</head>
           <p>Il y a longtemps que je désirais voir publier en français une traduction complète et uniforme de mes œuvres.</p>
           <p>Jusqu’ici, moins heureux en France qu’en Allemagne, je n’ai pu être connu des lecteurs français qui ne sont pas familiarisés avec la langue anglaise que par des traductions isolées et partielles, publiées sans mon autorisation et sans mon contrôle, et dont je n’ai tiré aucun avantage personnel.</p>
@@ -44,7 +44,7 @@
           <p xml:lang="en" rend="right">Charles Dickens.</p>
           <p xml:lang="en">Londres, 17 janvier 1851</p>
         </div>
-        <div>
+        <div type="chapter">
           <head>Address of the english author to the french public.</head>
           <p>I have long been desirous that a complete French translation of the books I have written should be made, and should be published in an uniform series.</p>
           <p>Hitherto, less fortunate in France than in Germany, I have only been known to French readers not thoroughly acquainted with the English language, through occasional, fragmentary and unauthorized translations over which I have had no control, and from which I have derived no advantage.</p>
