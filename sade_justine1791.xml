@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI n="sade_justine2" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Justine 1799</title>
+                <title>Justine 1791</title>
                 <author key="Sade, Donatien Alphonse François de (1740-1814)">Sade</author>
             </titleStmt>
             <sourceDesc>
@@ -14,7 +14,7 @@
         </fileDesc>
         <profileDesc>
             <creation>
-                <date>1799</date>
+                <date>1791</date>
             </creation>
             <langUsage>
                 <language ident="fr"/>
