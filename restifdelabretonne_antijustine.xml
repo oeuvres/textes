@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2016-12-26T23:04:48+01:00-->
 <TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
+      <titleStmt>
+        <title>L’Anti-Justine</title>
+        <author>Restif de la Bretonne</author>
+      </titleStmt>
       <editionStmt/>
       <publicationStmt>
         <availability status="restricted"/>
@@ -13,7 +15,9 @@
       <sourceDesc/>
     </fileDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1798"/>
+      </creation>
       <langUsage>
         <language ident="fr"/>
       </langUsage>
