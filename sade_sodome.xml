@@ -2,7 +2,7 @@
 <?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-stylesheet type="text/css" href="http://svn.code.sf.net/p/algone/code/teibook/teibook.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="sade_sodome" xml:lang="fra">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="sade_sodome" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>

@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-09-13T18:09:03+02:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><anchor xml:id="_GoBack"/><lb/>title: Lettres persanes</title>
+        <title>Lettres persanes</title>
         <author>Montesquieu, Charles-Louis de Secondat (1689-1755 ; baron de La Brède et de) </author>
       </titleStmt>
       <editionStmt/>
@@ -20,7 +20,7 @@
     <profileDesc>
       <creation/>
       <langUsage>
-        <language ident="en"/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-09-13T18:08:27+02:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,7 @@
     <profileDesc>
       <creation/>
       <langUsage>
-        <language ident="en"/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
