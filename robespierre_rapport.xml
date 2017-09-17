@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-09-13T18:09:08+02:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><anchor xml:id="Tiers_Etat"/><anchor xml:id="essai_privileges"/>title : Rapport fait au nom du Comité de salut public, par Maximilien Robespierre, sur les rapports des idées religieuses et morales avec les principes républicains, et sur les fêtes nationales</title>
+        <title>Rapport du 7 mai 1794</title>
         <author>Robespierre, Maximilien (1758-1794)</author>
       </titleStmt>
       <editionStmt/>
@@ -26,6 +26,7 @@
   </teiHeader>
   <text>
     <body>
+      <head>Rapport fait au nom du Comité de salut public, par Maximilien Robespierre, sur les rapports des idées religieuses et morales avec les principes républicains, et sur les fêtes nationales</head>
       <p>Citoyens,</p>
       <p>C’est dans la prospérité que les peuples, ainsi que les particuliers, doivent, pour ainsi dire, se recueillir pour écouter, dans le silence des passions, la voix de la sagesse. Le moment où le bruit de nos victoires retentit dans l’univers est donc celui où les législateurs de la République française doivent veiller, avec une nouvelle sollicitude, sur eux-mêmes et sur la patrie, et affermir les principes sur lesquels doivent reposer la stabilité et la félicité de la République. Nous venons aujourd’hui soumettre à votre méditation des vérités profondes qui importent au bonheur des hommes, et vous proposer des mesures qui en découlent naturellement.</p>
       <p>Le monde moral, beaucoup plus encore que le monde physique, semble plein de contrastes et d’énigmes. La nature nous dit que l’homme est né pour la liberté, et l’expérience des siècles nous montre l’homme esclave. Ses droits sont écrits dans son cœur, et son humiliation dans l’histoire. Le genre humain respecte Caton, et se courbe sous le joug de César. La postérité honore la vertu de Brutus ; mais elle ne la permet que dans l’histoire ancienne. Les siècles et la terre sont le partage du crime et de la tyrannie ; la liberté et la vertu se sont à peine reposées un instant sur quelques points du globe. Sparte brille comme un éclair dans des ténèbres immenses……</p>
