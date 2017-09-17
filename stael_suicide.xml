@@ -7,7 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>Réflexions sur le suicide</title>
-        <author>Staël-Holstein, Germaine de (1766-1817)</author>
+        <author key="Staël-Holstein, Germaine de (1766-1817)">Madame de Staël</author>
       </titleStmt>
       <editionStmt>
         <respStmt>
@@ -18,7 +18,6 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date>2015</date>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/critique/stael_reflexions-suicide/</idno>
         <availability status="restricted"/>
       </publicationStmt>
       <sourceDesc>
@@ -30,7 +29,7 @@
         <date when="1813"/>
       </creation>
       <langUsage>
-        <language>fre</language>
+        <language ident="fr">français</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
